@@ -1,0 +1,6187 @@
+[
+    {
+        "name": "none",
+        "prompt": "{prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "",
+        "prompt": " {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Abachi",
+        "prompt": "Abachi {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Abaci",
+        "prompt": "Abaci {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Acacia",
+        "prompt": "Acacia {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "African blackwood",
+        "prompt": "African blackwood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "African ebony",
+        "prompt": "African ebony {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "African mahogany",
+        "prompt": "African mahogany {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "African Mahogany",
+        "prompt": "African Mahogany {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "African padauk",
+        "prompt": "African padauk {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Afzelia",
+        "prompt": "Afzelia {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Agba",
+        "prompt": "Agba {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Alder",
+        "prompt": "Alder {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Alerce",
+        "prompt": "Alerce {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Alpine ash",
+        "prompt": "Alpine ash {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "American basswood",
+        "prompt": "American basswood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "American beech",
+        "prompt": "American beech {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "American Birch",
+        "prompt": "American Birch {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "American Chestnut",
+        "prompt": "American Chestnut {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "American elm",
+        "prompt": "American elm {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "American hophornbeam",
+        "prompt": "American hophornbeam {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "American hornbeam",
+        "prompt": "American hornbeam {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "American Mahogany",
+        "prompt": "American Mahogany {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "American muskwood",
+        "prompt": "American muskwood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "American Red Alder",
+        "prompt": "American Red Alder {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "American sycamore",
+        "prompt": "American sycamore {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "American Whitewood",
+        "prompt": "American Whitewood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Andaman marblewood",
+        "prompt": "Andaman marblewood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Apple",
+        "prompt": "Apple {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Araucaria",
+        "prompt": "Araucaria {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Arizona cypress",
+        "prompt": "Arizona cypress {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ash",
+        "prompt": "Ash {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Aspen",
+        "prompt": "Aspen {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Astronium",
+        "prompt": "Astronium {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Atlantic white cedar",
+        "prompt": "Atlantic white cedar {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Australian blackwood",
+        "prompt": "Australian blackwood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Australian oak",
+        "prompt": "Australian oak {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Australian red cedar",
+        "prompt": "Australian red cedar {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ayan",
+        "prompt": "Ayan {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Balau",
+        "prompt": "Balau {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Bald cypress",
+        "prompt": "Bald cypress {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Balsa",
+        "prompt": "Balsa {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Balsam fir",
+        "prompt": "Balsam fir {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Balsam poplar",
+        "prompt": "Balsam poplar {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Bamboo",
+        "prompt": "Bamboo {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Banglay",
+        "prompt": "Banglay {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Basswood",
+        "prompt": "Basswood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Bead-tree",
+        "prompt": "Bead-tree {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Beech",
+        "prompt": "Beech {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Bigleaf mahogany",
+        "prompt": "Bigleaf mahogany {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Bigtooth aspen",
+        "prompt": "Bigtooth aspen {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Birch",
+        "prompt": "Birch {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Black alder",
+        "prompt": "Black alder {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Black ash",
+        "prompt": "Black ash {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Black birch",
+        "prompt": "Black birch {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Black cherry",
+        "prompt": "Black cherry {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Black ironwood",
+        "prompt": "Black ironwood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Black locust",
+        "prompt": "Black locust {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Black maple",
+        "prompt": "Black maple {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Black poplar",
+        "prompt": "Black poplar {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Black spruce",
+        "prompt": "Black spruce {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Black tupelo",
+        "prompt": "Black tupelo {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Black willow",
+        "prompt": "Black willow {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Blackbean",
+        "prompt": "Blackbean {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Blackbutt",
+        "prompt": "Blackbutt {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Bloodwood",
+        "prompt": "Bloodwood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Blue ash",
+        "prompt": "Blue ash {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Blue gum",
+        "prompt": "Blue gum {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Borneo ironwood",
+        "prompt": "Borneo ironwood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Boss\u00e9",
+        "prompt": "Boss\u00e9 {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Boxelder",
+        "prompt": "Boxelder {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Boxwood",
+        "prompt": "Boxwood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Brazilian ironwood",
+        "prompt": "Brazilian ironwood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Brazilian Pine",
+        "prompt": "Brazilian Pine {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Brazilian walnut",
+        "prompt": "Brazilian walnut {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Brazilwood",
+        "prompt": "Brazilwood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Brown mallet",
+        "prompt": "Brown mallet {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Buckeye",
+        "prompt": "Buckeye {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Bur oak",
+        "prompt": "Bur oak {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Butternut",
+        "prompt": "Butternut {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "California bay laurel",
+        "prompt": "California bay laurel {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Camphor tree",
+        "prompt": "Camphor tree {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Canyon live oak",
+        "prompt": "Canyon live oak {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Cape chestnut",
+        "prompt": "Cape chestnut {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Carapa",
+        "prompt": "Carapa {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Catalina ironwood",
+        "prompt": "Catalina ironwood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Catalpa",
+        "prompt": "Catalpa {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Cedar",
+        "prompt": "Cedar {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Celery-top pine",
+        "prompt": "Celery-top pine {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ceylon ebony",
+        "prompt": "Ceylon ebony {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ceylon ironwood",
+        "prompt": "Ceylon ironwood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ceylon satinwood",
+        "prompt": "Ceylon satinwood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Chamaecyparis",
+        "prompt": "Chamaecyparis {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Cherry",
+        "prompt": "Cherry {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Chestnut",
+        "prompt": "Chestnut {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Chestnut oak",
+        "prompt": "Chestnut oak {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Chinese mahogany",
+        "prompt": "Chinese mahogany {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Chinkapin oak",
+        "prompt": "Chinkapin oak {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Coachwood",
+        "prompt": "Coachwood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Coast Douglas-fir",
+        "prompt": "Coast Douglas-fir {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Coast redwood",
+        "prompt": "Coast redwood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Cocobolo",
+        "prompt": "Cocobolo {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Common ash",
+        "prompt": "Common ash {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Common walnut",
+        "prompt": "Common walnut {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Corkwood",
+        "prompt": "Corkwood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Cottonwood",
+        "prompt": "Cottonwood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Cricket-bat willow",
+        "prompt": "Cricket-bat willow {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Cucumbertree",
+        "prompt": "Cucumbertree {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Cumaru",
+        "prompt": "Cumaru {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Cupressus",
+        "prompt": "Cupressus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Cypress",
+        "prompt": "Cypress {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Dark bosse",
+        "prompt": "Dark bosse {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Dark Red Meranti",
+        "prompt": "Dark Red Meranti {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Desert ironwood",
+        "prompt": "Desert ironwood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Diesel tree",
+        "prompt": "Diesel tree {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Dogwood",
+        "prompt": "Dogwood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Douglas fir",
+        "prompt": "Douglas fir {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Douglas-fir",
+        "prompt": "Douglas-fir {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Downy birch",
+        "prompt": "Downy birch {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Eastern black oak",
+        "prompt": "Eastern black oak {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Eastern black walnut",
+        "prompt": "Eastern black walnut {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Eastern cottonwood",
+        "prompt": "Eastern cottonwood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Eastern hemlock",
+        "prompt": "Eastern hemlock {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Eastern red cedar",
+        "prompt": "Eastern red cedar {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Eastern Red Cedar",
+        "prompt": "Eastern Red Cedar {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Eastern white pine",
+        "prompt": "Eastern white pine {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ebony",
+        "prompt": "Ebony {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Eb\u00e8ne marbre",
+        "prompt": "Eb\u00e8ne marbre {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Elm",
+        "prompt": "Elm {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "English elm",
+        "prompt": "English elm {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "English oak",
+        "prompt": "English oak {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Eucalyptus",
+        "prompt": "Eucalyptus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "European aspen",
+        "prompt": "European aspen {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "European Birch",
+        "prompt": "European Birch {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "European black pine",
+        "prompt": "European black pine {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "European crabapple",
+        "prompt": "European crabapple {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "European larch",
+        "prompt": "European larch {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "European Oak",
+        "prompt": "European Oak {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "European pear",
+        "prompt": "European pear {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "European yew",
+        "prompt": "European yew {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Fir",
+        "prompt": "Fir {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Flooded gum",
+        "prompt": "Flooded gum {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Flowering dogwood",
+        "prompt": "Flowering dogwood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Genuine mahogany",
+        "prompt": "Genuine mahogany {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Giant ironwood",
+        "prompt": "Giant ironwood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Gon\u00e7alo alves",
+        "prompt": "Gon\u00e7alo alves {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Gray birch",
+        "prompt": "Gray birch {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Green ash",
+        "prompt": "Green ash {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Greenheart",
+        "prompt": "Greenheart {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Grenadilla",
+        "prompt": "Grenadilla {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Grey ironbark",
+        "prompt": "Grey ironbark {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Guaiacwood",
+        "prompt": "Guaiacwood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Guanandi",
+        "prompt": "Guanandi {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Gum",
+        "prompt": "Gum {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Gumbo limbo",
+        "prompt": "Gumbo limbo {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Hackberry",
+        "prompt": "Hackberry {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Hemlock",
+        "prompt": "Hemlock {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Hickory",
+        "prompt": "Hickory {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Hinoki cypress",
+        "prompt": "Hinoki cypress {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Holywood",
+        "prompt": "Holywood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Honey locust",
+        "prompt": "Honey locust {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Hoop pine",
+        "prompt": "Hoop pine {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Hornbeam",
+        "prompt": "Hornbeam {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Horse-chestnut",
+        "prompt": "Horse-chestnut {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Huon pine",
+        "prompt": "Huon pine {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Hybrid black poplar",
+        "prompt": "Hybrid black poplar {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Indian mahogany",
+        "prompt": "Indian mahogany {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Indian sandalwood",
+        "prompt": "Indian sandalwood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Indonesian mahogany",
+        "prompt": "Indonesian mahogany {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ipe",
+        "prompt": "Ipe {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ip\u00ea",
+        "prompt": "Ip\u00ea {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Iroko",
+        "prompt": "Iroko {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ironwood",
+        "prompt": "Ironwood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Jacarand\u00e1 de Brasil",
+        "prompt": "Jacarand\u00e1 de Brasil {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Jacarand\u00e1-boca-de-sapo",
+        "prompt": "Jacarand\u00e1-boca-de-sapo {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Jack pine",
+        "prompt": "Jack pine {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Japanese larch",
+        "prompt": "Japanese larch {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Japanese nutmeg-yew",
+        "prompt": "Japanese nutmeg-yew {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Jarrah",
+        "prompt": "Jarrah {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Jatob\u00e1",
+        "prompt": "Jatob\u00e1 {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Juniper",
+        "prompt": "Juniper {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Karri",
+        "prompt": "Karri {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Kauri",
+        "prompt": "Kauri {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Kingwood",
+        "prompt": "Kingwood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Kosipo",
+        "prompt": "Kosipo {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Kwila",
+        "prompt": "Kwila {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Lacewood",
+        "prompt": "Lacewood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Larch",
+        "prompt": "Larch {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Laurel oak",
+        "prompt": "Laurel oak {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Lawson's cypress",
+        "prompt": "Lawson's cypress {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Lebombo ironwood",
+        "prompt": "Lebombo ironwood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Light bosse",
+        "prompt": "Light bosse {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Light Red Meranti",
+        "prompt": "Light Red Meranti {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Lignum vitae",
+        "prompt": "Lignum vitae {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Limba",
+        "prompt": "Limba {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Lime wood",
+        "prompt": "Lime wood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Linden",
+        "prompt": "Linden {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Loblolly pine",
+        "prompt": "Loblolly pine {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Lodgepole pine",
+        "prompt": "Lodgepole pine {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "London plane",
+        "prompt": "London plane {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Longleaf pine",
+        "prompt": "Longleaf pine {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Lyptus",
+        "prompt": "Lyptus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Mahogany",
+        "prompt": "Mahogany {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Maple",
+        "prompt": "Maple {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Marblewood",
+        "prompt": "Marblewood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Marri",
+        "prompt": "Marri {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Mediterranean cypress",
+        "prompt": "Mediterranean cypress {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Meranti",
+        "prompt": "Meranti {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Merbau",
+        "prompt": "Merbau {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Monkey puzzle tree",
+        "prompt": "Monkey puzzle tree {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Monterey pine",
+        "prompt": "Monterey pine {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Mopane",
+        "prompt": "Mopane {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Mountain ash",
+        "prompt": "Mountain ash {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Mountain hemlock",
+        "prompt": "Mountain hemlock {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Mountain mahogany",
+        "prompt": "Mountain mahogany {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Mugga",
+        "prompt": "Mugga {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Noble fir",
+        "prompt": "Noble fir {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Nootka cypress",
+        "prompt": "Nootka cypress {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Northern red oak",
+        "prompt": "Northern red oak {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Northern silky oak",
+        "prompt": "Northern silky oak {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Northern white cedar",
+        "prompt": "Northern white cedar {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Norway spruce",
+        "prompt": "Norway spruce {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Nuttall's oak",
+        "prompt": "Nuttall's oak {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Oak",
+        "prompt": "Oak {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ohio buckeye",
+        "prompt": "Ohio buckeye {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Okoum\u00e9",
+        "prompt": "Okoum\u00e9 {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Olive",
+        "prompt": "Olive {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Olive wood",
+        "prompt": "Olive wood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Oregon ash",
+        "prompt": "Oregon ash {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Oregon Pine",
+        "prompt": "Oregon Pine {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Overcup oak",
+        "prompt": "Overcup oak {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Pacific Coast mahogany",
+        "prompt": "Pacific Coast mahogany {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Pacific dogwood",
+        "prompt": "Pacific dogwood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Pacific silver fir",
+        "prompt": "Pacific silver fir {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Palmwood",
+        "prompt": "Palmwood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Panga-panga",
+        "prompt": "Panga-panga {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Paper birch",
+        "prompt": "Paper birch {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Paran\u00e1 pine",
+        "prompt": "Paran\u00e1 pine {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Pear",
+        "prompt": "Pear {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Pear tree",
+        "prompt": "Pear tree {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Pecan",
+        "prompt": "Pecan {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Persian ironwood",
+        "prompt": "Persian ironwood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Philippine mahogany",
+        "prompt": "Philippine mahogany {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Pignut hickory",
+        "prompt": "Pignut hickory {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Pine",
+        "prompt": "Pine {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Pink ivory",
+        "prompt": "Pink ivory {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Pitch pine",
+        "prompt": "Pitch pine {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Plane tree",
+        "prompt": "Plane tree {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ponderosa pine",
+        "prompt": "Ponderosa pine {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Poplar",
+        "prompt": "Poplar {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Post oak",
+        "prompt": "Post oak {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Prunus",
+        "prompt": "Prunus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Pumpkin ash",
+        "prompt": "Pumpkin ash {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Purpleheart",
+        "prompt": "Purpleheart {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Quaking aspen",
+        "prompt": "Quaking aspen {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Queensland kauri",
+        "prompt": "Queensland kauri {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Queensland maple",
+        "prompt": "Queensland maple {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Queensland walnut",
+        "prompt": "Queensland walnut {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Radiata Pine",
+        "prompt": "Radiata Pine {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ramin",
+        "prompt": "Ramin {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Red alder",
+        "prompt": "Red alder {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Red Cedar",
+        "prompt": "Red Cedar {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Red cherry",
+        "prompt": "Red cherry {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Red mahogany",
+        "prompt": "Red mahogany {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Red maple",
+        "prompt": "Red maple {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Red oak",
+        "prompt": "Red oak {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Red pine",
+        "prompt": "Red pine {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Red spruce",
+        "prompt": "Red spruce {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Redheart",
+        "prompt": "Redheart {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Redwood",
+        "prompt": "Redwood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Rimu",
+        "prompt": "Rimu {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "River red gum",
+        "prompt": "River red gum {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Robinia pseudoacacia",
+        "prompt": "Robinia pseudoacacia {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Rock elm",
+        "prompt": "Rock elm {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Rocky Mountain Douglas-fir",
+        "prompt": "Rocky Mountain Douglas-fir {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Rosewood",
+        "prompt": "Rosewood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Rubberwood",
+        "prompt": "Rubberwood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Sal",
+        "prompt": "Sal {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Sandalwood",
+        "prompt": "Sandalwood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Sapele",
+        "prompt": "Sapele {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Sassafras",
+        "prompt": "Sassafras {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Satin\u00e9",
+        "prompt": "Satin\u00e9 {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Scots pine",
+        "prompt": "Scots pine {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Sequoia",
+        "prompt": "Sequoia {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Shagbark hickory",
+        "prompt": "Shagbark hickory {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Shellbark hickory",
+        "prompt": "Shellbark hickory {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Sheoak",
+        "prompt": "Sheoak {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Shortleaf pine",
+        "prompt": "Shortleaf pine {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Silky oak",
+        "prompt": "Silky oak {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Silver birch",
+        "prompt": "Silver birch {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Silver fir",
+        "prompt": "Silver fir {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Silver maple",
+        "prompt": "Silver maple {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Silver wattle",
+        "prompt": "Silver wattle {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Sipo",
+        "prompt": "Sipo {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Sitka spruce",
+        "prompt": "Sitka spruce {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Slippery elm",
+        "prompt": "Slippery elm {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Sourwood",
+        "prompt": "Sourwood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Southern live oak",
+        "prompt": "Southern live oak {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Southern red oak",
+        "prompt": "Southern red oak {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Southern sassafras",
+        "prompt": "Southern sassafras {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Southern yellow pine",
+        "prompt": "Southern yellow pine {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Southern Yellow Pine",
+        "prompt": "Southern Yellow Pine {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Spanish Cedar",
+        "prompt": "Spanish Cedar {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Spanish elm",
+        "prompt": "Spanish elm {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Spanish-cedar",
+        "prompt": "Spanish-cedar {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Spruce",
+        "prompt": "Spruce {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Sugar maple",
+        "prompt": "Sugar maple {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Sugar pine",
+        "prompt": "Sugar pine {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Sugi",
+        "prompt": "Sugi {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Swamp chestnut oak",
+        "prompt": "Swamp chestnut oak {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Swamp cottonwood",
+        "prompt": "Swamp cottonwood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Swamp mahogany",
+        "prompt": "Swamp mahogany {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Swamp white oak",
+        "prompt": "Swamp white oak {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Sweet birch",
+        "prompt": "Sweet birch {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Sweetgum",
+        "prompt": "Sweetgum {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Sycamore maple",
+        "prompt": "Sycamore maple {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Sydney blue gum",
+        "prompt": "Sydney blue gum {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Takian",
+        "prompt": "Takian {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Tallowwood",
+        "prompt": "Tallowwood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Tamarack",
+        "prompt": "Tamarack {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Tamboti",
+        "prompt": "Tamboti {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Taxodium",
+        "prompt": "Taxodium {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Teak",
+        "prompt": "Teak {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Thailand rosewood",
+        "prompt": "Thailand rosewood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Tiama",
+        "prompt": "Tiama {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Tulip tree",
+        "prompt": "Tulip tree {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Tulipwood",
+        "prompt": "Tulipwood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Tupelo",
+        "prompt": "Tupelo {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Turpentine",
+        "prompt": "Turpentine {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Walnut",
+        "prompt": "Walnut {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Wandoo",
+        "prompt": "Wandoo {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Water oak",
+        "prompt": "Water oak {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Weeping willow",
+        "prompt": "Weeping willow {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Wenge",
+        "prompt": "Wenge {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "West Indies mahogany",
+        "prompt": "West Indies mahogany {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Western hemlock",
+        "prompt": "Western hemlock {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Western larch",
+        "prompt": "Western larch {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Western red cedar",
+        "prompt": "Western red cedar {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Western Red Cedar",
+        "prompt": "Western Red Cedar {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Western white pine",
+        "prompt": "Western white pine {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "White ash",
+        "prompt": "White ash {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "White basswood",
+        "prompt": "White basswood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "White Elm",
+        "prompt": "White Elm {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "White mahogany",
+        "prompt": "White mahogany {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "White oak",
+        "prompt": "White oak {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "White pine",
+        "prompt": "White pine {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "White spruce",
+        "prompt": "White spruce {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "White willow",
+        "prompt": "White willow {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Wild Apple",
+        "prompt": "Wild Apple {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Wild cherry",
+        "prompt": "Wild cherry {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Wild Oak",
+        "prompt": "Wild Oak {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Wild Pear",
+        "prompt": "Wild Pear {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Willow",
+        "prompt": "Willow {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Willow oak",
+        "prompt": "Willow oak {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Wych elm",
+        "prompt": "Wych elm {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Yellow birch",
+        "prompt": "Yellow birch {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Yellow buckeye",
+        "prompt": "Yellow buckeye {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Yellow Cedar",
+        "prompt": "Yellow Cedar {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Yellow lapacho",
+        "prompt": "Yellow lapacho {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Yew",
+        "prompt": "Yew {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "York gum",
+        "prompt": "York gum {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Zingana",
+        "prompt": "Zingana {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Reinforced Concrete",
+        "prompt": "Reinforced Concrete {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Glass Fiber Reinforced Concrete",
+        "prompt": "Glass Fiber Reinforced Concrete {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Translucent Concrete",
+        "prompt": "Translucent Concrete {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Engineered Wood",
+        "prompt": "Engineered Wood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Plywood",
+        "prompt": "Plywood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Engineered Bamboo",
+        "prompt": "Engineered Bamboo {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Parquetry",
+        "prompt": "Parquetry {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Fiberglass",
+        "prompt": "Fiberglass {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ceramic Matrix Composite",
+        "prompt": "Ceramic Matrix Composite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Metal Matrix Composite",
+        "prompt": "Metal Matrix Composite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Carbon Fiber Reinforced Polymer",
+        "prompt": "Carbon Fiber Reinforced Polymer {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Sandwich Panel",
+        "prompt": "Sandwich Panel {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Composite Honeycomb",
+        "prompt": "Composite Honeycomb {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Papier-mache",
+        "prompt": "Papier-mache {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Plastic Coated Paper",
+        "prompt": "Plastic Coated Paper {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Syntactic Foams",
+        "prompt": "Syntactic Foams {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Wood-plastic Composite",
+        "prompt": "Wood-plastic Composite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Pykrete",
+        "prompt": "Pykrete {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Cement-bonded Wood Fiber",
+        "prompt": "Cement-bonded Wood Fiber {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Achroite",
+        "prompt": "Achroite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Actinolite",
+        "prompt": "Actinolite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Adamite",
+        "prompt": "Adamite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Adularia",
+        "prompt": "Adularia {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Aegirine",
+        "prompt": "Aegirine {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Afghanite",
+        "prompt": "Afghanite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Agate",
+        "prompt": "Agate {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Agrellite",
+        "prompt": "Agrellite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Albite",
+        "prompt": "Albite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Alexandrite",
+        "prompt": "Alexandrite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "alexandrite",
+        "prompt": "alexandrite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Algodonite",
+        "prompt": "Algodonite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Almandine",
+        "prompt": "Almandine {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Alunite",
+        "prompt": "Alunite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Amazonite",
+        "prompt": "Amazonite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Amber",
+        "prompt": "Amber {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Amblygonite",
+        "prompt": "Amblygonite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Amethyst",
+        "prompt": "Amethyst {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ametrine",
+        "prompt": "Ametrine {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ammolite",
+        "prompt": "Ammolite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ammonoidea",
+        "prompt": "Ammonoidea {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Analcime",
+        "prompt": "Analcime {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Anatase",
+        "prompt": "Anatase {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Andalusite",
+        "prompt": "Andalusite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Andesine",
+        "prompt": "Andesine {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Andradite",
+        "prompt": "Andradite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Anglesite",
+        "prompt": "Anglesite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Anhydrite",
+        "prompt": "Anhydrite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Annabergite",
+        "prompt": "Annabergite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Anorthite",
+        "prompt": "Anorthite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Anorthoclase",
+        "prompt": "Anorthoclase {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Anthracite",
+        "prompt": "Anthracite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Antigorite",
+        "prompt": "Antigorite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Anyolite",
+        "prompt": "Anyolite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Apache tears",
+        "prompt": "Apache tears {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Apatite",
+        "prompt": "Apatite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Apophyllite",
+        "prompt": "Apophyllite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Aquamarine",
+        "prompt": "Aquamarine {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Aragonite",
+        "prompt": "Aragonite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Arfvedsonite",
+        "prompt": "Arfvedsonite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Asbestos",
+        "prompt": "Asbestos {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Astrophyllite",
+        "prompt": "Astrophyllite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Atacamite",
+        "prompt": "Atacamite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Augelite",
+        "prompt": "Augelite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Austinite",
+        "prompt": "Austinite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Aventurine",
+        "prompt": "Aventurine {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Azurite",
+        "prompt": "Azurite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Azurmalachite",
+        "prompt": "Azurmalachite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ballas",
+        "prompt": "Ballas {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Baryte",
+        "prompt": "Baryte {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Bastnaesite",
+        "prompt": "Bastnaesite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Bauxite",
+        "prompt": "Bauxite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Bayldonite",
+        "prompt": "Bayldonite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Benitoite",
+        "prompt": "Benitoite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Beryl",
+        "prompt": "Beryl {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Beryllium",
+        "prompt": "Beryllium {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Beryllonite",
+        "prompt": "Beryllonite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Beudantite",
+        "prompt": "Beudantite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Biotite",
+        "prompt": "Biotite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Bismutotantalite",
+        "prompt": "Bismutotantalite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Bloodstone",
+        "prompt": "Bloodstone {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Boleite",
+        "prompt": "Boleite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Bone",
+        "prompt": "Bone {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Boracite",
+        "prompt": "Boracite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Bornite",
+        "prompt": "Bornite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Bort",
+        "prompt": "Bort {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Bowenite",
+        "prompt": "Bowenite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Brazilianite",
+        "prompt": "Brazilianite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Breithauptite",
+        "prompt": "Breithauptite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Bronzite",
+        "prompt": "Bronzite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Brookite",
+        "prompt": "Brookite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Brucite",
+        "prompt": "Brucite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Bustamite",
+        "prompt": "Bustamite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Bytownite",
+        "prompt": "Bytownite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Calcareous concretions",
+        "prompt": "Calcareous concretions {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Calcite",
+        "prompt": "Calcite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Caledonite",
+        "prompt": "Caledonite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Californite",
+        "prompt": "Californite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Canasite",
+        "prompt": "Canasite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Cancrinite",
+        "prompt": "Cancrinite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Carletonite",
+        "prompt": "Carletonite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Carnallite",
+        "prompt": "Carnallite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Carnelian",
+        "prompt": "Carnelian {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Cassiterite",
+        "prompt": "Cassiterite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Catapleiite",
+        "prompt": "Catapleiite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Cavansite",
+        "prompt": "Cavansite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Celestite",
+        "prompt": "Celestite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Celsian",
+        "prompt": "Celsian {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ceruleite",
+        "prompt": "Ceruleite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Cerussite",
+        "prompt": "Cerussite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ceylonite",
+        "prompt": "Ceylonite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Chabazite",
+        "prompt": "Chabazite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Chalcedony",
+        "prompt": "Chalcedony {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Chalcopyrite",
+        "prompt": "Chalcopyrite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Chambersite",
+        "prompt": "Chambersite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Charlesite",
+        "prompt": "Charlesite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Charoite",
+        "prompt": "Charoite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Chiastolite",
+        "prompt": "Chiastolite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Childrenite",
+        "prompt": "Childrenite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Chiolite",
+        "prompt": "Chiolite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Chlorastrolite",
+        "prompt": "Chlorastrolite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Chloromelanite",
+        "prompt": "Chloromelanite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Chondrodite",
+        "prompt": "Chondrodite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Chrome",
+        "prompt": "Chrome {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Chrome chalcedony",
+        "prompt": "Chrome chalcedony {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Chromite",
+        "prompt": "Chromite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Chrysoberyl",
+        "prompt": "Chrysoberyl {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Chrysocolla",
+        "prompt": "Chrysocolla {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Chrysoprase",
+        "prompt": "Chrysoprase {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Chrysotile",
+        "prompt": "Chrysotile {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Cinnabar",
+        "prompt": "Cinnabar {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Citrine",
+        "prompt": "Citrine {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Clinochlore",
+        "prompt": "Clinochlore {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Clinohumite",
+        "prompt": "Clinohumite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Clinozoisite",
+        "prompt": "Clinozoisite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Clintonite",
+        "prompt": "Clintonite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Cobaltite",
+        "prompt": "Cobaltite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Colemanite",
+        "prompt": "Colemanite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Copal",
+        "prompt": "Copal {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Coral",
+        "prompt": "Coral {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Cordierite",
+        "prompt": "Cordierite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Cornwallite",
+        "prompt": "Cornwallite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Corundum",
+        "prompt": "Corundum {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "corundum",
+        "prompt": "corundum {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Covellite",
+        "prompt": "Covellite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Creedite",
+        "prompt": "Creedite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Crocidolite",
+        "prompt": "Crocidolite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Crocoite",
+        "prompt": "Crocoite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Cryolite",
+        "prompt": "Cryolite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Cubic zirconia",
+        "prompt": "Cubic zirconia {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Cuprite",
+        "prompt": "Cuprite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Cymophane",
+        "prompt": "Cymophane {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Danburite",
+        "prompt": "Danburite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Datolite",
+        "prompt": "Datolite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Demantoid",
+        "prompt": "Demantoid {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Dendritic agate",
+        "prompt": "Dendritic agate {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Descloizite",
+        "prompt": "Descloizite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Diamond",
+        "prompt": "Diamond {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "diamond",
+        "prompt": "diamond {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Diaspore",
+        "prompt": "Diaspore {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Dickinsonite",
+        "prompt": "Dickinsonite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Diopside",
+        "prompt": "Diopside {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Dioptase",
+        "prompt": "Dioptase {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Dolomite",
+        "prompt": "Dolomite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Dravite",
+        "prompt": "Dravite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Druzy",
+        "prompt": "Druzy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Dumortierite",
+        "prompt": "Dumortierite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Eilat stone",
+        "prompt": "Eilat stone {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ekanite",
+        "prompt": "Ekanite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Elbaite",
+        "prompt": "Elbaite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Emerald",
+        "prompt": "Emerald {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "emerald",
+        "prompt": "emerald {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Enstatite",
+        "prompt": "Enstatite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Eosphorite",
+        "prompt": "Eosphorite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Epidosite",
+        "prompt": "Epidosite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Epidote",
+        "prompt": "Epidote {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Erythrite",
+        "prompt": "Erythrite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Esperite",
+        "prompt": "Esperite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ettringite",
+        "prompt": "Ettringite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Euclase",
+        "prompt": "Euclase {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Eudialyte",
+        "prompt": "Eudialyte {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Euxenite",
+        "prompt": "Euxenite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Fayalite",
+        "prompt": "Fayalite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Fergusonite",
+        "prompt": "Fergusonite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ferroaxinite",
+        "prompt": "Ferroaxinite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Fire agate",
+        "prompt": "Fire agate {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Fire opal",
+        "prompt": "Fire opal {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Flint",
+        "prompt": "Flint {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Fluor-liddicoatite",
+        "prompt": "Fluor-liddicoatite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Fluorapatite",
+        "prompt": "Fluorapatite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Fluorapophyllite",
+        "prompt": "Fluorapophyllite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Fluorite",
+        "prompt": "Fluorite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Fordite",
+        "prompt": "Fordite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Forsterite",
+        "prompt": "Forsterite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Friedelite",
+        "prompt": "Friedelite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Fuchsite",
+        "prompt": "Fuchsite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Gadolinite",
+        "prompt": "Gadolinite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Gadolinium gallium garnet",
+        "prompt": "Gadolinium gallium garnet {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Gahnite",
+        "prompt": "Gahnite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Gahnospinel",
+        "prompt": "Gahnospinel {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Garnet",
+        "prompt": "Garnet {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Gaspeite",
+        "prompt": "Gaspeite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Gaylussite",
+        "prompt": "Gaylussite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Gibbsite",
+        "prompt": "Gibbsite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Glaucophane",
+        "prompt": "Glaucophane {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Glimmerite",
+        "prompt": "Glimmerite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Goethite",
+        "prompt": "Goethite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Golden beryl",
+        "prompt": "Golden beryl {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Golden sheen sapphire",
+        "prompt": "Golden sheen sapphire {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Goldstone",
+        "prompt": "Goldstone {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Goosecreekite",
+        "prompt": "Goosecreekite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Goshenite",
+        "prompt": "Goshenite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Grandidierite",
+        "prompt": "Grandidierite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Grossular",
+        "prompt": "Grossular {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Gypsum",
+        "prompt": "Gypsum {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Gyrolite",
+        "prompt": "Gyrolite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Hackmanite",
+        "prompt": "Hackmanite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Halite",
+        "prompt": "Halite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Hambergite",
+        "prompt": "Hambergite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Hanksite",
+        "prompt": "Hanksite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Hardystonite",
+        "prompt": "Hardystonite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Hauyne",
+        "prompt": "Hauyne {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Hawk's eye",
+        "prompt": "Hawk's eye {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Helenite",
+        "prompt": "Helenite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Heliodor",
+        "prompt": "Heliodor {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Hematite",
+        "prompt": "Hematite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Hemimorphite",
+        "prompt": "Hemimorphite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Herderite",
+        "prompt": "Herderite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Herkimer quartz",
+        "prompt": "Herkimer quartz {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Hessonite",
+        "prompt": "Hessonite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Hexagonite",
+        "prompt": "Hexagonite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Hibonite",
+        "prompt": "Hibonite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Hiddenite",
+        "prompt": "Hiddenite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Hodgkinsonite",
+        "prompt": "Hodgkinsonite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Holtite",
+        "prompt": "Holtite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Howlite",
+        "prompt": "Howlite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Huebnerite",
+        "prompt": "Huebnerite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Humite",
+        "prompt": "Humite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Hureaulite",
+        "prompt": "Hureaulite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Hurlbutite",
+        "prompt": "Hurlbutite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Hydrogrossular",
+        "prompt": "Hydrogrossular {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Hyperitdiabas",
+        "prompt": "Hyperitdiabas {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Hypersthene",
+        "prompt": "Hypersthene {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Iddingsite",
+        "prompt": "Iddingsite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ilmenite",
+        "prompt": "Ilmenite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Inderite",
+        "prompt": "Inderite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Indicolite",
+        "prompt": "Indicolite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Iolite",
+        "prompt": "Iolite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Iris agate",
+        "prompt": "Iris agate {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ivory",
+        "prompt": "Ivory {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Jacinth",
+        "prompt": "Jacinth {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Jade",
+        "prompt": "Jade {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Jadeite",
+        "prompt": "Jadeite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Jasper",
+        "prompt": "Jasper {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Jeremejevite",
+        "prompt": "Jeremejevite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Jet",
+        "prompt": "Jet {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Kainite",
+        "prompt": "Kainite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Kaolinite",
+        "prompt": "Kaolinite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Kimberlite",
+        "prompt": "Kimberlite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Kornerupine",
+        "prompt": "Kornerupine {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Kunzite",
+        "prompt": "Kunzite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Kurnakovite",
+        "prompt": "Kurnakovite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Kutnohorite",
+        "prompt": "Kutnohorite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Kyanite",
+        "prompt": "Kyanite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "K\u00e4mmererite",
+        "prompt": "K\u00e4mmererite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Labradorite",
+        "prompt": "Labradorite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Lamproite",
+        "prompt": "Lamproite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Langbeinite",
+        "prompt": "Langbeinite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Lapis lazuli",
+        "prompt": "Lapis lazuli {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Larimar",
+        "prompt": "Larimar {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Lawsonite",
+        "prompt": "Lawsonite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Lazulite",
+        "prompt": "Lazulite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Lazurite",
+        "prompt": "Lazurite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Legrandite",
+        "prompt": "Legrandite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Lepidolite",
+        "prompt": "Lepidolite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Leucite",
+        "prompt": "Leucite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Leucophanite",
+        "prompt": "Leucophanite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Libyan desert glass",
+        "prompt": "Libyan desert glass {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Linarite",
+        "prompt": "Linarite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Lizardite",
+        "prompt": "Lizardite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Llanite",
+        "prompt": "Llanite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Londonite",
+        "prompt": "Londonite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ludlamite",
+        "prompt": "Ludlamite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ludwigite",
+        "prompt": "Ludwigite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Magnesioaxinite",
+        "prompt": "Magnesioaxinite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Magnesite",
+        "prompt": "Magnesite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Malachite",
+        "prompt": "Malachite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Malaia garnet",
+        "prompt": "Malaia garnet {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Manganaxinite",
+        "prompt": "Manganaxinite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Manganoan calcite",
+        "prompt": "Manganoan calcite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Marcasite",
+        "prompt": "Marcasite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Marialite",
+        "prompt": "Marialite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Maw sit sit",
+        "prompt": "Maw sit sit {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Maxixe",
+        "prompt": "Maxixe {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Meionite",
+        "prompt": "Meionite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Melanite",
+        "prompt": "Melanite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Meliphanite",
+        "prompt": "Meliphanite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Mellite",
+        "prompt": "Mellite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Mesolite",
+        "prompt": "Mesolite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Metal-coated crystals",
+        "prompt": "Metal-coated crystals {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Microcline",
+        "prompt": "Microcline {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Microlite",
+        "prompt": "Microlite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Milarite",
+        "prompt": "Milarite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Milky quartz",
+        "prompt": "Milky quartz {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Millerite",
+        "prompt": "Millerite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Mimetite",
+        "prompt": "Mimetite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "moissanite",
+        "prompt": "moissanite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Moldavite",
+        "prompt": "Moldavite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Monazite",
+        "prompt": "Monazite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Moonstone",
+        "prompt": "Moonstone {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Mordenite",
+        "prompt": "Mordenite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Morganite",
+        "prompt": "Morganite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Moss agate",
+        "prompt": "Moss agate {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Moss opal",
+        "prompt": "Moss opal {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Mottramite",
+        "prompt": "Mottramite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Muscovite",
+        "prompt": "Muscovite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Musgravite",
+        "prompt": "Musgravite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Nacre",
+        "prompt": "Nacre {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Nambulite",
+        "prompt": "Nambulite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Narsarsukite",
+        "prompt": "Narsarsukite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Natrolite",
+        "prompt": "Natrolite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Nepheline",
+        "prompt": "Nepheline {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Nephrite",
+        "prompt": "Nephrite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Neptunite",
+        "prompt": "Neptunite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Nickeline",
+        "prompt": "Nickeline {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Nosean",
+        "prompt": "Nosean {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Nuummite",
+        "prompt": "Nuummite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Obsidian",
+        "prompt": "Obsidian {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Olenite",
+        "prompt": "Olenite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Oligoclase",
+        "prompt": "Oligoclase {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Olivine",
+        "prompt": "Olivine {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Onyx",
+        "prompt": "Onyx {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Opal",
+        "prompt": "Opal {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "opal",
+        "prompt": "opal {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Operculum",
+        "prompt": "Operculum {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Oregon sunstone",
+        "prompt": "Oregon sunstone {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Orthoclase",
+        "prompt": "Orthoclase {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Padparadscha",
+        "prompt": "Padparadscha {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Painite",
+        "prompt": "Painite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Pallasite",
+        "prompt": "Pallasite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Palygorskite",
+        "prompt": "Palygorskite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Papagoite",
+        "prompt": "Papagoite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Paraiba",
+        "prompt": "Paraiba {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Pargasite",
+        "prompt": "Pargasite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Parisite",
+        "prompt": "Parisite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Pearl",
+        "prompt": "Pearl {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Pectolite",
+        "prompt": "Pectolite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Pentlandite",
+        "prompt": "Pentlandite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Periclase",
+        "prompt": "Periclase {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Peridot",
+        "prompt": "Peridot {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Peridotite",
+        "prompt": "Peridotite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Peristerite",
+        "prompt": "Peristerite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Perthite",
+        "prompt": "Perthite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Petalite",
+        "prompt": "Petalite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Petrified wood",
+        "prompt": "Petrified wood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Pezzottaite",
+        "prompt": "Pezzottaite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Phenakite",
+        "prompt": "Phenakite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Phlogopite",
+        "prompt": "Phlogopite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Phosgenite",
+        "prompt": "Phosgenite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Phosphophyllite",
+        "prompt": "Phosphophyllite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Phosphosiderite",
+        "prompt": "Phosphosiderite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Piemontite",
+        "prompt": "Piemontite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Pietersite",
+        "prompt": "Pietersite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Plagioclase",
+        "prompt": "Plagioclase {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Plumbogummite",
+        "prompt": "Plumbogummite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Pollucite",
+        "prompt": "Pollucite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Polyhalite",
+        "prompt": "Polyhalite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Poudretteite",
+        "prompt": "Poudretteite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Powellite",
+        "prompt": "Powellite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Prasiolite",
+        "prompt": "Prasiolite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Prehnite",
+        "prompt": "Prehnite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Prismatine",
+        "prompt": "Prismatine {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Prosopite",
+        "prompt": "Prosopite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Proustite",
+        "prompt": "Proustite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Psilomelane",
+        "prompt": "Psilomelane {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Pumpellyite",
+        "prompt": "Pumpellyite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Purpurite",
+        "prompt": "Purpurite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Pyralspite",
+        "prompt": "Pyralspite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Pyrargyrite",
+        "prompt": "Pyrargyrite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Pyrite",
+        "prompt": "Pyrite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Pyromorphite",
+        "prompt": "Pyromorphite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Pyrope",
+        "prompt": "Pyrope {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Pyrophyllite",
+        "prompt": "Pyrophyllite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Pyroxmangite",
+        "prompt": "Pyroxmangite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Pyrrhotite",
+        "prompt": "Pyrrhotite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Quartz",
+        "prompt": "Quartz {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Quartzite",
+        "prompt": "Quartzite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Radiolarite",
+        "prompt": "Radiolarite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Rainbow",
+        "prompt": "Rainbow {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Rainbow lattice sunstone",
+        "prompt": "Rainbow lattice sunstone {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Realgar",
+        "prompt": "Realgar {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Red beryl",
+        "prompt": "Red beryl {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Rhodizite",
+        "prompt": "Rhodizite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Rhodochrosite",
+        "prompt": "Rhodochrosite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Rhodolite",
+        "prompt": "Rhodolite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Rhodonite",
+        "prompt": "Rhodonite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Richterite",
+        "prompt": "Richterite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Riebeckite",
+        "prompt": "Riebeckite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Rock crystal",
+        "prompt": "Rock crystal {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Rosasite",
+        "prompt": "Rosasite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Rose quartz",
+        "prompt": "Rose quartz {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Rossmanite",
+        "prompt": "Rossmanite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Rubellite",
+        "prompt": "Rubellite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ruby",
+        "prompt": "Ruby {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Rutile",
+        "prompt": "Rutile {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Samarskite",
+        "prompt": "Samarskite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Sanidine",
+        "prompt": "Sanidine {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Sapphire",
+        "prompt": "Sapphire {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Sapphirine",
+        "prompt": "Sapphirine {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Sarcolite",
+        "prompt": "Sarcolite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Sard",
+        "prompt": "Sard {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Sardonyx",
+        "prompt": "Sardonyx {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Scapolite",
+        "prompt": "Scapolite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Scheelite",
+        "prompt": "Scheelite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Schizolite",
+        "prompt": "Schizolite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Scolecite",
+        "prompt": "Scolecite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Scorodite",
+        "prompt": "Scorodite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Seashell",
+        "prompt": "Seashell {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Selenite",
+        "prompt": "Selenite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Sellaite",
+        "prompt": "Sellaite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Senarmontite",
+        "prompt": "Senarmontite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Sepiolite",
+        "prompt": "Sepiolite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Seraphinite",
+        "prompt": "Seraphinite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Serendibite",
+        "prompt": "Serendibite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Serpentine",
+        "prompt": "Serpentine {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Shattuckite",
+        "prompt": "Shattuckite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Shigaite",
+        "prompt": "Shigaite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Shocked quartz",
+        "prompt": "Shocked quartz {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Shortite",
+        "prompt": "Shortite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Shungite",
+        "prompt": "Shungite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Siderite",
+        "prompt": "Siderite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Siilinj\u00e4rvi carbonatite",
+        "prompt": "Siilinj\u00e4rvi carbonatite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Sillimanite",
+        "prompt": "Sillimanite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Simpsonite",
+        "prompt": "Simpsonite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Sinhalite",
+        "prompt": "Sinhalite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Smaltite",
+        "prompt": "Smaltite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Smithsonite",
+        "prompt": "Smithsonite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Smoky quartz",
+        "prompt": "Smoky quartz {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Smoky Quartz",
+        "prompt": "Smoky Quartz {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Soapstone",
+        "prompt": "Soapstone {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Sodalite",
+        "prompt": "Sodalite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Sogdianite",
+        "prompt": "Sogdianite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Sperrylite",
+        "prompt": "Sperrylite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Spessartine",
+        "prompt": "Spessartine {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Spessartite",
+        "prompt": "Spessartite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Sphalerite",
+        "prompt": "Sphalerite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Spinel",
+        "prompt": "Spinel {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "spinel",
+        "prompt": "spinel {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Spodumene",
+        "prompt": "Spodumene {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Spurrite",
+        "prompt": "Spurrite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Staurolite",
+        "prompt": "Staurolite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Stellerite",
+        "prompt": "Stellerite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Stibiotantalite",
+        "prompt": "Stibiotantalite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Stichtite",
+        "prompt": "Stichtite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Stilbite",
+        "prompt": "Stilbite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Stolzite",
+        "prompt": "Stolzite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Strontianite",
+        "prompt": "Strontianite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Strontium titanate",
+        "prompt": "Strontium titanate {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Sugilite",
+        "prompt": "Sugilite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Sulfur",
+        "prompt": "Sulfur {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Sunstone",
+        "prompt": "Sunstone {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Sylvite",
+        "prompt": "Sylvite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "S\u00e9randite",
+        "prompt": "S\u00e9randite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Taaffeite",
+        "prompt": "Taaffeite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Tactite",
+        "prompt": "Tactite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Talc",
+        "prompt": "Talc {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Tantalite",
+        "prompt": "Tantalite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Tanzanite",
+        "prompt": "Tanzanite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Tektites",
+        "prompt": "Tektites {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Tephroite",
+        "prompt": "Tephroite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Terbium gallium garnet",
+        "prompt": "Terbium gallium garnet {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Thaumasite",
+        "prompt": "Thaumasite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Thomsonite",
+        "prompt": "Thomsonite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Thulite",
+        "prompt": "Thulite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Tiger's eye",
+        "prompt": "Tiger's eye {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Tiger's Eye",
+        "prompt": "Tiger's Eye {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Tinaksite",
+        "prompt": "Tinaksite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Tinzenite",
+        "prompt": "Tinzenite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Titanite",
+        "prompt": "Titanite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Topaz",
+        "prompt": "Topaz {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Topazolite",
+        "prompt": "Topazolite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Tourmaline",
+        "prompt": "Tourmaline {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Trapiche emerald",
+        "prompt": "Trapiche emerald {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Tremolite",
+        "prompt": "Tremolite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Trinitite",
+        "prompt": "Trinitite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Triphane",
+        "prompt": "Triphane {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Triphylite",
+        "prompt": "Triphylite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Triplite",
+        "prompt": "Triplite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Tsavorite",
+        "prompt": "Tsavorite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Tugtupite",
+        "prompt": "Tugtupite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Turquoise",
+        "prompt": "Turquoise {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "turquoise",
+        "prompt": "turquoise {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ugrandite",
+        "prompt": "Ugrandite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ulexite",
+        "prompt": "Ulexite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Umbalite",
+        "prompt": "Umbalite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Unakite",
+        "prompt": "Unakite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ussingite",
+        "prompt": "Ussingite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Uvarovite",
+        "prompt": "Uvarovite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Vanadinite",
+        "prompt": "Vanadinite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Variscite",
+        "prompt": "Variscite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Vesuvianite",
+        "prompt": "Vesuvianite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Villiaumite",
+        "prompt": "Villiaumite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Vishnevite",
+        "prompt": "Vishnevite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Vivianite",
+        "prompt": "Vivianite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Vlasovite",
+        "prompt": "Vlasovite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "V\u00e4yrynenite",
+        "prompt": "V\u00e4yrynenite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Wardite",
+        "prompt": "Wardite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Wavellite",
+        "prompt": "Wavellite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Weloganite",
+        "prompt": "Weloganite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Wernerite",
+        "prompt": "Wernerite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Whewellite",
+        "prompt": "Whewellite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Wilkeite",
+        "prompt": "Wilkeite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Willemite",
+        "prompt": "Willemite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Witherite",
+        "prompt": "Witherite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Wollastonite",
+        "prompt": "Wollastonite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Wulfenite",
+        "prompt": "Wulfenite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Wurtzite",
+        "prompt": "Wurtzite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Xonotlite",
+        "prompt": "Xonotlite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Yttrium aluminium garnet",
+        "prompt": "Yttrium aluminium garnet {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Yttrium iron garnet",
+        "prompt": "Yttrium iron garnet {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Yugawaralite",
+        "prompt": "Yugawaralite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Zektzerite",
+        "prompt": "Zektzerite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Zeolites",
+        "prompt": "Zeolites {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Zincite",
+        "prompt": "Zincite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Zinnwaldite",
+        "prompt": "Zinnwaldite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Zircon",
+        "prompt": "Zircon {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Zoisite",
+        "prompt": "Zoisite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Zultanite",
+        "prompt": "Zultanite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Zunyite",
+        "prompt": "Zunyite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Porcelain",
+        "prompt": "Porcelain {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Bone China",
+        "prompt": "Bone China {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Earthenware",
+        "prompt": "Earthenware {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Stoneware",
+        "prompt": "Stoneware {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Glass Ceramics",
+        "prompt": "Glass Ceramics {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Fired Bricks",
+        "prompt": "Fired Bricks {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Carbon",
+        "prompt": "Carbon {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Silicon",
+        "prompt": "Silicon {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Silicon Carbide",
+        "prompt": "Silicon Carbide {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Titanium Carbide",
+        "prompt": "Titanium Carbide {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Tungsten Carbide",
+        "prompt": "Tungsten Carbide {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Barium Titanate",
+        "prompt": "Barium Titanate {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Boron Carbide",
+        "prompt": "Boron Carbide {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Bioceramic",
+        "prompt": "Bioceramic {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ceramic Matrix Composites",
+        "prompt": "Ceramic Matrix Composites {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ceramic Foam",
+        "prompt": "Ceramic Foam {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ferrite",
+        "prompt": "Ferrite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Acrylic Glass",
+        "prompt": "Acrylic Glass {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Acrylic Paint",
+        "prompt": "Acrylic Paint {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Adhesives",
+        "prompt": "Adhesives {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Aggregates",
+        "prompt": "Aggregates {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Alloys",
+        "prompt": "Alloys {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Aluminum Frames",
+        "prompt": "Aluminum Frames {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Architectural Glass",
+        "prompt": "Architectural Glass {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Asphalt",
+        "prompt": "Asphalt {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Bitumen",
+        "prompt": "Bitumen {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Brass",
+        "prompt": "Brass {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Bricks",
+        "prompt": "Bricks {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Bronze",
+        "prompt": "Bronze {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Burnt Clay Bricks",
+        "prompt": "Burnt Clay Bricks {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Carbon Fiber",
+        "prompt": "Carbon Fiber {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Cellulose Insulation",
+        "prompt": "Cellulose Insulation {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Cement Board",
+        "prompt": "Cement Board {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ceramic",
+        "prompt": "Ceramic {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ceramic Tiles",
+        "prompt": "Ceramic Tiles {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ceramics",
+        "prompt": "Ceramics {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Chemicals",
+        "prompt": "Chemicals {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Composite Materials",
+        "prompt": "Composite Materials {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Compressed Earth",
+        "prompt": "Compressed Earth {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Concrete",
+        "prompt": "Concrete {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Concrete Bricks",
+        "prompt": "Concrete Bricks {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Copper",
+        "prompt": "Copper {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Copper Pipes",
+        "prompt": "Copper Pipes {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Cork",
+        "prompt": "Cork {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Cotton",
+        "prompt": "Cotton {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Drywall",
+        "prompt": "Drywall {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Enamel Paint",
+        "prompt": "Enamel Paint {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Engineered Stone",
+        "prompt": "Engineered Stone {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Engineering Bricks",
+        "prompt": "Engineering Bricks {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Epoxy",
+        "prompt": "Epoxy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Fabric",
+        "prompt": "Fabric {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Fiber Cement",
+        "prompt": "Fiber Cement {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Fiberboard",
+        "prompt": "Fiberboard {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Fibers",
+        "prompt": "Fibers {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Firebricks",
+        "prompt": "Firebricks {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Flax",
+        "prompt": "Flax {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Foam",
+        "prompt": "Foam {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Foam Board",
+        "prompt": "Foam Board {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Galvanized Steel",
+        "prompt": "Galvanized Steel {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Glass",
+        "prompt": "Glass {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Glass Blocks",
+        "prompt": "Glass Blocks {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Glass Tile",
+        "prompt": "Glass Tile {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Glues",
+        "prompt": "Glues {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Granite",
+        "prompt": "Granite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Gravel",
+        "prompt": "Gravel {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Gypsum Concrete",
+        "prompt": "Gypsum Concrete {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Hardwood",
+        "prompt": "Hardwood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Jute",
+        "prompt": "Jute {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Lacquer",
+        "prompt": "Lacquer {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Laminate",
+        "prompt": "Laminate {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Laminated Glass",
+        "prompt": "Laminated Glass {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Laminated Veneer Lumber",
+        "prompt": "Laminated Veneer Lumber {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Latex Paint",
+        "prompt": "Latex Paint {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Leather",
+        "prompt": "Leather {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Limestone",
+        "prompt": "Limestone {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Linoleum",
+        "prompt": "Linoleum {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Logs",
+        "prompt": "Logs {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Marble",
+        "prompt": "Marble {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Metal Foams",
+        "prompt": "Metal Foams {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Metals",
+        "prompt": "Metals {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Mineral Wool Insulation",
+        "prompt": "Mineral Wool Insulation {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Minerals",
+        "prompt": "Minerals {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Mortar",
+        "prompt": "Mortar {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Mud & Clay",
+        "prompt": "Mud & Clay {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Natural Fibers",
+        "prompt": "Natural Fibers {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Natural Textiles",
+        "prompt": "Natural Textiles {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Oriented Strand Board (OSB)",
+        "prompt": "Oriented Strand Board (OSB) {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Paint",
+        "prompt": "Paint {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Palm Fibers",
+        "prompt": "Palm Fibers {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Paper",
+        "prompt": "Paper {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Plaster",
+        "prompt": "Plaster {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Plastic",
+        "prompt": "Plastic {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Plastic Laminate",
+        "prompt": "Plastic Laminate {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Polycarbonate",
+        "prompt": "Polycarbonate {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Polyurethane",
+        "prompt": "Polyurethane {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Porcelain Tile",
+        "prompt": "Porcelain Tile {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Pressure Treated Wood",
+        "prompt": "Pressure Treated Wood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Primers",
+        "prompt": "Primers {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "PVC",
+        "prompt": "PVC {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Rare-earths",
+        "prompt": "Rare-earths {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Resin",
+        "prompt": "Resin {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Rigid Foam Insulation",
+        "prompt": "Rigid Foam Insulation {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Roofing Tiles",
+        "prompt": "Roofing Tiles {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Rubber",
+        "prompt": "Rubber {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Sand",
+        "prompt": "Sand {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Sandstone",
+        "prompt": "Sandstone {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Sealants",
+        "prompt": "Sealants {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Semiconductor",
+        "prompt": "Semiconductor {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Shellac",
+        "prompt": "Shellac {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Shoji",
+        "prompt": "Shoji {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Silicone",
+        "prompt": "Silicone {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Silicone Sealants",
+        "prompt": "Silicone Sealants {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Slate",
+        "prompt": "Slate {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Soft Rush",
+        "prompt": "Soft Rush {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Softwood",
+        "prompt": "Softwood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Spray Foam",
+        "prompt": "Spray Foam {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Stainless Steel",
+        "prompt": "Stainless Steel {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Steel",
+        "prompt": "Steel {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Steel Beams",
+        "prompt": "Steel Beams {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Steel Connections",
+        "prompt": "Steel Connections {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Stone",
+        "prompt": "Stone {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Straw",
+        "prompt": "Straw {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Stucco",
+        "prompt": "Stucco {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Synthetic Stone",
+        "prompt": "Synthetic Stone {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Synthetic Textiles",
+        "prompt": "Synthetic Textiles {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Tatami Mats",
+        "prompt": "Tatami Mats {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Tempered Glass",
+        "prompt": "Tempered Glass {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Terrazzo",
+        "prompt": "Terrazzo {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Terrazzo Tile",
+        "prompt": "Terrazzo Tile {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Timber",
+        "prompt": "Timber {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Titanium",
+        "prompt": "Titanium {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Upcycled Materials",
+        "prompt": "Upcycled Materials {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Varnish",
+        "prompt": "Varnish {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Wallpaper",
+        "prompt": "Wallpaper {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Wire Mesh",
+        "prompt": "Wire Mesh {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Wood",
+        "prompt": "Wood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Wood Veneer",
+        "prompt": "Wood Veneer {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "6al\u20134v",
+        "prompt": "6al\u20134v {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "AA-8000",
+        "prompt": "AA-8000 {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Al Ga",
+        "prompt": "Al Ga {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "AL-6XN",
+        "prompt": "AL-6XN {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Alloy 20",
+        "prompt": "Alloy 20 {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Alnico",
+        "prompt": "Alnico {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Alumel",
+        "prompt": "Alumel {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Aluminium",
+        "prompt": "Aluminium {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "aluminium",
+        "prompt": "aluminium {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Aluminium bronze",
+        "prompt": "Aluminium bronze {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Aluminium\u2013Scandium",
+        "prompt": "Aluminium\u2013Scandium {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Aluminum",
+        "prompt": "Aluminum {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Al\u2013Li",
+        "prompt": "Al\u2013Li {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Amalgam",
+        "prompt": "Amalgam {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Argentium sterling silver",
+        "prompt": "Argentium sterling silver {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Arsenic",
+        "prompt": "Arsenic {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Arsenical bronze",
+        "prompt": "Arsenical bronze {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Arsenical copper",
+        "prompt": "Arsenical copper {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ashtadhatu",
+        "prompt": "Ashtadhatu {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Babbitt",
+        "prompt": "Babbitt {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Bell metal",
+        "prompt": "Bell metal {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Beryllium copper",
+        "prompt": "Beryllium copper {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Beta C",
+        "prompt": "Beta C {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Billon",
+        "prompt": "Billon {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Birmabright",
+        "prompt": "Birmabright {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Bismanol",
+        "prompt": "Bismanol {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Brightray",
+        "prompt": "Brightray {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Britannia silver",
+        "prompt": "Britannia silver {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Britannium",
+        "prompt": "Britannium {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Bulat steel",
+        "prompt": "Bulat steel {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Cadmium",
+        "prompt": "Cadmium {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Calamine brass",
+        "prompt": "Calamine brass {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Cast iron",
+        "prompt": "Cast iron {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Celestrium",
+        "prompt": "Celestrium {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Cerrosafe",
+        "prompt": "Cerrosafe {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Chinese silver",
+        "prompt": "Chinese silver {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Chromel",
+        "prompt": "Chromel {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Chromium",
+        "prompt": "Chromium {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Chromium hydride",
+        "prompt": "Chromium hydride {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Chromoly",
+        "prompt": "Chromoly {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Cobalt",
+        "prompt": "Cobalt {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Coin silver",
+        "prompt": "Coin silver {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Colored gold",
+        "prompt": "Colored gold {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Constantan",
+        "prompt": "Constantan {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Copper hydride",
+        "prompt": "Copper hydride {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Copper\u2013tungsten",
+        "prompt": "Copper\u2013tungsten {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Corinthian bronze",
+        "prompt": "Corinthian bronze {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Crown gold",
+        "prompt": "Crown gold {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Crucible steel",
+        "prompt": "Crucible steel {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "CuAg",
+        "prompt": "CuAg {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Cunife",
+        "prompt": "Cunife {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Cupronickel",
+        "prompt": "Cupronickel {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Cymbal alloys",
+        "prompt": "Cymbal alloys {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Damascus steel",
+        "prompt": "Damascus steel {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Devarda's alloy",
+        "prompt": "Devarda's alloy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Dor\u00e9 bullion",
+        "prompt": "Dor\u00e9 bullion {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ducol",
+        "prompt": "Ducol {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Duralumin",
+        "prompt": "Duralumin {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Dutch metal",
+        "prompt": "Dutch metal {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Dymalloy",
+        "prompt": "Dymalloy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "electro-slag remelting",
+        "prompt": "electro-slag remelting {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Electroplated",
+        "prompt": "Electroplated {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Electrum",
+        "prompt": "Electrum {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Elektron",
+        "prompt": "Elektron {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Elgiloy",
+        "prompt": "Elgiloy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Elinvar",
+        "prompt": "Elinvar {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Fernico",
+        "prompt": "Fernico {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ferroalloys",
+        "prompt": "Ferroalloys {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ferroboron",
+        "prompt": "Ferroboron {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ferrocerium",
+        "prompt": "Ferrocerium {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ferrochrome",
+        "prompt": "Ferrochrome {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ferromagnesium",
+        "prompt": "Ferromagnesium {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ferromanganese",
+        "prompt": "Ferromanganese {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ferromolybdenum",
+        "prompt": "Ferromolybdenum {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ferronickel",
+        "prompt": "Ferronickel {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ferrophosphorus",
+        "prompt": "Ferrophosphorus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ferrosilicon",
+        "prompt": "Ferrosilicon {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ferrotitanium",
+        "prompt": "Ferrotitanium {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ferrouranium",
+        "prompt": "Ferrouranium {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ferrovanadium",
+        "prompt": "Ferrovanadium {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Field's metal",
+        "prompt": "Field's metal {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Florentine bronze",
+        "prompt": "Florentine bronze {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Galfenol",
+        "prompt": "Galfenol {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Galinstan",
+        "prompt": "Galinstan {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "German silver",
+        "prompt": "German silver {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Gilding metal",
+        "prompt": "Gilding metal {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Glucydur",
+        "prompt": "Glucydur {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Gold",
+        "prompt": "Gold {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Goloid",
+        "prompt": "Goloid {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Guan\u00edn",
+        "prompt": "Guan\u00edn {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Gum metal",
+        "prompt": "Gum metal {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Gunmetal",
+        "prompt": "Gunmetal {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Hadfield steel",
+        "prompt": "Hadfield steel {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Hafnium",
+        "prompt": "Hafnium {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Hastelloy",
+        "prompt": "Hastelloy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Hepatizon",
+        "prompt": "Hepatizon {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Hiduminium",
+        "prompt": "Hiduminium {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "High-speed steel",
+        "prompt": "High-speed steel {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "HSLA steel",
+        "prompt": "HSLA steel {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Hydronalium",
+        "prompt": "Hydronalium {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Inconel",
+        "prompt": "Inconel {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Invar",
+        "prompt": "Invar {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Iron",
+        "prompt": "Iron {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Iron hydride",
+        "prompt": "Iron hydride {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Italma",
+        "prompt": "Italma {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Kanthal",
+        "prompt": "Kanthal {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "KLi",
+        "prompt": "KLi {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Kovar",
+        "prompt": "Kovar {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Lead",
+        "prompt": "Lead {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Lithium",
+        "prompt": "Lithium {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Lockalloy",
+        "prompt": "Lockalloy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Magnalium",
+        "prompt": "Magnalium {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Magnesium",
+        "prompt": "Magnesium {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Magnox",
+        "prompt": "Magnox {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Manganese",
+        "prompt": "Manganese {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Manganin",
+        "prompt": "Manganin {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Maraging steel",
+        "prompt": "Maraging steel {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Marine grade stainless",
+        "prompt": "Marine grade stainless {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Martensitic stainless steel",
+        "prompt": "Martensitic stainless steel {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Megallium",
+        "prompt": "Megallium {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Melchior",
+        "prompt": "Melchior {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Mercury",
+        "prompt": "Mercury {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Mischmetal",
+        "prompt": "Mischmetal {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Molybdenum",
+        "prompt": "Molybdenum {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Molybdochalkos",
+        "prompt": "Molybdochalkos {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Monel metal",
+        "prompt": "Monel metal {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Mu-metal",
+        "prompt": "Mu-metal {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Muntz metal",
+        "prompt": "Muntz metal {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Mushet steel",
+        "prompt": "Mushet steel {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "NaK",
+        "prompt": "NaK {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ni-Ti-Al",
+        "prompt": "Ni-Ti-Al {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Nichrome",
+        "prompt": "Nichrome {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Nickel",
+        "prompt": "Nickel {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Nickel hydride",
+        "prompt": "Nickel hydride {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Nickel silver",
+        "prompt": "Nickel silver {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Nickel-carbon",
+        "prompt": "Nickel-carbon {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Nicrosil",
+        "prompt": "Nicrosil {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Nimonic",
+        "prompt": "Nimonic {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Nisil",
+        "prompt": "Nisil {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Nitinol",
+        "prompt": "Nitinol {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Nordic gold",
+        "prompt": "Nordic gold {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ormolu",
+        "prompt": "Ormolu {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Osmium",
+        "prompt": "Osmium {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Palladium",
+        "prompt": "Palladium {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Permalloy",
+        "prompt": "Permalloy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Pewter",
+        "prompt": "Pewter {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Phosphor bronze",
+        "prompt": "Phosphor bronze {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Pig iron",
+        "prompt": "Pig iron {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Pinchbeck",
+        "prompt": "Pinchbeck {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Platinum",
+        "prompt": "Platinum {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Platinum sterling",
+        "prompt": "Platinum sterling {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Plutonium\u2013gallium",
+        "prompt": "Plutonium\u2013gallium {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Prince's metal",
+        "prompt": "Prince's metal {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Pseudo palladium",
+        "prompt": "Pseudo palladium {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Queen's metal",
+        "prompt": "Queen's metal {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Rare Earths",
+        "prompt": "Rare Earths {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Reynolds 531",
+        "prompt": "Reynolds 531 {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Rhodite",
+        "prompt": "Rhodite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Rose gold",
+        "prompt": "Rose gold {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Rose metal",
+        "prompt": "Rose metal {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Sanicro 28",
+        "prompt": "Sanicro 28 {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Scandium hydride",
+        "prompt": "Scandium hydride {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Shakudo",
+        "prompt": "Shakudo {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Shibuichi",
+        "prompt": "Shibuichi {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Silicon bronze",
+        "prompt": "Silicon bronze {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Silicon steel",
+        "prompt": "Silicon steel {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Silver",
+        "prompt": "Silver {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Silver steel",
+        "prompt": "Silver steel {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Solder",
+        "prompt": "Solder {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Speculum metal",
+        "prompt": "Speculum metal {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Spiegeleisen",
+        "prompt": "Spiegeleisen {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Spring steel",
+        "prompt": "Spring steel {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Staballoy",
+        "prompt": "Staballoy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Stainless steel",
+        "prompt": "Stainless steel {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Stellite",
+        "prompt": "Stellite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Sterling silver",
+        "prompt": "Sterling silver {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Supermalloy",
+        "prompt": "Supermalloy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Surgical stainless steel",
+        "prompt": "Surgical stainless steel {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Talonite",
+        "prompt": "Talonite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Tantalum",
+        "prompt": "Tantalum {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Terfenol-D",
+        "prompt": "Terfenol-D {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Terne",
+        "prompt": "Terne {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Thallium",
+        "prompt": "Thallium {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Tibetan silver",
+        "prompt": "Tibetan silver {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Tin",
+        "prompt": "Tin {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Titanium gold",
+        "prompt": "Titanium gold {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Titanium hydride",
+        "prompt": "Titanium hydride {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Titanium nitride",
+        "prompt": "Titanium nitride {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Tombac",
+        "prompt": "Tombac {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Tool steel",
+        "prompt": "Tool steel {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Tumbaga",
+        "prompt": "Tumbaga {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Tungsten",
+        "prompt": "Tungsten {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Type metal",
+        "prompt": "Type metal {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Ultimet",
+        "prompt": "Ultimet {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Uranium hydride",
+        "prompt": "Uranium hydride {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Vanadium",
+        "prompt": "Vanadium {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Vitallium",
+        "prompt": "Vitallium {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Weathering steel",
+        "prompt": "Weathering steel {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "White bronze",
+        "prompt": "White bronze {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "White gold",
+        "prompt": "White gold {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "White metal",
+        "prompt": "White metal {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Wood's metal",
+        "prompt": "Wood's metal {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Wootz steel",
+        "prompt": "Wootz steel {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Y alloy",
+        "prompt": "Y alloy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Zamak",
+        "prompt": "Zamak {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Zeron 100",
+        "prompt": "Zeron 100 {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Zinc",
+        "prompt": "Zinc {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Zirconium",
+        "prompt": "Zirconium {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Brick",
+        "prompt": "Brick {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Dimension Stone",
+        "prompt": "Dimension Stone {prompt}",
+        "negative_prompt": ""
+    }
+]

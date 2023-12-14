@@ -1,0 +1,507 @@
+[
+    {
+        "name": "none",
+        "prompt": "{prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "argyle",
+        "prompt": "argyle {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "camouflage",
+        "prompt": "camouflage {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "checkered",
+        "prompt": "checkered {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "floral print",
+        "prompt": "floral print {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "pinstripe pattern",
+        "prompt": "pinstripe pattern {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "plaid / tartan",
+        "prompt": "plaid / tartan {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "polka dot",
+        "prompt": "polka dot {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "striped",
+        "prompt": "striped {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "multicolored stripes",
+        "prompt": "multicolored stripes {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "double vertical stripe",
+        "prompt": "double vertical stripe {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "polka dot",
+        "prompt": "polka dot {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "faded",
+        "prompt": "faded {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "stone washed",
+        "prompt": "stone washed {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "monochrome",
+        "prompt": "monochrome {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "neon",
+        "prompt": "neon {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "pastel",
+        "prompt": "pastel {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "earth tones",
+        "prompt": "earth tones {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "bright colors",
+        "prompt": "bright colors {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "muted colors",
+        "prompt": "muted colors {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "ombre",
+        "prompt": "ombre {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "gradient",
+        "prompt": "gradient {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "tie-dye",
+        "prompt": "tie-dye {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "acid wash",
+        "prompt": "acid wash {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "distressed",
+        "prompt": "distressed {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "faded",
+        "prompt": "faded {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "stone washed",
+        "prompt": "stone washed {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "asymmetric",
+        "prompt": "asymmetric {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "vest",
+        "prompt": "vest {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "polo",
+        "prompt": "polo {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "poncho",
+        "prompt": "poncho {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "puff sleeve",
+        "prompt": "puff sleeve {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "pullover",
+        "prompt": "pullover {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "racerback",
+        "prompt": "racerback {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "raglan",
+        "prompt": "raglan {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "scoop neck",
+        "prompt": "scoop neck {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "shawl",
+        "prompt": "shawl {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "shift",
+        "prompt": "shift {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "shirt dress",
+        "prompt": "shirt dress {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "slit",
+        "prompt": "slit {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "smocked",
+        "prompt": "smocked {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "strapless",
+        "prompt": "strapless {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "surplice",
+        "prompt": "surplice {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "sweater dress",
+        "prompt": "sweater dress {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "sweetheart neckline",
+        "prompt": "sweetheart neckline {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "t-back",
+        "prompt": "t-back {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "tank top",
+        "prompt": "tank top {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "tea length",
+        "prompt": "tea length {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "tiered",
+        "prompt": "tiered {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "trench coat",
+        "prompt": "trench coat {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "tunic",
+        "prompt": "tunic {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "turtleneck",
+        "prompt": "turtleneck {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "v-neck",
+        "prompt": "v-neck {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "vest",
+        "prompt": "vest {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "racerback",
+        "prompt": "racerback {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "raglan",
+        "prompt": "raglan {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "ribbed",
+        "prompt": "ribbed {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "scoop neck",
+        "prompt": "scoop neck {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "shift dress",
+        "prompt": "shift dress {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "shirred",
+        "prompt": "shirred {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "shirt dress",
+        "prompt": "shirt dress {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "slip dress",
+        "prompt": "slip dress {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "smocked",
+        "prompt": "smocked {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "spaghetti strap",
+        "prompt": "spaghetti strap {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "sweetheart neckline",
+        "prompt": "sweetheart neckline {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "swing dress",
+        "prompt": "swing dress {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "t-shirt dress",
+        "prompt": "t-shirt dress {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "tank top",
+        "prompt": "tank top {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "tiered",
+        "prompt": "tiered {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "trench coat",
+        "prompt": "trench coat {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "tunic",
+        "prompt": "tunic {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "turtle neck",
+        "prompt": "turtle neck {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "v-neck",
+        "prompt": "v-neck {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "wrap",
+        "prompt": "wrap {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "zip-front",
+        "prompt": "zip-front {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "yoke",
+        "prompt": "yoke {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "zipped",
+        "prompt": "zipped {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "buttoned",
+        "prompt": "buttoned {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "floral",
+        "prompt": "floral {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "graphic",
+        "prompt": "graphic {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "embellished",
+        "prompt": "embellished {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "feathered",
+        "prompt": "feathered {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "glittered",
+        "prompt": "glittered {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "layered",
+        "prompt": "layered {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "strapped",
+        "prompt": "strapped {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "textured",
+        "prompt": "textured {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "tied",
+        "prompt": "tied {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "toggled",
+        "prompt": "toggled {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "tucked",
+        "prompt": "tucked {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "twisted",
+        "prompt": "twisted {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "woven",
+        "prompt": "woven {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "zippered",
+        "prompt": "zippered {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "appliqu\u00e9d",
+        "prompt": "appliqu\u00e9d {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "braided",
+        "prompt": "braided {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "crinkled",
+        "prompt": "crinkled {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "crushed",
+        "prompt": "crushed {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "dotted",
+        "prompt": "dotted {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "glossy",
+        "prompt": "glossy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "iridescent",
+        "prompt": "iridescent {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "matte",
+        "prompt": "matte {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "perforated",
+        "prompt": "perforated {prompt}",
+        "negative_prompt": ""
+    }
+]

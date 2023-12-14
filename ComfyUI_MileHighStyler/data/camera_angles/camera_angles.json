@@ -1,0 +1,197 @@
+[
+    {
+        "name": "none",
+        "prompt": "{prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "dutch angle",
+        "prompt": "dutch angle {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "fisheye",
+        "prompt": "fisheye {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "from above",
+        "prompt": "from above {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "from behind",
+        "prompt": "from behind {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "from below",
+        "prompt": "from below {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "panorama",
+        "prompt": "panorama {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "from below upskirt",
+        "prompt": "from below upskirt {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "perspective",
+        "prompt": "perspective {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "pov",
+        "prompt": "pov {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "sideways",
+        "prompt": "sideways {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "upside-down",
+        "prompt": "upside-down {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "vanishing point",
+        "prompt": "vanishing point {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Overhead Shot",
+        "prompt": "Overhead Shot {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Dutch Angle",
+        "prompt": "Dutch Angle {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Tracking Shot",
+        "prompt": "Tracking Shot {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Crane Shot",
+        "prompt": "Crane Shot {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Handheld Shot",
+        "prompt": "Handheld Shot {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Tilt Shot",
+        "prompt": "Tilt Shot {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Pan Shot",
+        "prompt": "Pan Shot {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Static Shot",
+        "prompt": "Static Shot {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Close-Up Shot",
+        "prompt": "Close-Up Shot {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Wide Shot",
+        "prompt": "Wide Shot {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Establishing Shot",
+        "prompt": "Establishing Shot {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Aerial Shot",
+        "prompt": "Aerial Shot {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Point of View Shot",
+        "prompt": "Point of View Shot {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Reverse Shot",
+        "prompt": "Reverse Shot {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Low Angle Shot",
+        "prompt": "Low Angle Shot {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "High Angle Shot",
+        "prompt": "High Angle Shot {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Cutaway Shot",
+        "prompt": "Cutaway Shot {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Reaction Shot",
+        "prompt": "Reaction Shot {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Two Shot",
+        "prompt": "Two Shot {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Long Shot",
+        "prompt": "Long Shot {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Medium Shot",
+        "prompt": "Medium Shot {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Whip Pan",
+        "prompt": "Whip Pan {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Dolly Shot",
+        "prompt": "Dolly Shot {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Zoom Shot",
+        "prompt": "Zoom Shot {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Insert Shot",
+        "prompt": "Insert Shot {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Bird's-Eye View",
+        "prompt": "Bird's-Eye View {prompt}",
+        "negative_prompt": ""
+    }
+]
