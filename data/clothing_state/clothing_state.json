@@ -1,0 +1,257 @@
+[
+    {
+        "name": "none",
+        "prompt": "{prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "clothing aside",
+        "prompt": "clothing aside {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "clothes down",
+        "prompt": "clothes down {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "open clothes",
+        "prompt": "open clothes {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "revealing clothes",
+        "prompt": "revealing clothes {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "see-through",
+        "prompt": "see-through {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "unbuttoned",
+        "prompt": "unbuttoned {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "undressing",
+        "prompt": "undressing {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "unfastened",
+        "prompt": "unfastened {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "untied",
+        "prompt": "untied {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "untying",
+        "prompt": "untying {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "unzipped",
+        "prompt": "unzipped {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "unzipping",
+        "prompt": "unzipping {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "buttoned up",
+        "prompt": "buttoned up {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "unbuttoned",
+        "prompt": "unbuttoned {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "zipped up",
+        "prompt": "zipped up {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "unzipped",
+        "prompt": "unzipped {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "tucked in",
+        "prompt": "tucked in {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "untucked",
+        "prompt": "untucked {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "rolled up sleeves",
+        "prompt": "rolled up sleeves {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "folded cuffs",
+        "prompt": "folded cuffs {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "loose fit",
+        "prompt": "loose fit {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "tight fit",
+        "prompt": "tight fit {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "layered clothing",
+        "prompt": "layered clothing {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "ruffled",
+        "prompt": "ruffled {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "pleated",
+        "prompt": "pleated {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "fringed",
+        "prompt": "fringed {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "knotted",
+        "prompt": "knotted {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "draped",
+        "prompt": "draped {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "belted",
+        "prompt": "belted {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "hood up",
+        "prompt": "hood up {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "hood down",
+        "prompt": "hood down {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "sleeveless",
+        "prompt": "sleeveless {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "long sleeves",
+        "prompt": "long sleeves {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "short sleeves",
+        "prompt": "short sleeves {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "folded collar",
+        "prompt": "folded collar {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "popped collar",
+        "prompt": "popped collar {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "one shoulder exposed",
+        "prompt": "one shoulder exposed {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "straps visible",
+        "prompt": "straps visible {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "no straps",
+        "prompt": "no straps {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "high-waisted",
+        "prompt": "high-waisted {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "low-waisted",
+        "prompt": "low-waisted {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "cropped",
+        "prompt": "cropped {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "full length",
+        "prompt": "full length {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "distressed",
+        "prompt": "distressed {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "neatly pressed",
+        "prompt": "neatly pressed {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "wrinkled",
+        "prompt": "wrinkled {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "starched",
+        "prompt": "starched {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "faded",
+        "prompt": "faded {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "freshly laundered",
+        "prompt": "freshly laundered {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "dirty",
+        "prompt": "dirty {prompt}",
+        "negative_prompt": ""
+    }
+]

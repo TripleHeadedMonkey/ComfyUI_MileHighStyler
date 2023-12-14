@@ -1,0 +1,507 @@
+[
+    {
+        "name": "none",
+        "prompt": "{prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Cinematic",
+        "prompt": "{prompt} Apply a cinematic LUT for a dramatic look",
+        "negative_prompt": "Apply a bright and airy LUT for a light look"
+    },
+    {
+        "name": "Sepia",
+        "prompt": "{prompt} Apply a sepia LUT for a warm, vintage feel",
+        "negative_prompt": "Apply a cool and modern LUT for a fresh look"
+    },
+    {
+        "name": "Monochrome",
+        "prompt": "{prompt} Apply a monochrome LUT for a classic, timeless appearance",
+        "negative_prompt": "Apply a vibrant and colorful LUT for an energetic look"
+    },
+    {
+        "name": "Vibrant",
+        "prompt": "{prompt} Apply a vibrant LUT for a vibrant look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "CoolTone",
+        "prompt": "{prompt} Apply a cooltone LUT for a cooltone look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "WarmTone",
+        "prompt": "{prompt} Apply a warmtone LUT for a warmtone look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "HighContrast",
+        "prompt": "{prompt} Apply a highcontrast LUT for a highcontrast look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "LowContrast",
+        "prompt": "{prompt} Apply a lowcontrast LUT for a lowcontrast look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Filmic",
+        "prompt": "{prompt} Apply a filmic LUT for a filmic look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Retro",
+        "prompt": "{prompt} Apply a retro LUT for a retro look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Muted",
+        "prompt": "{prompt} Apply a muted LUT for a muted look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Saturated",
+        "prompt": "{prompt} Apply a saturated LUT for a saturated look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Pastel",
+        "prompt": "{prompt} Apply a pastel LUT for a pastel look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Noir",
+        "prompt": "{prompt} Apply a noir LUT for a noir look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "GoldenHour",
+        "prompt": "{prompt} Apply a goldenhour LUT for a goldenhour look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "BlueHour",
+        "prompt": "{prompt} Apply a bluehour LUT for a bluehour look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Sunset",
+        "prompt": "{prompt} Apply a sunset LUT for a sunset look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Dawn",
+        "prompt": "{prompt} Apply a dawn LUT for a dawn look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Dusk",
+        "prompt": "{prompt} Apply a dusk LUT for a dusk look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Midday",
+        "prompt": "{prompt} Apply a midday LUT for a midday look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Soft",
+        "prompt": "{prompt} Apply a soft LUT for a soft look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Harsh",
+        "prompt": "{prompt} Apply a harsh LUT for a harsh look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Neutral",
+        "prompt": "{prompt} Apply a neutral LUT for a neutral look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "HDR",
+        "prompt": "{prompt} Apply a hdr LUT for a hdr look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "LDR",
+        "prompt": "{prompt} Apply a ldr LUT for a ldr look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Daylight",
+        "prompt": "{prompt} Apply a daylight LUT for a daylight look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Tungsten",
+        "prompt": "{prompt} Apply a tungsten LUT for a tungsten look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Fluorescent",
+        "prompt": "{prompt} Apply a fluorescent LUT for a fluorescent look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Overcast",
+        "prompt": "{prompt} Apply a overcast LUT for a overcast look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Stormy",
+        "prompt": "{prompt} Apply a stormy LUT for a stormy look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Snowy",
+        "prompt": "{prompt} Apply a snowy LUT for a snowy look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Beach",
+        "prompt": "{prompt} Apply a beach LUT for a beach look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Desert",
+        "prompt": "{prompt} Apply a desert LUT for a desert look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Jungle",
+        "prompt": "{prompt} Apply a jungle LUT for a jungle look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Mountain",
+        "prompt": "{prompt} Apply a mountain LUT for a mountain look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "City",
+        "prompt": "{prompt} Apply a city LUT for a city look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Country",
+        "prompt": "{prompt} Apply a country LUT for a country look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Indoor",
+        "prompt": "{prompt} Apply a indoor LUT for a indoor look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Outdoor",
+        "prompt": "{prompt} Apply a outdoor LUT for a outdoor look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Studio",
+        "prompt": "{prompt} Apply a studio LUT for a studio look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Natural",
+        "prompt": "{prompt} Apply a natural LUT for a natural look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Artificial",
+        "prompt": "{prompt} Apply a artificial LUT for a artificial look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Portrait",
+        "prompt": "{prompt} Apply a portrait LUT for a portrait look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Landscape",
+        "prompt": "{prompt} Apply a landscape LUT for a landscape look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Macro",
+        "prompt": "{prompt} Apply a macro LUT for a macro look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "WideAngle",
+        "prompt": "{prompt} Apply a wideangle LUT for a wideangle look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Telephoto",
+        "prompt": "{prompt} Apply a telephoto LUT for a telephoto look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Flat",
+        "prompt": "{prompt} Apply a flat LUT for a flat look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Sharp",
+        "prompt": "{prompt} Apply a sharp LUT for a sharp look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Smooth",
+        "prompt": "{prompt} Apply a smooth LUT for a smooth look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Textured",
+        "prompt": "{prompt} Apply a textured LUT for a textured look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Glossy",
+        "prompt": "{prompt} Apply a glossy LUT for a glossy look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Matte",
+        "prompt": "{prompt} Apply a matte LUT for a matte look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Metallic",
+        "prompt": "{prompt} Apply a metallic LUT for a metallic look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Wooden",
+        "prompt": "{prompt} Apply a wooden LUT for a wooden look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Glassy",
+        "prompt": "{prompt} Apply a glassy LUT for a glassy look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Foggy",
+        "prompt": "{prompt} Apply a foggy LUT for a foggy look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Clear",
+        "prompt": "{prompt} Apply a clear LUT for a clear look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Smoky",
+        "prompt": "{prompt} Apply a smoky LUT for a smoky look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Fiery",
+        "prompt": "{prompt} Apply a fiery LUT for a fiery look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Icy",
+        "prompt": "{prompt} Apply a icy LUT for a icy look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Aquatic",
+        "prompt": "{prompt} Apply a aquatic LUT for a aquatic look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Aerial",
+        "prompt": "{prompt} Apply a aerial LUT for a aerial look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Underground",
+        "prompt": "{prompt} Apply a underground LUT for a underground look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Twilight",
+        "prompt": "{prompt} Apply a twilight LUT for a twilight look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Shadow",
+        "prompt": "{prompt} Apply a shadow LUT for a shadow look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Highlight",
+        "prompt": "{prompt} Apply a highlight LUT for a highlight look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "LowKey",
+        "prompt": "{prompt} Apply a lowkey LUT for a lowkey look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "HighKey",
+        "prompt": "{prompt} Apply a highkey LUT for a highkey look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Monotone",
+        "prompt": "{prompt} Apply a monotone LUT for a monotone look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Duotone",
+        "prompt": "{prompt} Apply a duotone LUT for a duotone look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Polychrome",
+        "prompt": "{prompt} Apply a polychrome LUT for a polychrome look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "InfraRed",
+        "prompt": "{prompt} Apply a infrared LUT for a infrared look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "UltraViolet",
+        "prompt": "{prompt} Apply a ultraviolet LUT for a ultraviolet look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "XRay",
+        "prompt": "{prompt} Apply a xray LUT for a xray look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Fantasy",
+        "prompt": "{prompt} Apply a fantasy LUT for a fantasy look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Horror",
+        "prompt": "{prompt} Apply a horror LUT for a horror look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Romantic",
+        "prompt": "{prompt} Apply a romantic LUT for a romantic look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Comedy",
+        "prompt": "{prompt} Apply a comedy LUT for a comedy look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Dramatic",
+        "prompt": "{prompt} Apply a dramatic LUT for a dramatic look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Mystery",
+        "prompt": "{prompt} Apply a mystery LUT for a mystery look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "SciFi",
+        "prompt": "{prompt} Apply a scifi LUT for a scifi look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Historical",
+        "prompt": "{prompt} Apply a historical LUT for a historical look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Documentary",
+        "prompt": "{prompt} Apply a documentary LUT for a documentary look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Action",
+        "prompt": "{prompt} Apply a action LUT for a action look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Adventure",
+        "prompt": "{prompt} Apply a adventure LUT for a adventure look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Thriller",
+        "prompt": "{prompt} Apply a thriller LUT for a thriller look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Sport",
+        "prompt": "{prompt} Apply a sport LUT for a sport look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "News",
+        "prompt": "{prompt} Apply a news LUT for a news look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "MusicVideo",
+        "prompt": "{prompt} Apply a musicvideo LUT for a musicvideo look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Commercial",
+        "prompt": "{prompt} Apply a commercial LUT for a commercial look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Wedding",
+        "prompt": "{prompt} Apply a wedding LUT for a wedding look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Party",
+        "prompt": "{prompt} Apply a party LUT for a party look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Holiday",
+        "prompt": "{prompt} Apply a holiday LUT for a holiday look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Birthday",
+        "prompt": "{prompt} Apply a birthday LUT for a birthday look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Anniversary",
+        "prompt": "{prompt} Apply a anniversary LUT for a anniversary look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Graduation",
+        "prompt": "{prompt} Apply a graduation LUT for a graduation look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "BabyShower",
+        "prompt": "{prompt} Apply a babyshower LUT for a babyshower look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Honeymoon",
+        "prompt": "{prompt} Apply a honeymoon LUT for a honeymoon look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    },
+    {
+        "name": "Festival",
+        "prompt": "{prompt} Apply a festival LUT for a festival look",
+        "negative_prompt": "Apply a contrasting LUT for a different look"
+    }
+]

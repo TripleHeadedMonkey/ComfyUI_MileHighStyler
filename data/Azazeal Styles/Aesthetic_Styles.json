@@ -1,0 +1,277 @@
+[
+    {
+        "name": "None",
+        "prompt": "{prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Artistic Exploration",
+        "prompt": "(Exploration through artistic lens) {prompt}",
+        "negative_prompt": "Monochrome Elegance"
+    },
+    {
+        "name": "Art Deco Glamour",
+        "prompt": "(Glamorous art deco) {prompt}",
+        "negative_prompt": "Contemporary Simplicity"
+    },
+    {
+        "name": "Artistic Opulence",
+        "prompt": "(Opulent artistic expression) {prompt}",
+        "negative_prompt": "Contemporary Chic"
+    },
+    {
+        "name": "Artistic Whimsy",
+        "prompt": "(Whimsically artistic) {prompt}",
+        "negative_prompt": "Sleek Monochrome"
+    },
+    {
+        "name": "Baroque Opulence",
+        "prompt": "(Opulent baroque aesthetics) {prompt}",
+        "negative_prompt": "Sleek Contemporary"
+    },
+    {
+        "name": "Bohemian Rhapsody",
+        "prompt": "(Bohemian rhapsody of colors) {prompt}",
+        "negative_prompt": "Clean and Clinical"
+    },
+    {
+        "name": "Boho Eclecticism",
+        "prompt": "(Bohemian eclectic style) {prompt}",
+        "negative_prompt": "Clean and Modern"
+    },
+    {
+        "name": "Cosmic Wonders",
+        "prompt": "(Wonders of the cosmic universe) {prompt}",
+        "negative_prompt": "Realistic Precision"
+    },
+    {
+        "name": "Cyberpunk Adventure",
+        "prompt": "(Adventure in a cyberpunk world) {prompt}",
+        "negative_prompt": "Natural Tranquility"
+    },
+    {
+        "name": "Cyberpunk Dreams",
+        "prompt": "(Dreams of a cyberpunk world) {prompt}",
+        "negative_prompt": "Natural Beauty"
+    },
+    {
+        "name": "Cyberpunk Edge",
+        "prompt": "(Edgy cyberpunk vibes) {prompt}",
+        "negative_prompt": "Natural Serenity"
+    },
+    {
+        "name": "Cyberpunk Noir",
+        "prompt": "(Noir with a cyberpunk twist) {prompt}",
+        "negative_prompt": "Natural Harmony"
+    },
+    {
+        "name": "Dreamy Watercolor",
+        "prompt": "(Watercolor dreaminess) {prompt}",
+        "negative_prompt": "Bold Geometric"
+    },
+    {
+        "name": "Enchanted Forest",
+        "prompt": "(Enchanting forest vibes) {prompt}",
+        "negative_prompt": "Industrial Modernism"
+    },
+    {
+        "name": "Enchanted Gardens",
+        "prompt": "(Gardens filled with enchantment) {prompt}",
+        "negative_prompt": "Modern Industrialism"
+    },
+    {
+        "name": "Futuristic Chic",
+        "prompt": "(Chic futuristic style) {prompt}",
+        "negative_prompt": "Classic Timelessness"
+    },
+    {
+        "name": "Futuristic Elegance",
+        "prompt": "(Elegance with a futuristic twist) {prompt}",
+        "negative_prompt": "Classic Vintage"
+    },
+    {
+        "name": "Futuristic Nostalgia",
+        "prompt": "(Nostalgia with a futuristic twist) {prompt}",
+        "negative_prompt": "Timeless Elegance"
+    },
+    {
+        "name": "Glamorous Vintage",
+        "prompt": "(Vintage glamour at its finest) {prompt}",
+        "negative_prompt": "Minimalist Elegance"
+    },
+    {
+        "name": "Gothic Grandeur",
+        "prompt": "(Grandeur with a gothic touch) {prompt}",
+        "negative_prompt": "Sunny Beach Escape"
+    },
+    {
+        "name": "Gothic Romance",
+        "prompt": "(Romantic with a gothic twist) {prompt}",
+        "negative_prompt": "Sunny Beach Getaway"
+    },
+    {
+        "name": "Industrial Chic",
+        "prompt": "(Rustic meets industrial) {prompt}",
+        "negative_prompt": "Luxe Bohemian"
+    },
+    {
+        "name": "Minimalistic Zen",
+        "prompt": "(Simplicity in its Zen form) {prompt}",
+        "negative_prompt": "Maximalist Extravaganza"
+    },
+    {
+        "name": "Mystic Beauty",
+        "prompt": "(Beautiful mystical allure) {prompt}",
+        "negative_prompt": "Everyday Routine"
+    },
+    {
+        "name": "Mystical Cosmos",
+        "prompt": "(Mystical cosmic vibes) {prompt}",
+        "negative_prompt": "Scientific Realism"
+    },
+    {
+        "name": "Mystic Enchantment",
+        "prompt": "(Enchanted mystical feel) {prompt}",
+        "negative_prompt": "Ordinary Everyday"
+    },
+    {
+        "name": "Mystical Forest",
+        "prompt": "(Enchanted forest vibes) {prompt}",
+        "negative_prompt": "Urban Concrete Jungle"
+    },
+    {
+        "name": "Neon Dreams",
+        "prompt": "(Vibrant neon colors) {prompt}",
+        "negative_prompt": "Monochromatic Serenity"
+    },
+    {
+        "name": "Pastel Delight",
+        "prompt": "(Delightful pastel palette) {prompt}",
+        "negative_prompt": "Vivid Explosion"
+    },
+    {
+        "name": "Pastel Dreams",
+        "prompt": "(Dreamy pastel palette) {prompt}",
+        "negative_prompt": "Bold and Vibrant"
+    },
+    {
+        "name": "Renaissance Elegance",
+        "prompt": "(Elegant Renaissance beauty) {prompt}",
+        "negative_prompt": "Sleek Progress"
+    },
+    {
+        "name": "Renaissance Romance",
+        "prompt": "(Romantic Renaissance inspiration) {prompt}",
+        "negative_prompt": "Contemporary Metropolis"
+    },
+    {
+        "name": "Renaissance Splendor",
+        "prompt": "(Splendid Renaissance aesthetics) {prompt}",
+        "negative_prompt": "Sleek Modernity"
+    },
+    {
+        "name": "Retro Futurism",
+        "prompt": "(Retro with a futuristic edge) {prompt}",
+        "negative_prompt": "Past-Present Fusion"
+    },
+    {
+        "name": "Retro Futuristic",
+        "prompt": "(Retro-futuristic style) {prompt}",
+        "negative_prompt": "Timeless Classic"
+    },
+    {
+        "name": "Romantic Renaissance",
+        "prompt": "(Romantic Renaissance essence) {prompt}",
+        "negative_prompt": "Contemporary Urban"
+    },
+    {
+        "name": "Rustic Charm",
+        "prompt": "(Charming rustic appeal) {prompt}",
+        "negative_prompt": "High-Tech Modernism"
+    },
+    {
+        "name": "Rustic Serenity",
+        "prompt": "(Serene rustic beauty) {prompt}",
+        "negative_prompt": "High-Tech Futurism"
+    },
+    {
+        "name": "Sci-Fi Noir",
+        "prompt": "(Sci-fi with a noir twist) {prompt}",
+        "negative_prompt": "Retro Nostalgia"
+    },
+    {
+        "name": "Sci-Fi Wonders",
+        "prompt": "(Sci-fi wonders and imagination) {prompt}",
+        "negative_prompt": "Retro Charm"
+    },
+    {
+        "name": "Sleek Minimalism",
+        "prompt": "(Sleek minimalist design) {prompt}",
+        "negative_prompt": "Maximalist Extravaganza"
+    },
+    {
+        "name": "Sunset Bliss",
+        "prompt": "(Blissful sunset hues) {prompt}",
+        "negative_prompt": "Urban Grit"
+    },
+    {
+        "name": "Sunset Serenity",
+        "prompt": "(Serene sunset palette) {prompt}",
+        "negative_prompt": "Urban Hustle"
+    },
+    {
+        "name": "Surreal Fantasy",
+        "prompt": "(A touch of surrealism) {prompt}",
+        "negative_prompt": "Realistic Everyday"
+    },
+    {
+        "name": "Tropical Oasis",
+        "prompt": "(Tropical oasis getaway) {prompt}",
+        "negative_prompt": "Icy Wilderness"
+    },
+    {
+        "name": "Tropical Paradise",
+        "prompt": "(Tropical island paradise) {prompt}",
+        "negative_prompt": "Frozen Tundra"
+    },
+    {
+        "name": "Urban Jungle",
+        "prompt": "(Concrete urban jungle) {prompt}",
+        "negative_prompt": "Rural Serenity"
+    },
+    {
+        "name": "Urban Retreat",
+        "prompt": "(Retreat in an urban setting) {prompt}",
+        "negative_prompt": "Rural Tranquility"
+    },
+    {
+        "name": "Victorian Delights",
+        "prompt": "(Delightful Victorian aesthetics) {prompt}",
+        "negative_prompt": "Modern Practicality"
+    },
+    {
+        "name": "Vintage Elegance",
+        "prompt": "(Elegance with a vintage touch) {prompt}",
+        "negative_prompt": "Contemporary Minimalism"
+    },
+    {
+        "name": "Victorian Whimsy",
+        "prompt": "(Whimsical Victorian touch) {prompt}",
+        "negative_prompt": "Modern Minimalism"
+    },
+    {
+        "name": "Watercolor Dreams",
+        "prompt": "(Dreamy watercolor inspiration) {prompt}",
+        "negative_prompt": "Geometric Precision"
+    },
+   {
+        "name": "Zen Garden",
+        "prompt": "(Tranquil Zen garden) {prompt}",
+        "negative_prompt": "Chaotic Cityscape"
+    },
+    {
+        "name": "Zen Harmony",
+        "prompt": "(Harmonious Zen experience) {prompt}",
+        "negative_prompt": "Urban Chaos"
+    }
+]

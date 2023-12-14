@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Standard Yellow Banana",
+        "prompt": "standard yellow banana {prompt}",
+        "negative_prompt": "red, green, purple banana"
+    },
+    {
+        "name": "Ripe and Sweet Banana",
+        "prompt": "ripe and sweet banana {prompt}",
+        "negative_prompt": "unripe, sour, bitter banana"
+    },
+    {
+        "name": "Organic Banana",
+        "prompt": "organic banana {prompt}",
+        "negative_prompt": "conventional, pesticide-treated banana"
+    },
+    {
+        "name": "Plantain",
+        "prompt": "plantain {prompt}",
+        "negative_prompt": "dessert banana, sweet banana"
+    },
+    {
+        "name": "Red Banana",
+        "prompt": "red banana {prompt}",
+        "negative_prompt": "yellow, green, standard banana"
+    },
+    {
+        "name": "Cavendish Banana",
+        "prompt": "Cavendish banana {prompt}",
+        "negative_prompt": "red banana, plantain, apple banana"
+    },
+    {
+        "name": "Apple Banana",
+        "prompt": "apple banana {prompt}",
+        "negative_prompt": "standard banana, plantain, red banana"
+    },
+    {
+        "name": "Frozen Banana",
+        "prompt": "frozen banana {prompt}",
+        "negative_prompt": "fresh banana, ripe banana"
+    },
+    {
+        "name": "Chocolate-Dipped Banana",
+        "prompt": "chocolate-dipped banana {prompt}",
+        "negative_prompt": "plain banana, banana split"
+    },
+    {
+        "name": "Banana Smoothie",
+        "prompt": "banana smoothie {prompt}",
+        "negative_prompt": "solid banana, banana bread"
+    }
+]

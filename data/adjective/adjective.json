@@ -1,0 +1,5492 @@
+[
+    {
+        "name": "none",
+        "prompt": "{prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "aback",
+        "prompt": "aback {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "abaft",
+        "prompt": "abaft {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "abandoned",
+        "prompt": "abandoned {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "abashed",
+        "prompt": "abashed {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "aberrant",
+        "prompt": "aberrant {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "abhorrent",
+        "prompt": "abhorrent {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "abiding",
+        "prompt": "abiding {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "abject",
+        "prompt": "abject {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "ablaze",
+        "prompt": "ablaze {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "able",
+        "prompt": "able {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "abnormal",
+        "prompt": "abnormal {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "aboriginal",
+        "prompt": "aboriginal {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "abortive",
+        "prompt": "abortive {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "abounding",
+        "prompt": "abounding {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "abrasive",
+        "prompt": "abrasive {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "abrupt",
+        "prompt": "abrupt {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "absent",
+        "prompt": "absent {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "absorbed",
+        "prompt": "absorbed {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "absorbing",
+        "prompt": "absorbing {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "abstracted",
+        "prompt": "abstracted {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "absurd",
+        "prompt": "absurd {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "abundant",
+        "prompt": "abundant {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "abusive",
+        "prompt": "abusive {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "acceptable",
+        "prompt": "acceptable {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "accessible",
+        "prompt": "accessible {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "accidental",
+        "prompt": "accidental {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "accurate",
+        "prompt": "accurate {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "acid",
+        "prompt": "acid {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "acidic",
+        "prompt": "acidic {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "acoustic",
+        "prompt": "acoustic {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "acrid",
+        "prompt": "acrid {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "adamant",
+        "prompt": "adamant {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "adaptable",
+        "prompt": "adaptable {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "addicted",
+        "prompt": "addicted {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "adhesive",
+        "prompt": "adhesive {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "adjoining",
+        "prompt": "adjoining {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "adorable",
+        "prompt": "adorable {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "adventurous",
+        "prompt": "adventurous {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "afraid",
+        "prompt": "afraid {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "aggressive",
+        "prompt": "aggressive {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "agonizing",
+        "prompt": "agonizing {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "agreeable",
+        "prompt": "agreeable {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "ahead",
+        "prompt": "ahead {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "ajar",
+        "prompt": "ajar {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "alert",
+        "prompt": "alert {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "alike",
+        "prompt": "alike {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "alive",
+        "prompt": "alive {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "alleged",
+        "prompt": "alleged {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "alluring",
+        "prompt": "alluring {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "aloof",
+        "prompt": "aloof {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "amazing",
+        "prompt": "amazing {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "ambiguous",
+        "prompt": "ambiguous {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "ambitious",
+        "prompt": "ambitious {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "amuck",
+        "prompt": "amuck {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "amused",
+        "prompt": "amused {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "amusing",
+        "prompt": "amusing {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "ancient",
+        "prompt": "ancient {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "angry",
+        "prompt": "angry {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "animated",
+        "prompt": "animated {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "annoyed",
+        "prompt": "annoyed {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "annoying",
+        "prompt": "annoying {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "anxious",
+        "prompt": "anxious {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "apathetic",
+        "prompt": "apathetic {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "aquatic",
+        "prompt": "aquatic {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "aromatic",
+        "prompt": "aromatic {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "arrogant",
+        "prompt": "arrogant {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "ashamed",
+        "prompt": "ashamed {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "aspiring",
+        "prompt": "aspiring {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "assorted",
+        "prompt": "assorted {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "astonishing",
+        "prompt": "astonishing {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "attractive",
+        "prompt": "attractive {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "auspicious",
+        "prompt": "auspicious {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "automatic",
+        "prompt": "automatic {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "available",
+        "prompt": "available {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "average",
+        "prompt": "average {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "aware",
+        "prompt": "aware {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "awesome",
+        "prompt": "awesome {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "axiomatic",
+        "prompt": "axiomatic {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "bad",
+        "prompt": "bad {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "barbarous",
+        "prompt": "barbarous {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "bashful",
+        "prompt": "bashful {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "bawdy",
+        "prompt": "bawdy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "beautiful",
+        "prompt": "beautiful {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "befitting",
+        "prompt": "befitting {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "belligerent",
+        "prompt": "belligerent {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "beneficial",
+        "prompt": "beneficial {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "bent",
+        "prompt": "bent {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "berserk",
+        "prompt": "berserk {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "bewildered",
+        "prompt": "bewildered {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "big",
+        "prompt": "big {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "billowy",
+        "prompt": "billowy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "bite-sized",
+        "prompt": "bite-sized {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "bitter",
+        "prompt": "bitter {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "bizarre",
+        "prompt": "bizarre {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "black",
+        "prompt": "black {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "black-and-white",
+        "prompt": "black-and-white {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "bloody",
+        "prompt": "bloody {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "blue",
+        "prompt": "blue {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "blue-eyed",
+        "prompt": "blue-eyed {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "blushing",
+        "prompt": "blushing {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "boiling",
+        "prompt": "boiling {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "boorish",
+        "prompt": "boorish {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "bored",
+        "prompt": "bored {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "boring",
+        "prompt": "boring {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "bouncy",
+        "prompt": "bouncy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "boundless",
+        "prompt": "boundless {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "brainy",
+        "prompt": "brainy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "brash",
+        "prompt": "brash {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "brave",
+        "prompt": "brave {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "brawny",
+        "prompt": "brawny {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "breakable",
+        "prompt": "breakable {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "breezy",
+        "prompt": "breezy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "brief",
+        "prompt": "brief {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "bright",
+        "prompt": "bright {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "broad",
+        "prompt": "broad {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "broken",
+        "prompt": "broken {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "brown",
+        "prompt": "brown {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "bumpy",
+        "prompt": "bumpy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "burly",
+        "prompt": "burly {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "bustling",
+        "prompt": "bustling {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "busy",
+        "prompt": "busy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "cagey",
+        "prompt": "cagey {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "calculating",
+        "prompt": "calculating {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "callous",
+        "prompt": "callous {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "calm",
+        "prompt": "calm {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "capable",
+        "prompt": "capable {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "capricious",
+        "prompt": "capricious {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "careful",
+        "prompt": "careful {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "careless",
+        "prompt": "careless {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "caring",
+        "prompt": "caring {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "cautious",
+        "prompt": "cautious {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "ceaseless",
+        "prompt": "ceaseless {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "certain",
+        "prompt": "certain {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "changeable",
+        "prompt": "changeable {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "charming",
+        "prompt": "charming {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "cheap",
+        "prompt": "cheap {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "cheerful",
+        "prompt": "cheerful {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "chemical",
+        "prompt": "chemical {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "chief",
+        "prompt": "chief {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "childlike",
+        "prompt": "childlike {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "chilly",
+        "prompt": "chilly {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "chivalrous",
+        "prompt": "chivalrous {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "chubby",
+        "prompt": "chubby {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "chunky",
+        "prompt": "chunky {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "clammy",
+        "prompt": "clammy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "classy",
+        "prompt": "classy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "clean",
+        "prompt": "clean {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "clear",
+        "prompt": "clear {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "clever",
+        "prompt": "clever {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "cloistered",
+        "prompt": "cloistered {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "cloudy",
+        "prompt": "cloudy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "closed",
+        "prompt": "closed {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "clumsy",
+        "prompt": "clumsy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "cluttered",
+        "prompt": "cluttered {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "coherent",
+        "prompt": "coherent {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "cold",
+        "prompt": "cold {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "colorful",
+        "prompt": "colorful {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "colossal",
+        "prompt": "colossal {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "combative",
+        "prompt": "combative {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "comfortable",
+        "prompt": "comfortable {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "common",
+        "prompt": "common {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "complete",
+        "prompt": "complete {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "complex",
+        "prompt": "complex {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "concerned",
+        "prompt": "concerned {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "condemned",
+        "prompt": "condemned {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "confused",
+        "prompt": "confused {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "conscious",
+        "prompt": "conscious {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "cooing",
+        "prompt": "cooing {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "cool",
+        "prompt": "cool {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "cooperative",
+        "prompt": "cooperative {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "coordinated",
+        "prompt": "coordinated {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "courageous",
+        "prompt": "courageous {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "cowardly",
+        "prompt": "cowardly {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "crabby",
+        "prompt": "crabby {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "craven",
+        "prompt": "craven {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "crazy",
+        "prompt": "crazy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "creepy",
+        "prompt": "creepy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "crooked",
+        "prompt": "crooked {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "crowded",
+        "prompt": "crowded {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "cruel",
+        "prompt": "cruel {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "cuddly",
+        "prompt": "cuddly {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "cultured",
+        "prompt": "cultured {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "cumbersome",
+        "prompt": "cumbersome {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "curious",
+        "prompt": "curious {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "curly",
+        "prompt": "curly {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "curved",
+        "prompt": "curved {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "curvy",
+        "prompt": "curvy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "cut",
+        "prompt": "cut {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "cute",
+        "prompt": "cute {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "cynical",
+        "prompt": "cynical {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "daffy",
+        "prompt": "daffy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "daily",
+        "prompt": "daily {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "damaged",
+        "prompt": "damaged {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "damaging",
+        "prompt": "damaging {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "damp",
+        "prompt": "damp {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "dangerous",
+        "prompt": "dangerous {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "dapper",
+        "prompt": "dapper {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "dark",
+        "prompt": "dark {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "dashing",
+        "prompt": "dashing {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "dazzling",
+        "prompt": "dazzling {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "dead",
+        "prompt": "dead {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "deadpan",
+        "prompt": "deadpan {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "deafening",
+        "prompt": "deafening {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "dear",
+        "prompt": "dear {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "debonair",
+        "prompt": "debonair {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "decisive",
+        "prompt": "decisive {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "decorous",
+        "prompt": "decorous {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "deep",
+        "prompt": "deep {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "deeply",
+        "prompt": "deeply {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "defeated",
+        "prompt": "defeated {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "defective",
+        "prompt": "defective {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "defiant",
+        "prompt": "defiant {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "delicate",
+        "prompt": "delicate {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "delicious",
+        "prompt": "delicious {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "delightful",
+        "prompt": "delightful {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "demonic",
+        "prompt": "demonic {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "delirious",
+        "prompt": "delirious {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "dependent",
+        "prompt": "dependent {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "depressed",
+        "prompt": "depressed {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "deranged",
+        "prompt": "deranged {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "descriptive",
+        "prompt": "descriptive {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "deserted",
+        "prompt": "deserted {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "detailed",
+        "prompt": "detailed {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "determined",
+        "prompt": "determined {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "devilish",
+        "prompt": "devilish {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "didactic",
+        "prompt": "didactic {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "different",
+        "prompt": "different {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "difficult",
+        "prompt": "difficult {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "diligent",
+        "prompt": "diligent {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "direful",
+        "prompt": "direful {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "dirty",
+        "prompt": "dirty {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "disagreeable",
+        "prompt": "disagreeable {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "disastrous",
+        "prompt": "disastrous {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "discreet",
+        "prompt": "discreet {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "disgusted",
+        "prompt": "disgusted {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "disgusting",
+        "prompt": "disgusting {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "disillusioned",
+        "prompt": "disillusioned {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "dispensable",
+        "prompt": "dispensable {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "distinct",
+        "prompt": "distinct {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "disturbed",
+        "prompt": "disturbed {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "divergent",
+        "prompt": "divergent {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "dizzy",
+        "prompt": "dizzy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "domineering",
+        "prompt": "domineering {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "doubtful",
+        "prompt": "doubtful {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "drab",
+        "prompt": "drab {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "draconian",
+        "prompt": "draconian {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "dramatic",
+        "prompt": "dramatic {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "dreary",
+        "prompt": "dreary {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "drunk",
+        "prompt": "drunk {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "dry",
+        "prompt": "dry {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "dull",
+        "prompt": "dull {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "dusty",
+        "prompt": "dusty {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "dynamic",
+        "prompt": "dynamic {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "dysfunctional",
+        "prompt": "dysfunctional {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "eager",
+        "prompt": "eager {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "early",
+        "prompt": "early {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "earsplitting",
+        "prompt": "earsplitting {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "earthy",
+        "prompt": "earthy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "easy",
+        "prompt": "easy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "eatable",
+        "prompt": "eatable {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "economic",
+        "prompt": "economic {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "educated",
+        "prompt": "educated {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "efficacious",
+        "prompt": "efficacious {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "efficient",
+        "prompt": "efficient {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "elastic",
+        "prompt": "elastic {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "elated",
+        "prompt": "elated {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "elderly",
+        "prompt": "elderly {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "electric",
+        "prompt": "electric {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "elegant",
+        "prompt": "elegant {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "elfin",
+        "prompt": "elfin {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "elite",
+        "prompt": "elite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "embarrassed",
+        "prompt": "embarrassed {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "eminent",
+        "prompt": "eminent {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "empty",
+        "prompt": "empty {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "enchanted",
+        "prompt": "enchanted {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "enchanting",
+        "prompt": "enchanting {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "encouraging",
+        "prompt": "encouraging {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "endurable",
+        "prompt": "endurable {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "energetic",
+        "prompt": "energetic {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "enormous",
+        "prompt": "enormous {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "entertaining",
+        "prompt": "entertaining {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "enthusiastic",
+        "prompt": "enthusiastic {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "envious",
+        "prompt": "envious {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "equable",
+        "prompt": "equable {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "equal",
+        "prompt": "equal {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "erect",
+        "prompt": "erect {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "erratic",
+        "prompt": "erratic {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "ethereal",
+        "prompt": "ethereal {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "evanescent",
+        "prompt": "evanescent {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "evasive",
+        "prompt": "evasive {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "even",
+        "prompt": "even {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "excellent",
+        "prompt": "excellent {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "excited",
+        "prompt": "excited {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "exciting",
+        "prompt": "exciting {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "exclusive",
+        "prompt": "exclusive {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "exotic",
+        "prompt": "exotic {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "expensive",
+        "prompt": "expensive {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "extra-large",
+        "prompt": "extra-large {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "extra-small",
+        "prompt": "extra-small {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "exuberant",
+        "prompt": "exuberant {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "exultant",
+        "prompt": "exultant {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "fabulous",
+        "prompt": "fabulous {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "faded",
+        "prompt": "faded {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "faint",
+        "prompt": "faint {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "fair",
+        "prompt": "fair {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "faithful",
+        "prompt": "faithful {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "fallacious",
+        "prompt": "fallacious {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "false",
+        "prompt": "false {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "familiar",
+        "prompt": "familiar {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "famous",
+        "prompt": "famous {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "fanatical",
+        "prompt": "fanatical {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "fancy",
+        "prompt": "fancy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "fantastic",
+        "prompt": "fantastic {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "far",
+        "prompt": "far {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "far-flung",
+        "prompt": "far-flung {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "fascinated",
+        "prompt": "fascinated {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "fast",
+        "prompt": "fast {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "fat",
+        "prompt": "fat {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "faulty",
+        "prompt": "faulty {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "fearful",
+        "prompt": "fearful {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "fearless",
+        "prompt": "fearless {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "feeble",
+        "prompt": "feeble {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "feigned",
+        "prompt": "feigned {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "female",
+        "prompt": "female {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "fertile",
+        "prompt": "fertile {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "festive",
+        "prompt": "festive {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "few",
+        "prompt": "few {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "fierce",
+        "prompt": "fierce {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "filthy",
+        "prompt": "filthy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "fine",
+        "prompt": "fine {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "finicky",
+        "prompt": "finicky {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "first",
+        "prompt": "first {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "fixed",
+        "prompt": "fixed {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "flagrant",
+        "prompt": "flagrant {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "flaky",
+        "prompt": "flaky {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "flashy",
+        "prompt": "flashy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "flat",
+        "prompt": "flat {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "flawless",
+        "prompt": "flawless {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "flimsy",
+        "prompt": "flimsy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "flippant",
+        "prompt": "flippant {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "flowery",
+        "prompt": "flowery {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "fluffy",
+        "prompt": "fluffy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "fluttering",
+        "prompt": "fluttering {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "foamy",
+        "prompt": "foamy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "foolish",
+        "prompt": "foolish {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "foregoing",
+        "prompt": "foregoing {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "forgetful",
+        "prompt": "forgetful {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "fortunate",
+        "prompt": "fortunate {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "frail",
+        "prompt": "frail {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "fragile",
+        "prompt": "fragile {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "frantic",
+        "prompt": "frantic {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "free",
+        "prompt": "free {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "freezing",
+        "prompt": "freezing {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "frequent",
+        "prompt": "frequent {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "fresh",
+        "prompt": "fresh {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "fretful",
+        "prompt": "fretful {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "friendly",
+        "prompt": "friendly {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "frightened",
+        "prompt": "frightened {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "frightening",
+        "prompt": "frightening {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "full",
+        "prompt": "full {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "fumbling",
+        "prompt": "fumbling {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "functional",
+        "prompt": "functional {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "funny",
+        "prompt": "funny {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "furry",
+        "prompt": "furry {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "furtive",
+        "prompt": "furtive {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "future",
+        "prompt": "future {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "futuristic",
+        "prompt": "futuristic {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "fuzzy",
+        "prompt": "fuzzy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "gabby",
+        "prompt": "gabby {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "gainful",
+        "prompt": "gainful {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "gamy",
+        "prompt": "gamy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "gaping",
+        "prompt": "gaping {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "garrulous",
+        "prompt": "garrulous {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "gaudy",
+        "prompt": "gaudy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "general",
+        "prompt": "general {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "gentle",
+        "prompt": "gentle {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "giant",
+        "prompt": "giant {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "giddy",
+        "prompt": "giddy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "gifted",
+        "prompt": "gifted {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "gigantic",
+        "prompt": "gigantic {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "glamorous",
+        "prompt": "glamorous {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "gleaming",
+        "prompt": "gleaming {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "glib",
+        "prompt": "glib {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "glistening",
+        "prompt": "glistening {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "glorious",
+        "prompt": "glorious {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "glossy",
+        "prompt": "glossy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "godly",
+        "prompt": "godly {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "good",
+        "prompt": "good {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "goofy",
+        "prompt": "goofy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "gorgeous",
+        "prompt": "gorgeous {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "graceful",
+        "prompt": "graceful {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "grandiose",
+        "prompt": "grandiose {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "grateful",
+        "prompt": "grateful {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "gratis",
+        "prompt": "gratis {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "gray",
+        "prompt": "gray {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "greasy",
+        "prompt": "greasy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "great",
+        "prompt": "great {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "greedy",
+        "prompt": "greedy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "green",
+        "prompt": "green {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "grey",
+        "prompt": "grey {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "grieving",
+        "prompt": "grieving {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "groovy",
+        "prompt": "groovy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "grotesque",
+        "prompt": "grotesque {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "grouchy",
+        "prompt": "grouchy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "grubby",
+        "prompt": "grubby {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "gruesome",
+        "prompt": "gruesome {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "grumpy",
+        "prompt": "grumpy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "guarded",
+        "prompt": "guarded {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "guiltless",
+        "prompt": "guiltless {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "gullible",
+        "prompt": "gullible {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "gusty",
+        "prompt": "gusty {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "guttural",
+        "prompt": "guttural {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "habitual",
+        "prompt": "habitual {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "half",
+        "prompt": "half {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "hallowed",
+        "prompt": "hallowed {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "halting",
+        "prompt": "halting {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "handsome",
+        "prompt": "handsome {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "handy",
+        "prompt": "handy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "hanging",
+        "prompt": "hanging {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "hapless",
+        "prompt": "hapless {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "happy",
+        "prompt": "happy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "hard",
+        "prompt": "hard {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "hard-to-find",
+        "prompt": "hard-to-find {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "harmonious",
+        "prompt": "harmonious {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "harsh",
+        "prompt": "harsh {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "hateful",
+        "prompt": "hateful {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "heady",
+        "prompt": "heady {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "healthy",
+        "prompt": "healthy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "heartbreaking",
+        "prompt": "heartbreaking {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "heavenly",
+        "prompt": "heavenly {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "heavy",
+        "prompt": "heavy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "hellish",
+        "prompt": "hellish {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "helpful",
+        "prompt": "helpful {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "helpless",
+        "prompt": "helpless {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "hesitant",
+        "prompt": "hesitant {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "hideous",
+        "prompt": "hideous {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "high",
+        "prompt": "high {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "highfalutin",
+        "prompt": "highfalutin {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "high-pitched",
+        "prompt": "high-pitched {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "hilarious",
+        "prompt": "hilarious {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "hissing",
+        "prompt": "hissing {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "historical",
+        "prompt": "historical {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "holistic",
+        "prompt": "holistic {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "hollow",
+        "prompt": "hollow {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "homeless",
+        "prompt": "homeless {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "homely",
+        "prompt": "homely {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "honorable",
+        "prompt": "honorable {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "horrible",
+        "prompt": "horrible {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "hospitable",
+        "prompt": "hospitable {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "hot",
+        "prompt": "hot {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "huge",
+        "prompt": "huge {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "hulking",
+        "prompt": "hulking {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "humdrum",
+        "prompt": "humdrum {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "humorous",
+        "prompt": "humorous {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "hungry",
+        "prompt": "hungry {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "hurried",
+        "prompt": "hurried {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "hurt",
+        "prompt": "hurt {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "hushed",
+        "prompt": "hushed {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "husky",
+        "prompt": "husky {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "hypnotic",
+        "prompt": "hypnotic {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "hysterical",
+        "prompt": "hysterical {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "icky",
+        "prompt": "icky {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "icy",
+        "prompt": "icy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "idiotic",
+        "prompt": "idiotic {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "ignorant",
+        "prompt": "ignorant {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "ill",
+        "prompt": "ill {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "illegal",
+        "prompt": "illegal {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "ill-fated",
+        "prompt": "ill-fated {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "ill-informed",
+        "prompt": "ill-informed {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "illustrious",
+        "prompt": "illustrious {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "imaginary",
+        "prompt": "imaginary {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "immense",
+        "prompt": "immense {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "imminent",
+        "prompt": "imminent {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "impartial",
+        "prompt": "impartial {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "imperfect",
+        "prompt": "imperfect {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "impolite",
+        "prompt": "impolite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "important",
+        "prompt": "important {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "imported",
+        "prompt": "imported {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "impossible",
+        "prompt": "impossible {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "incandescent",
+        "prompt": "incandescent {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "incompetent",
+        "prompt": "incompetent {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "inconclusive",
+        "prompt": "inconclusive {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "industrious",
+        "prompt": "industrious {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "incredible",
+        "prompt": "incredible {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "inexpensive",
+        "prompt": "inexpensive {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "infamous",
+        "prompt": "infamous {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "innate",
+        "prompt": "innate {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "innocent",
+        "prompt": "innocent {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "inquisitive",
+        "prompt": "inquisitive {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "insidious",
+        "prompt": "insidious {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "instinctive",
+        "prompt": "instinctive {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "intelligent",
+        "prompt": "intelligent {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "interesting",
+        "prompt": "interesting {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "internal",
+        "prompt": "internal {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "invincible",
+        "prompt": "invincible {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "irate",
+        "prompt": "irate {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "irritating",
+        "prompt": "irritating {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "itchy",
+        "prompt": "itchy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "jaded",
+        "prompt": "jaded {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "jagged",
+        "prompt": "jagged {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "jazzy",
+        "prompt": "jazzy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "jealous",
+        "prompt": "jealous {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "jittery",
+        "prompt": "jittery {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "jobless",
+        "prompt": "jobless {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "jolly",
+        "prompt": "jolly {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "joyous",
+        "prompt": "joyous {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "judicious",
+        "prompt": "judicious {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "juicy",
+        "prompt": "juicy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "jumbled",
+        "prompt": "jumbled {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "jumpy",
+        "prompt": "jumpy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "juvenile",
+        "prompt": "juvenile {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "keen",
+        "prompt": "keen {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "kind",
+        "prompt": "kind {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "kindhearted",
+        "prompt": "kindhearted {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "kindly",
+        "prompt": "kindly {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "knotty",
+        "prompt": "knotty {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "knowing",
+        "prompt": "knowing {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "knowledgeable",
+        "prompt": "knowledgeable {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "known",
+        "prompt": "known {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "labored",
+        "prompt": "labored {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "lackadaisical",
+        "prompt": "lackadaisical {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "lacking",
+        "prompt": "lacking {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "lame",
+        "prompt": "lame {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "lamentable",
+        "prompt": "lamentable {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "languid",
+        "prompt": "languid {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "large",
+        "prompt": "large {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "last",
+        "prompt": "last {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "late",
+        "prompt": "late {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "laughable",
+        "prompt": "laughable {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "lavish",
+        "prompt": "lavish {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "lazy",
+        "prompt": "lazy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "lean",
+        "prompt": "lean {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "learned",
+        "prompt": "learned {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "left",
+        "prompt": "left {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "legal",
+        "prompt": "legal {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "lethal",
+        "prompt": "lethal {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "level",
+        "prompt": "level {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "lewd",
+        "prompt": "lewd {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "light",
+        "prompt": "light {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "like",
+        "prompt": "like {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "likeable",
+        "prompt": "likeable {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "limping",
+        "prompt": "limping {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "literate",
+        "prompt": "literate {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "little",
+        "prompt": "little {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "lively",
+        "prompt": "lively {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "living",
+        "prompt": "living {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "lonely",
+        "prompt": "lonely {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "long",
+        "prompt": "long {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "longing",
+        "prompt": "longing {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "long-term",
+        "prompt": "long-term {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "loose",
+        "prompt": "loose {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "lopsided",
+        "prompt": "lopsided {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "loud",
+        "prompt": "loud {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "loutish",
+        "prompt": "loutish {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "lovely",
+        "prompt": "lovely {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "loving",
+        "prompt": "loving {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "low",
+        "prompt": "low {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "lowly",
+        "prompt": "lowly {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "lucky",
+        "prompt": "lucky {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "ludicrous",
+        "prompt": "ludicrous {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "lumpy",
+        "prompt": "lumpy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "lush",
+        "prompt": "lush {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "luxuriant",
+        "prompt": "luxuriant {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "lying",
+        "prompt": "lying {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "lyrical",
+        "prompt": "lyrical {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "macabre",
+        "prompt": "macabre {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "macho",
+        "prompt": "macho {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "maddening",
+        "prompt": "maddening {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "madly",
+        "prompt": "madly {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "magenta",
+        "prompt": "magenta {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "magical",
+        "prompt": "magical {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "magnificent",
+        "prompt": "magnificent {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "majestic",
+        "prompt": "majestic {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "makeshift",
+        "prompt": "makeshift {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "male",
+        "prompt": "male {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "malicious",
+        "prompt": "malicious {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "mammoth",
+        "prompt": "mammoth {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "maniacal",
+        "prompt": "maniacal {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "many",
+        "prompt": "many {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "marked",
+        "prompt": "marked {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "massive",
+        "prompt": "massive {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "married",
+        "prompt": "married {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "marvelous",
+        "prompt": "marvelous {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "material",
+        "prompt": "material {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "materialistic",
+        "prompt": "materialistic {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "mature",
+        "prompt": "mature {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "mean",
+        "prompt": "mean {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "measly",
+        "prompt": "measly {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "meaty",
+        "prompt": "meaty {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "medical",
+        "prompt": "medical {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "meek",
+        "prompt": "meek {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "mellow",
+        "prompt": "mellow {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "melodic",
+        "prompt": "melodic {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "melted",
+        "prompt": "melted {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "merciful",
+        "prompt": "merciful {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "mere",
+        "prompt": "mere {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "messy",
+        "prompt": "messy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "mighty",
+        "prompt": "mighty {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "military",
+        "prompt": "military {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "milky",
+        "prompt": "milky {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "mindless",
+        "prompt": "mindless {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "miniature",
+        "prompt": "miniature {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "minor",
+        "prompt": "minor {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "miscreant",
+        "prompt": "miscreant {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "misty",
+        "prompt": "misty {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "mixed",
+        "prompt": "mixed {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "moaning",
+        "prompt": "moaning {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "modern",
+        "prompt": "modern {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "moldy",
+        "prompt": "moldy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "momentous",
+        "prompt": "momentous {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "motionless",
+        "prompt": "motionless {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "mountainous",
+        "prompt": "mountainous {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "muddled",
+        "prompt": "muddled {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "mundane",
+        "prompt": "mundane {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "murky",
+        "prompt": "murky {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "mushy",
+        "prompt": "mushy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "mute",
+        "prompt": "mute {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "mysterious",
+        "prompt": "mysterious {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "naive",
+        "prompt": "naive {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "nappy",
+        "prompt": "nappy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "narrow",
+        "prompt": "narrow {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "nasty",
+        "prompt": "nasty {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "natural",
+        "prompt": "natural {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "naughty",
+        "prompt": "naughty {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "nauseating",
+        "prompt": "nauseating {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "near",
+        "prompt": "near {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "neat",
+        "prompt": "neat {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "nebulous",
+        "prompt": "nebulous {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "necessary",
+        "prompt": "necessary {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "needless",
+        "prompt": "needless {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "needy",
+        "prompt": "needy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "neighborly",
+        "prompt": "neighborly {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "nervous",
+        "prompt": "nervous {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "new",
+        "prompt": "new {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "next",
+        "prompt": "next {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "nice",
+        "prompt": "nice {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "nifty",
+        "prompt": "nifty {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "nimble",
+        "prompt": "nimble {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "nippy",
+        "prompt": "nippy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "noiseless",
+        "prompt": "noiseless {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "noisy",
+        "prompt": "noisy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "nonchalant",
+        "prompt": "nonchalant {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "nondescript",
+        "prompt": "nondescript {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "nonstop",
+        "prompt": "nonstop {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "normal",
+        "prompt": "normal {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "nostalgic",
+        "prompt": "nostalgic {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "nosy",
+        "prompt": "nosy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "noxious",
+        "prompt": "noxious {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "numberless",
+        "prompt": "numberless {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "numerous",
+        "prompt": "numerous {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "nutritious",
+        "prompt": "nutritious {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "nutty",
+        "prompt": "nutty {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "oafish",
+        "prompt": "oafish {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "obedient",
+        "prompt": "obedient {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "obeisant",
+        "prompt": "obeisant {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "obese",
+        "prompt": "obese {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "obnoxious",
+        "prompt": "obnoxious {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "obscene",
+        "prompt": "obscene {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "obsequious",
+        "prompt": "obsequious {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "observant",
+        "prompt": "observant {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "obsolete",
+        "prompt": "obsolete {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "obtainable",
+        "prompt": "obtainable {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "oceanic",
+        "prompt": "oceanic {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "odd",
+        "prompt": "odd {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "offbeat",
+        "prompt": "offbeat {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "old",
+        "prompt": "old {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "old-fashioned",
+        "prompt": "old-fashioned {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "omniscient",
+        "prompt": "omniscient {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "onerous",
+        "prompt": "onerous {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "open",
+        "prompt": "open {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "opposite",
+        "prompt": "opposite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "optimal",
+        "prompt": "optimal {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "orange",
+        "prompt": "orange {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "ordinary",
+        "prompt": "ordinary {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "organic",
+        "prompt": "organic {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "ossified",
+        "prompt": "ossified {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "outgoing",
+        "prompt": "outgoing {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "outrageous",
+        "prompt": "outrageous {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "outstanding",
+        "prompt": "outstanding {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "oval",
+        "prompt": "oval {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "overconfident",
+        "prompt": "overconfident {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "overjoyed",
+        "prompt": "overjoyed {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "overrated",
+        "prompt": "overrated {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "overt",
+        "prompt": "overt {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "overwrought",
+        "prompt": "overwrought {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "painful",
+        "prompt": "painful {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "painstaking",
+        "prompt": "painstaking {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "pale",
+        "prompt": "pale {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "paltry",
+        "prompt": "paltry {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "panicky",
+        "prompt": "panicky {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "panoramic",
+        "prompt": "panoramic {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "parallel",
+        "prompt": "parallel {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "parched",
+        "prompt": "parched {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "parsimonious",
+        "prompt": "parsimonious {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "past",
+        "prompt": "past {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "pastoral",
+        "prompt": "pastoral {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "pathetic",
+        "prompt": "pathetic {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "peaceful",
+        "prompt": "peaceful {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "penitent",
+        "prompt": "penitent {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "perfect",
+        "prompt": "perfect {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "periodic",
+        "prompt": "periodic {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "permissible",
+        "prompt": "permissible {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "perpetual",
+        "prompt": "perpetual {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "petite",
+        "prompt": "petite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "phobic",
+        "prompt": "phobic {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "physical",
+        "prompt": "physical {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "picayune",
+        "prompt": "picayune {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "pink",
+        "prompt": "pink {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "piquant",
+        "prompt": "piquant {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "placid",
+        "prompt": "placid {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "plain",
+        "prompt": "plain {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "plant",
+        "prompt": "plant {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "plastic",
+        "prompt": "plastic {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "plausible",
+        "prompt": "plausible {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "pleasant",
+        "prompt": "pleasant {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "plucky",
+        "prompt": "plucky {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "pointless",
+        "prompt": "pointless {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "poised",
+        "prompt": "poised {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "polite",
+        "prompt": "polite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "political",
+        "prompt": "political {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "poor",
+        "prompt": "poor {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "possessive",
+        "prompt": "possessive {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "possible",
+        "prompt": "possible {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "powerful",
+        "prompt": "powerful {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "precious",
+        "prompt": "precious {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "premium",
+        "prompt": "premium {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "present",
+        "prompt": "present {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "pretty",
+        "prompt": "pretty {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "previous",
+        "prompt": "previous {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "pricey",
+        "prompt": "pricey {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "prickly",
+        "prompt": "prickly {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "private",
+        "prompt": "private {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "probable",
+        "prompt": "probable {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "productive",
+        "prompt": "productive {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "profuse",
+        "prompt": "profuse {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "protective",
+        "prompt": "protective {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "proud",
+        "prompt": "proud {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "psychedelic",
+        "prompt": "psychedelic {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "psychotic",
+        "prompt": "psychotic {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "public",
+        "prompt": "public {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "puffy",
+        "prompt": "puffy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "pumped",
+        "prompt": "pumped {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "puny",
+        "prompt": "puny {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "purple",
+        "prompt": "purple {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "purring",
+        "prompt": "purring {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "pushy",
+        "prompt": "pushy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "puzzled",
+        "prompt": "puzzled {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "puzzling",
+        "prompt": "puzzling {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "quaint",
+        "prompt": "quaint {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "quarrelsome",
+        "prompt": "quarrelsome {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "questionable",
+        "prompt": "questionable {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "quick",
+        "prompt": "quick {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "quiet",
+        "prompt": "quiet {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "quirky",
+        "prompt": "quirky {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "quixotic",
+        "prompt": "quixotic {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "quizzical",
+        "prompt": "quizzical {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "rabid",
+        "prompt": "rabid {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "racial",
+        "prompt": "racial {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "ragged",
+        "prompt": "ragged {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "rainy",
+        "prompt": "rainy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "rambunctious",
+        "prompt": "rambunctious {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "rampant",
+        "prompt": "rampant {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "rapid",
+        "prompt": "rapid {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "rare",
+        "prompt": "rare {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "raspy",
+        "prompt": "raspy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "ratty",
+        "prompt": "ratty {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "ready",
+        "prompt": "ready {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "real",
+        "prompt": "real {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "rebel",
+        "prompt": "rebel {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "receptive",
+        "prompt": "receptive {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "recondite",
+        "prompt": "recondite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "red",
+        "prompt": "red {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "redundant",
+        "prompt": "redundant {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "reflective",
+        "prompt": "reflective {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "regular",
+        "prompt": "regular {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "relieved",
+        "prompt": "relieved {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "remarkable",
+        "prompt": "remarkable {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "reminiscent",
+        "prompt": "reminiscent {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "repulsive",
+        "prompt": "repulsive {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "resolute",
+        "prompt": "resolute {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "resonant",
+        "prompt": "resonant {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "responsible",
+        "prompt": "responsible {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "rhetorical",
+        "prompt": "rhetorical {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "rich",
+        "prompt": "rich {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "right",
+        "prompt": "right {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "righteous",
+        "prompt": "righteous {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "rightful",
+        "prompt": "rightful {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "rigid",
+        "prompt": "rigid {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "ripe",
+        "prompt": "ripe {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "ritzy",
+        "prompt": "ritzy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "roasted",
+        "prompt": "roasted {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "robust",
+        "prompt": "robust {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "romantic",
+        "prompt": "romantic {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "roomy",
+        "prompt": "roomy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "rotten",
+        "prompt": "rotten {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "rough",
+        "prompt": "rough {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "round",
+        "prompt": "round {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "royal",
+        "prompt": "royal {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "ruddy",
+        "prompt": "ruddy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "rude",
+        "prompt": "rude {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "rural",
+        "prompt": "rural {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "rustic",
+        "prompt": "rustic {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "ruthless",
+        "prompt": "ruthless {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "sable",
+        "prompt": "sable {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "sad",
+        "prompt": "sad {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "safe",
+        "prompt": "safe {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "salty",
+        "prompt": "salty {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "same",
+        "prompt": "same {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "sassy",
+        "prompt": "sassy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "satisfying",
+        "prompt": "satisfying {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "savory",
+        "prompt": "savory {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "scandalous",
+        "prompt": "scandalous {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "scarce",
+        "prompt": "scarce {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "scared",
+        "prompt": "scared {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "scary",
+        "prompt": "scary {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "scattered",
+        "prompt": "scattered {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "scientific",
+        "prompt": "scientific {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "scintillating",
+        "prompt": "scintillating {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "scrawny",
+        "prompt": "scrawny {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "screeching",
+        "prompt": "screeching {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "second",
+        "prompt": "second {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "second-hand",
+        "prompt": "second-hand {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "secret",
+        "prompt": "secret {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "secretive",
+        "prompt": "secretive {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "sedate",
+        "prompt": "sedate {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "seemly",
+        "prompt": "seemly {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "selective",
+        "prompt": "selective {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "selfish",
+        "prompt": "selfish {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "separate",
+        "prompt": "separate {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "serious",
+        "prompt": "serious {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "shaggy",
+        "prompt": "shaggy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "shaky",
+        "prompt": "shaky {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "shallow",
+        "prompt": "shallow {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "sharp",
+        "prompt": "sharp {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "shiny",
+        "prompt": "shiny {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "shivering",
+        "prompt": "shivering {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "shocking",
+        "prompt": "shocking {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "short",
+        "prompt": "short {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "shrill",
+        "prompt": "shrill {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "shut",
+        "prompt": "shut {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "shy",
+        "prompt": "shy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "sick",
+        "prompt": "sick {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "silent",
+        "prompt": "silent {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "silky",
+        "prompt": "silky {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "silly",
+        "prompt": "silly {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "simple",
+        "prompt": "simple {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "simplistic",
+        "prompt": "simplistic {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "sincere",
+        "prompt": "sincere {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "skillful",
+        "prompt": "skillful {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "skinny",
+        "prompt": "skinny {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "sleepy",
+        "prompt": "sleepy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "slim",
+        "prompt": "slim {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "slimy",
+        "prompt": "slimy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "slippery",
+        "prompt": "slippery {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "sloppy",
+        "prompt": "sloppy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "slow",
+        "prompt": "slow {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "small",
+        "prompt": "small {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "smart",
+        "prompt": "smart {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "smelly",
+        "prompt": "smelly {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "smiling",
+        "prompt": "smiling {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "smoggy",
+        "prompt": "smoggy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "smooth",
+        "prompt": "smooth {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "sneaky",
+        "prompt": "sneaky {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "snobbish",
+        "prompt": "snobbish {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "snotty",
+        "prompt": "snotty {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "soft",
+        "prompt": "soft {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "soggy",
+        "prompt": "soggy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "solid",
+        "prompt": "solid {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "somber",
+        "prompt": "somber {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "sophisticated",
+        "prompt": "sophisticated {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "sordid",
+        "prompt": "sordid {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "sore",
+        "prompt": "sore {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "sour",
+        "prompt": "sour {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "sparkling",
+        "prompt": "sparkling {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "special",
+        "prompt": "special {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "spectacular",
+        "prompt": "spectacular {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "spicy",
+        "prompt": "spicy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "spiffy",
+        "prompt": "spiffy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "spiky",
+        "prompt": "spiky {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "spiritual",
+        "prompt": "spiritual {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "spiteful",
+        "prompt": "spiteful {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "splendid",
+        "prompt": "splendid {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "spooky",
+        "prompt": "spooky {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "spotless",
+        "prompt": "spotless {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "spotted",
+        "prompt": "spotted {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "spotty",
+        "prompt": "spotty {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "spurious",
+        "prompt": "spurious {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "squalid",
+        "prompt": "squalid {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "square",
+        "prompt": "square {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "squealing",
+        "prompt": "squealing {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "squeamish",
+        "prompt": "squeamish {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "staking",
+        "prompt": "staking {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "stale",
+        "prompt": "stale {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "standing",
+        "prompt": "standing {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "statuesque",
+        "prompt": "statuesque {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "steadfast",
+        "prompt": "steadfast {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "steady",
+        "prompt": "steady {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "steep",
+        "prompt": "steep {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "stereotyped",
+        "prompt": "stereotyped {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "sticky",
+        "prompt": "sticky {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "stiff",
+        "prompt": "stiff {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "stimulating",
+        "prompt": "stimulating {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "stingy",
+        "prompt": "stingy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "stormy",
+        "prompt": "stormy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "straight",
+        "prompt": "straight {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "strange",
+        "prompt": "strange {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "striped",
+        "prompt": "striped {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "strong",
+        "prompt": "strong {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "stupendous",
+        "prompt": "stupendous {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "sturdy",
+        "prompt": "sturdy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "subdued",
+        "prompt": "subdued {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "subsequent",
+        "prompt": "subsequent {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "substantial",
+        "prompt": "substantial {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "successful",
+        "prompt": "successful {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "succinct",
+        "prompt": "succinct {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "sudden",
+        "prompt": "sudden {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "sulky",
+        "prompt": "sulky {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "super",
+        "prompt": "super {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "superb",
+        "prompt": "superb {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "superficial",
+        "prompt": "superficial {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "supreme",
+        "prompt": "supreme {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "swanky",
+        "prompt": "swanky {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "sweet",
+        "prompt": "sweet {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "sweltering",
+        "prompt": "sweltering {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "swift",
+        "prompt": "swift {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "symptomatic",
+        "prompt": "symptomatic {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "synonymous",
+        "prompt": "synonymous {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "taboo",
+        "prompt": "taboo {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "tacit",
+        "prompt": "tacit {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "tacky",
+        "prompt": "tacky {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "talented",
+        "prompt": "talented {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "tall",
+        "prompt": "tall {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "tame",
+        "prompt": "tame {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "tan",
+        "prompt": "tan {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "tangible",
+        "prompt": "tangible {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "tangy",
+        "prompt": "tangy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "tart",
+        "prompt": "tart {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "tasteful",
+        "prompt": "tasteful {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "tasteless",
+        "prompt": "tasteless {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "tasty",
+        "prompt": "tasty {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "tawdry",
+        "prompt": "tawdry {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "tearful",
+        "prompt": "tearful {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "tedious",
+        "prompt": "tedious {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "teeny",
+        "prompt": "teeny {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "teeny-tiny",
+        "prompt": "teeny-tiny {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "telling",
+        "prompt": "telling {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "temporary",
+        "prompt": "temporary {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "ten",
+        "prompt": "ten {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "tender",
+        "prompt": "tender {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "tense",
+        "prompt": "tense {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "tenuous",
+        "prompt": "tenuous {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "terrific",
+        "prompt": "terrific {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "tested",
+        "prompt": "tested {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "testy",
+        "prompt": "testy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "thankful",
+        "prompt": "thankful {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "therapeutic",
+        "prompt": "therapeutic {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "thick",
+        "prompt": "thick {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "thin",
+        "prompt": "thin {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "thinkable",
+        "prompt": "thinkable {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "third",
+        "prompt": "third {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "thirsty",
+        "prompt": "thirsty {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "thoughtful",
+        "prompt": "thoughtful {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "thoughtless",
+        "prompt": "thoughtless {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "threatening",
+        "prompt": "threatening {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "thundering",
+        "prompt": "thundering {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "tidy",
+        "prompt": "tidy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "tight",
+        "prompt": "tight {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "tightfisted",
+        "prompt": "tightfisted {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "tiny",
+        "prompt": "tiny {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "tired",
+        "prompt": "tired {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "tiresome",
+        "prompt": "tiresome {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "toothsome",
+        "prompt": "toothsome {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "torpid",
+        "prompt": "torpid {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "tough",
+        "prompt": "tough {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "towering",
+        "prompt": "towering {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "tranquil",
+        "prompt": "tranquil {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "trashy",
+        "prompt": "trashy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "tremendous",
+        "prompt": "tremendous {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "tricky",
+        "prompt": "tricky {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "trite",
+        "prompt": "trite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "troubled",
+        "prompt": "troubled {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "truculent",
+        "prompt": "truculent {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "true",
+        "prompt": "true {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "truthful",
+        "prompt": "truthful {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "typical",
+        "prompt": "typical {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "ubiquitous",
+        "prompt": "ubiquitous {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "ultra",
+        "prompt": "ultra {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "unable",
+        "prompt": "unable {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "unaccountable",
+        "prompt": "unaccountable {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "unadvised",
+        "prompt": "unadvised {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "unarmed",
+        "prompt": "unarmed {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "unbecoming",
+        "prompt": "unbecoming {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "unbiased",
+        "prompt": "unbiased {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "uncovered",
+        "prompt": "uncovered {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "understood",
+        "prompt": "understood {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "undesirable",
+        "prompt": "undesirable {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "unequal",
+        "prompt": "unequal {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "unequaled",
+        "prompt": "unequaled {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "uneven",
+        "prompt": "uneven {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "unhealthy",
+        "prompt": "unhealthy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "uninterested",
+        "prompt": "uninterested {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "unique",
+        "prompt": "unique {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "unkempt",
+        "prompt": "unkempt {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "unknown",
+        "prompt": "unknown {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "unnatural",
+        "prompt": "unnatural {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "unruly",
+        "prompt": "unruly {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "unsightly",
+        "prompt": "unsightly {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "unsuitable",
+        "prompt": "unsuitable {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "untidy",
+        "prompt": "untidy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "unused",
+        "prompt": "unused {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "unusual",
+        "prompt": "unusual {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "unwieldy",
+        "prompt": "unwieldy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "unwritten",
+        "prompt": "unwritten {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "upbeat",
+        "prompt": "upbeat {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "uppity",
+        "prompt": "uppity {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "upset",
+        "prompt": "upset {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "uptight",
+        "prompt": "uptight {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "used",
+        "prompt": "used {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "useful",
+        "prompt": "useful {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "useless",
+        "prompt": "useless {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "utopian",
+        "prompt": "utopian {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "vacuous",
+        "prompt": "vacuous {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "vagabond",
+        "prompt": "vagabond {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "vague",
+        "prompt": "vague {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "valuable",
+        "prompt": "valuable {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "various",
+        "prompt": "various {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "vast",
+        "prompt": "vast {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "vengeful",
+        "prompt": "vengeful {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "venomous",
+        "prompt": "venomous {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "verdant",
+        "prompt": "verdant {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "versed",
+        "prompt": "versed {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "victorious",
+        "prompt": "victorious {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "vigorous",
+        "prompt": "vigorous {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "violent",
+        "prompt": "violent {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "violet",
+        "prompt": "violet {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "vivacious",
+        "prompt": "vivacious {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "voiceless",
+        "prompt": "voiceless {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "volatile",
+        "prompt": "volatile {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "voracious",
+        "prompt": "voracious {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "vulgar",
+        "prompt": "vulgar {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "wacky",
+        "prompt": "wacky {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "waggish",
+        "prompt": "waggish {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "waiting",
+        "prompt": "waiting {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "wakeful",
+        "prompt": "wakeful {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "wandering",
+        "prompt": "wandering {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "wanting",
+        "prompt": "wanting {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "warlike",
+        "prompt": "warlike {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "warm",
+        "prompt": "warm {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "wary",
+        "prompt": "wary {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "wasteful",
+        "prompt": "wasteful {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "watery",
+        "prompt": "watery {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "weak",
+        "prompt": "weak {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "wealthy",
+        "prompt": "wealthy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "weary",
+        "prompt": "weary {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "well-groomed",
+        "prompt": "well-groomed {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "well-made",
+        "prompt": "well-made {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "well-off",
+        "prompt": "well-off {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "well-to-do",
+        "prompt": "well-to-do {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "wet",
+        "prompt": "wet {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "whimsical",
+        "prompt": "whimsical {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "whispering",
+        "prompt": "whispering {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "white",
+        "prompt": "white {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "whole",
+        "prompt": "whole {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "wholesale",
+        "prompt": "wholesale {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "wicked",
+        "prompt": "wicked {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "wide",
+        "prompt": "wide {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "wide-eyed",
+        "prompt": "wide-eyed {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "wiggly",
+        "prompt": "wiggly {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "wild",
+        "prompt": "wild {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "willing",
+        "prompt": "willing {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "windy",
+        "prompt": "windy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "wiry",
+        "prompt": "wiry {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "wise",
+        "prompt": "wise {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "wistful",
+        "prompt": "wistful {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "witty",
+        "prompt": "witty {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "woebegone",
+        "prompt": "woebegone {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "womanly",
+        "prompt": "womanly {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "wonderful",
+        "prompt": "wonderful {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "wooden",
+        "prompt": "wooden {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "woozy",
+        "prompt": "woozy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "workable",
+        "prompt": "workable {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "worried",
+        "prompt": "worried {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "worthless",
+        "prompt": "worthless {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "wrathful",
+        "prompt": "wrathful {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "wretched",
+        "prompt": "wretched {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "wrong",
+        "prompt": "wrong {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "wry",
+        "prompt": "wry {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "yellow",
+        "prompt": "yellow {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "yielding",
+        "prompt": "yielding {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "young",
+        "prompt": "young {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "youthful",
+        "prompt": "youthful {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "yummy",
+        "prompt": "yummy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "zany",
+        "prompt": "zany {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "zealous",
+        "prompt": "zealous {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "zesty",
+        "prompt": "zesty {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "zippy",
+        "prompt": "zippy {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "zonked",
+        "prompt": "zonked {prompt}",
+        "negative_prompt": ""
+    }
+]

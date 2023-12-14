@@ -1,0 +1,332 @@
+[
+    {
+        "name": "none",
+        "prompt": "{prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "aboard",
+        "prompt": "aboard {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "about",
+        "prompt": "about {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "above",
+        "prompt": "above {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "across",
+        "prompt": "across {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "after",
+        "prompt": "after {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "against",
+        "prompt": "against {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "along",
+        "prompt": "along {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "amid",
+        "prompt": "amid {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "among",
+        "prompt": "among {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "around",
+        "prompt": "around {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "as",
+        "prompt": "as {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "at",
+        "prompt": "at {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "before",
+        "prompt": "before {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "behind",
+        "prompt": "behind {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "below",
+        "prompt": "below {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "beneath",
+        "prompt": "beneath {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "beside",
+        "prompt": "beside {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "between",
+        "prompt": "between {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "beyond",
+        "prompt": "beyond {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "but",
+        "prompt": "but {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "by",
+        "prompt": "by {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "concerning",
+        "prompt": "concerning {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "considering",
+        "prompt": "considering {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "despite",
+        "prompt": "despite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "down",
+        "prompt": "down {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "during",
+        "prompt": "during {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "except",
+        "prompt": "except {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "following",
+        "prompt": "following {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "for",
+        "prompt": "for {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "from",
+        "prompt": "from {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "in",
+        "prompt": "in {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "inside",
+        "prompt": "inside {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "into",
+        "prompt": "into {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "like",
+        "prompt": "like {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "minus",
+        "prompt": "minus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "near",
+        "prompt": "near {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "next",
+        "prompt": "next {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "of",
+        "prompt": "of {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "off",
+        "prompt": "off {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "on",
+        "prompt": "on {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "onto",
+        "prompt": "onto {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "opposite",
+        "prompt": "opposite {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "out",
+        "prompt": "out {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "outside",
+        "prompt": "outside {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "over",
+        "prompt": "over {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "past",
+        "prompt": "past {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "per",
+        "prompt": "per {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "plus",
+        "prompt": "plus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "round",
+        "prompt": "round {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "since",
+        "prompt": "since {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "than",
+        "prompt": "than {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "through",
+        "prompt": "through {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "to",
+        "prompt": "to {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "toward",
+        "prompt": "toward {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "under",
+        "prompt": "under {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "underneath",
+        "prompt": "underneath {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "unlike",
+        "prompt": "unlike {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "until",
+        "prompt": "until {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "up",
+        "prompt": "up {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "upon",
+        "prompt": "upon {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "versus",
+        "prompt": "versus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "via",
+        "prompt": "via {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "with",
+        "prompt": "with {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "within",
+        "prompt": "within {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "without",
+        "prompt": "without {prompt}",
+        "negative_prompt": ""
+    }
+]

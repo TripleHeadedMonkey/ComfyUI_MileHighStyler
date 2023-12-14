@@ -1,0 +1,457 @@
+[
+    {
+        "name": "none",
+        "prompt": "{prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "backboob",
+        "prompt": "backboob {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "cleavage",
+        "prompt": "cleavage {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "cleavage cutout",
+        "prompt": "cleavage cutout {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "sideboob",
+        "prompt": "sideboob {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "underboob",
+        "prompt": "underboob {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "underboob cutout",
+        "prompt": "underboob cutout {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "areola slip",
+        "prompt": "areola slip {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "nipple slip",
+        "prompt": "nipple slip {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "nippleless clothes",
+        "prompt": "nippleless clothes {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "nipples (visible)",
+        "prompt": "nipples (visible) {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "natural shape",
+        "prompt": "natural shape {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "enhanced shape",
+        "prompt": "enhanced shape {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "asymmetrical shape",
+        "prompt": "asymmetrical shape {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "symmetrical alignment",
+        "prompt": "symmetrical alignment {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "cutout design",
+        "prompt": "cutout design {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "underwire support",
+        "prompt": "underwire support {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "soft cup design",
+        "prompt": "soft cup design {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "full coverage",
+        "prompt": "full coverage {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "demi-cup style",
+        "prompt": "demi-cup style {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "plunge neckline",
+        "prompt": "plunge neckline {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "push-up effect",
+        "prompt": "push-up effect {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "minimizer style",
+        "prompt": "minimizer style {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "strapless design",
+        "prompt": "strapless design {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "halter support",
+        "prompt": "halter support {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "racerback design",
+        "prompt": "racerback design {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "unlined style",
+        "prompt": "unlined style {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "padded cups",
+        "prompt": "padded cups {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "molded cups",
+        "prompt": "molded cups {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "seamless design",
+        "prompt": "seamless design {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "front closure",
+        "prompt": "front closure {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "back closure",
+        "prompt": "back closure {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "side support",
+        "prompt": "side support {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "multiway straps",
+        "prompt": "multiway straps {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "adjustable straps",
+        "prompt": "adjustable straps {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "wide-set straps",
+        "prompt": "wide-set straps {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "narrow-set straps",
+        "prompt": "narrow-set straps {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "firm support",
+        "prompt": "firm support {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "light support",
+        "prompt": "light support {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "wireless design",
+        "prompt": "wireless design {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "lace detailing",
+        "prompt": "lace detailing {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "mesh panels",
+        "prompt": "mesh panels {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "satin finish",
+        "prompt": "satin finish {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "cotton fabric",
+        "prompt": "cotton fabric {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "microfiber material",
+        "prompt": "microfiber material {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "silk texture",
+        "prompt": "silk texture {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "spandex blend",
+        "prompt": "spandex blend {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "moisture-wicking fabric",
+        "prompt": "moisture-wicking fabric {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "breathable material",
+        "prompt": "breathable material {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "cooling effect",
+        "prompt": "cooling effect {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "thermal insulation",
+        "prompt": "thermal insulation {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "racerback support",
+        "prompt": "racerback support {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "deep V-neckline",
+        "prompt": "deep V-neckline {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "convertible design",
+        "prompt": "convertible design {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "full bust support",
+        "prompt": "full bust support {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "half cup style",
+        "prompt": "half cup style {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "balconette design",
+        "prompt": "balconette design {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "strapless support",
+        "prompt": "strapless support {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "bandeau style",
+        "prompt": "bandeau style {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "triangle cups",
+        "prompt": "triangle cups {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "contour cups",
+        "prompt": "contour cups {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "full-cup coverage",
+        "prompt": "full-cup coverage {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "peephole design",
+        "prompt": "peephole design {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "longline style",
+        "prompt": "longline style {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "front-zip closure",
+        "prompt": "front-zip closure {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "encapsulated cups",
+        "prompt": "encapsulated cups {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "compression support",
+        "prompt": "compression support {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "center gore",
+        "prompt": "center gore {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "leotard back",
+        "prompt": "leotard back {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "camisole straps",
+        "prompt": "camisole straps {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "U-back design",
+        "prompt": "U-back design {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "cross-back support",
+        "prompt": "cross-back support {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "high-impact support",
+        "prompt": "high-impact support {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "low-impact support",
+        "prompt": "low-impact support {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "medium-impact support",
+        "prompt": "medium-impact support {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "built-in bra",
+        "prompt": "built-in bra {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "removable padding",
+        "prompt": "removable padding {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "adjustable band",
+        "prompt": "adjustable band {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "three-hook closure",
+        "prompt": "three-hook closure {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "two-hook closure",
+        "prompt": "two-hook closure {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "back-smoothing design",
+        "prompt": "back-smoothing design {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "side-smoothing panels",
+        "prompt": "side-smoothing panels {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "lace overlay",
+        "prompt": "lace overlay {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "mesh overlay",
+        "prompt": "mesh overlay {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "satin overlay",
+        "prompt": "satin overlay {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "embroidered detailing",
+        "prompt": "embroidered detailing {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "scalloped edging",
+        "prompt": "scalloped edging {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "ruched cups",
+        "prompt": "ruched cups {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "underbust band",
+        "prompt": "underbust band {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "plunge back design",
+        "prompt": "plunge back design {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "swimwear design",
+        "prompt": "swimwear design {prompt}",
+        "negative_prompt": ""
+    }
+]
