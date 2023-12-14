@@ -1,7 +1,0 @@
-[
-    {
-        "name": "base",
-        "prompt": "{prompt}",
-        "negative_prompt": ""
-    }
-]
