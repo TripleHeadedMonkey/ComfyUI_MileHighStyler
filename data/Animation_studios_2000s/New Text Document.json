@@ -1,0 +1,392 @@
+[
+    {
+        "name": "Walt Disney Animation Studios",
+        "prompt": "Walt Disney Animation Studios style {prompt}, classic and modern animation style, rich and detailed backgrounds, magical and heartwarming stories, known for iconic films like The Lion King and Frozen",
+        "negative_prompt": "plain, simple, dark"
+    },
+    {
+        "name": "Pixar Animation Studios",
+        "prompt": "Pixar Animation Studios style {prompt}, high-quality 3D animation, emotional and character-driven stories, innovative and visually stunning, creators of Toy Story and Finding Nemo",
+        "negative_prompt": "boring, simple, static"
+    },
+    {
+        "name": "DreamWorks Animation",
+        "prompt": "DreamWorks Animation style {prompt}, vibrant and dynamic animation, adventurous and comedic stories, diverse and expressive characters, known for Shrek and How to Train Your Dragon",
+        "negative_prompt": "dull, plain, boring"
+    },
+    {
+        "name": "Warner Bros. Animation",
+        "prompt": "Warner Bros. Animation style {prompt}, classic and modern animation style, dynamic and action-packed stories, iconic characters, creators of Looney Tunes and Animaniacs",
+        "negative_prompt": "plain, static, simple"
+    },
+    {
+        "name": "Nickelodeon Animation Studio",
+        "prompt": "Nickelodeon Animation Studio style {prompt}, colorful and energetic animation, humorous and engaging stories, beloved characters, known for SpongeBob SquarePants and Avatar: The Last Airbender",
+        "negative_prompt": "boring, plain, static"
+    },
+    {
+        "name": "Cartoon Network Studios",
+        "prompt": "Cartoon Network Studios style {prompt}, unique and creative animation style, adventurous and comedic stories, distinctive characters, known for Adventure Time and The Powerpuff Girls",
+        "negative_prompt": "dull, boring, plain"
+    },
+    {
+        "name": "Blue Sky Studios",
+        "prompt": "Blue Sky Studios style {prompt}, high-quality 3D animation, imaginative and entertaining stories, expressive characters, creators of Ice Age and Rio",
+        "negative_prompt": "plain, simple, boring"
+    },
+    {
+        "name": "Illumination Entertainment",
+        "prompt": "Illumination Entertainment style {prompt}, vibrant and comedic animation, simple yet engaging stories, memorable characters, known for Despicable Me and Minions",
+        "negative_prompt": "boring, plain, static"
+    },
+    {
+        "name": "Laika",
+        "prompt": "Laika style {prompt}, stop-motion animation style, dark and whimsical stories, intricate and detailed visuals, creators of Coraline and Kubo and the Two Strings",
+        "negative_prompt": "simple, plain, static"
+    },
+    {
+        "name": "Sony Pictures Animation",
+        "prompt": "Sony Pictures Animation style {prompt}, high-quality animation, imaginative and diverse stories, dynamic and expressive characters, known for Spider-Man: Into the Spider-Verse and Hotel Transylvania",
+        "negative_prompt": "plain, dull, boring"
+    },
+    {
+        "name": "Hanna-Barbera Productions",
+        "prompt": "Hanna-Barbera Productions style {prompt}, classic animation style, humorous and family-friendly stories, iconic characters, known for The Flintstones and Scooby-Doo",
+        "negative_prompt": "boring, simple, static"
+    },
+    {
+        "name": "Universal Cartoon Studios",
+        "prompt": "Universal Cartoon Studios style {prompt}, versatile animation style, engaging and entertaining stories, diverse characters, known for The Land Before Time and An American Tail",
+        "negative_prompt": "plain, dull, boring"
+    },
+    {
+        "name": "Aardman Animations",
+        "prompt": "Aardman Animations style {prompt}, stop-motion animation style, humorous and heartwarming stories, distinctive character designs, creators of Wallace & Gromit and Shaun the Sheep",
+        "negative_prompt": "simple, plain, static"
+    },
+    {
+        "name": "Titmouse, Inc.",
+        "prompt": "Titmouse, Inc. style {prompt}, modern and edgy animation style, bold and dynamic stories, diverse and expressive characters, known for Big Mouth and The Venture Bros.",
+        "negative_prompt": "boring, plain, dull"
+    },
+    {
+        "name": "Frederator Studios",
+        "prompt": "Frederator Studios style {prompt}, unique and creative animation style, adventurous and comedic stories, distinctive characters, known for Fairly OddParents and Adventure Time",
+        "negative_prompt": "dull, plain, boring"
+    },
+    {
+        "name": "Filmation",
+        "prompt": "Filmation style {prompt}, classic animation style, adventurous and family-friendly stories, iconic characters, known for He-Man and the Masters of the Universe and She-Ra",
+        "negative_prompt": "boring, plain, static"
+    },
+    {
+        "name": "DHX Media",
+        "prompt": "DHX Media style {prompt}, versatile animation style, engaging and diverse stories, colorful and expressive characters, known for My Little Pony: Friendship is Magic and Inspector Gadget",
+        "negative_prompt": "dull, boring, plain"
+    },
+    {
+        "name": "Nelvana",
+        "prompt": "Nelvana style {prompt}, classic and modern animation style, heartwarming and adventurous stories, beloved characters, known for Franklin and Babar",
+        "negative_prompt": "plain, simple, boring"
+    },
+    {
+        "name": "DIC Entertainment",
+        "prompt": "DIC Entertainment style {prompt}, classic animation style, engaging and entertaining stories, memorable characters, known for Inspector Gadget and Sailor Moon (dubbed)",
+        "negative_prompt": "boring, plain, static"
+    },
+    {
+        "name": "Boulder Media",
+        "prompt": "Boulder Media style {prompt}, high-quality animation, imaginative and diverse stories, dynamic and expressive characters, known for The Amazing World of Gumball and Foster's Home for Imaginary Friends",
+        "negative_prompt": "plain, dull, boring"
+    },
+    {
+        "name": "WildBrain",
+        "prompt": "WildBrain style {prompt}, versatile animation style, engaging and entertaining stories, colorful and expressive characters, known for Peanuts and Strawberry Shortcake",
+        "negative_prompt": "boring, plain, static"
+    },
+    {
+        "name": "Mercury Filmworks",
+        "prompt": "Mercury Filmworks style {prompt}, high-quality animation, imaginative and diverse stories, dynamic and expressive characters, known for Star vs. the Forces of Evil and Hilda",
+        "negative_prompt": "plain, dull, boring"
+    },
+    {
+        "name": "Studio B Productions",
+        "prompt": "Studio B Productions style {prompt}, versatile animation style, engaging and entertaining stories, colorful and expressive characters, known for My Little Pony: Friendship is Magic and Martha Speaks",
+        "negative_prompt": "boring, plain, static"
+    },
+    {
+        "name": "Atomic Cartoons",
+        "prompt": "Atomic Cartoons style {prompt}, high-quality animation, imaginative and diverse stories, dynamic and expressive characters, known for Atomic Betty and Counterfeit Cat",
+        "negative_prompt": "plain, dull, boring"
+    },
+    {
+        "name": "Bento Box Entertainment",
+        "prompt": "Bento Box Entertainment style {prompt}, modern and edgy animation style, bold and dynamic stories, diverse and expressive characters, known for Bob's Burgers and The Awesomes",
+        "negative_prompt": "boring, plain, dull"
+    },
+    {
+        "name": "9 Story Media Group",
+        "prompt": "9 Story Media Group style {prompt}, versatile animation style, engaging and entertaining stories, colorful and expressive characters, known for Arthur and Daniel Tiger's Neighborhood",
+        "negative_prompt": "dull, plain, boring"
+    },
+    {
+        "name": "Brown Bag Films",
+        "prompt": "Brown Bag Films style {prompt}, high-quality animation, heartwarming and educational stories, colorful and expressive characters, known for Doc McStuffins and Peter Rabbit",
+        "negative_prompt": "boring, plain, static"
+    },
+    {
+        "name": "Cyber Group Studios",
+        "prompt": "Cyber Group Studios style {prompt}, versatile animation style, engaging and entertaining stories, dynamic and expressive characters, known for Zou and Gigantosaurus",
+        "negative_prompt": "plain, dull, boring"
+    },
+    {
+        "name": "Splash Entertainment",
+        "prompt": "Splash Entertainment style {prompt}, high-quality animation, imaginative and diverse stories, dynamic and expressive characters, known for Norm of the North and Sabrina: Secrets of a Teenage Witch",
+        "negative_prompt": "boring, plain, static"
+    },
+    {
+        "name": "Sunbow Entertainment",
+        "prompt": "Sunbow Entertainment style {prompt}, classic animation style, adventurous and action-packed stories, iconic characters, known for Transformers and G.I. Joe",
+        "negative_prompt": "dull, boring, plain"
+    },
+    {
+        "name": "Spümcø",
+        "prompt": "Spümcø style {prompt}, unique and edgy animation style, bold and dynamic stories, distinctive characters, known for The Ren & Stimpy Show and The Ripping Friends",
+        "negative_prompt": "plain, simple, boring"
+    },
+    {
+        "name": "Film Roman",
+        "prompt": "Film Roman style {prompt}, versatile animation style, engaging and entertaining stories, dynamic and expressive characters, known for The Simpsons and King of the Hill",
+        "negative_prompt": "boring, plain, static"
+    },
+    {
+        "name": "Rough Draft Studios",
+        "prompt": "Rough Draft Studios style {prompt}, modern and edgy animation style, bold and dynamic stories, diverse and expressive characters, known for Futurama and The Maxx",
+        "negative_prompt": "plain, dull, boring"
+    },
+    {
+        "name": "Stoopid Buddy Stoodios",
+        "prompt": "Stoopid Buddy Stoodios style {prompt}, stop-motion animation style, humorous and edgy stories, distinctive character designs, known for Robot Chicken and SuperMansion",
+        "negative_prompt": "simple, plain, static"
+    },
+    {
+        "name": "Animaniacs Studios",
+        "prompt": "Animaniacs Studios style {prompt}, classic and modern animation style, humorous and engaging stories, iconic characters, known for Animaniacs and Pinky and the Brain",
+        "negative_prompt": "boring, plain, static"
+    },
+    {
+        "name": "Zagtoon",
+        "prompt": "Zagtoon style {prompt}, high-quality animation, imaginative and diverse stories, dynamic and expressive characters, known for Miraculous Ladybug and Zak Storm",
+        "negative_prompt": "plain, dull, boring"
+    },
+    {
+        "name": "Icon Creative Studio",
+        "prompt": "Icon Creative Studio style {prompt}, versatile animation style, engaging and entertaining stories, colorful and expressive characters, known for Elena of Avalor and The Rocketeer",
+        "negative_prompt": "boring, plain, static"
+    },
+    {
+        "name": "Gorilla Pictures",
+        "prompt": "Gorilla Pictures style {prompt}, unique and artistic animation style, engaging and dynamic stories, high-quality animation, known for BoJack Horseman and Tuca & Bertie",
+        "negative_prompt": "plain, dull, boring"
+    },
+    {
+        "name": "Nexus Studios",
+        "prompt": "Nexus Studios style {prompt}, innovative and high-quality animation style, imaginative and dynamic stories, detailed and expressive characters, known for The House and Back to the Moon",
+        "negative_prompt": "plain, simple, boring"
+    },
+    {
+        "name": "Dwarf Animation Studio",
+        "prompt": "Dwarf Animation Studio style {prompt}, high-quality animation, engaging and entertaining stories, dynamic and expressive characters, known for Monchhichi Tribe and Zafari",
+        "negative_prompt": "boring, plain, static"
+    },
+    {
+        "name": "Fuzzy Door Productions",
+        "prompt": "Fuzzy Door Productions style {prompt}, versatile animation style, engaging and entertaining stories, dynamic and expressive characters, known for Family Guy and American Dad!",
+        "negative_prompt": "plain, dull, boring"
+    },
+    {
+        "name": "Renegade Animation",
+        "prompt": "Renegade Animation style {prompt}, unique and creative animation style, humorous and engaging stories, distinctive characters, known for Hi Hi Puffy AmiYumi and The Mr. Men Show",
+        "negative_prompt": "boring, plain, static"
+    },
+    {
+        "name": "Mainframe Studios",
+        "prompt": "Mainframe Studios style {prompt}, high-quality CGI animation, imaginative and diverse stories, dynamic and expressive characters, known for ReBoot and Beast Wars: Transformers",
+        "negative_prompt": "plain, dull, boring"
+    },
+    {
+        "name": "Gaumont Animation",
+        "prompt": "Gaumont Animation style {prompt}, versatile animation style, engaging and entertaining stories, colorful and expressive characters, known for Calimero and Belle and Sebastian",
+        "negative_prompt": "boring, plain, static"
+    },
+    {
+        "name": "Method Animation",
+        "prompt": "Method Animation style {prompt}, high-quality CGI animation, imaginative and diverse stories, dynamic and expressive characters, known for The Little Prince and Iron Man: Armored Adventures",
+        "negative_prompt": "plain, dull, boring"
+    },
+    {
+        "name": "Red Dog Culture House",
+        "prompt": "Red Dog Culture House style {prompt}, high-quality animation, engaging and diverse stories, dynamic and expressive characters, known for The King of Fighters: Destiny and Monkie Kid",
+        "negative_prompt": "boring, plain, static"
+    },
+    {
+        "name": "Bardel Entertainment",
+        "prompt": "Bardel Entertainment style {prompt}, versatile animation style, engaging and entertaining stories, colorful and expressive characters, known for Rick and Morty and The Dragon Prince",
+        "negative_prompt": "plain, dull, boring"
+    },
+    {
+        "name": "Cosmos-Maya",
+        "prompt": "Cosmos-Maya style {prompt}, high-quality animation, imaginative and diverse stories, dynamic and expressive characters, known for Motu Patlu and Chhota Bheem",
+        "negative_prompt": "boring, plain, static"
+    },
+    {
+        "name": "Weta Digital",
+        "prompt": "Weta Digital style {prompt}, high-quality CGI animation, engaging and dynamic stories, detailed and expressive characters, known for Avatar and The Lord of the Rings (animated scenes)",
+        "negative_prompt": "plain, simple, boring"
+    },
+    {
+        "name": "Nuts Studios",
+        "prompt": "Nuts Studios style {prompt}, versatile animation style, engaging and entertaining stories, colorful and expressive characters, known for Angry Birds Stella and Stella and Sam",
+        "negative_prompt": "boring, plain, static"
+    },
+    {
+        "name": "Lucasfilm Animation",
+        "prompt": "Lucasfilm Animation style {prompt}, high-quality CGI animation, imaginative and diverse stories, dynamic and expressive characters, known for Star Wars: The Clone Wars and Star Wars Rebels",
+        "negative_prompt": "plain, dull, boring"
+    },
+    {
+        "name": "ShadowMachine",
+        "prompt": "ShadowMachine style {prompt}, unique and edgy animation style, bold and dynamic stories, distinctive characters, known for BoJack Horseman and Robot Chicken",
+        "negative_prompt": "plain, simple, boring"
+    },
+    {
+        "name": "Flying Bark Productions",
+        "prompt": "Flying Bark Productions style {prompt}, high-quality animation, engaging and diverse stories, dynamic and expressive characters, known for Rise of the Teenage Mutant Ninja Turtles and Maya the Bee",
+        "negative_prompt": "boring, plain, static"
+    },
+    {
+        "name": "Studio 100 Animation",
+        "prompt": "Studio 100 Animation style {prompt}, high-quality animation, engaging and entertaining stories, colorful and expressive characters, known for Heidi and Vic the Viking",
+        "negative_prompt": "plain, dull, boring"
+    },
+    {
+        "name": "Kavaleer Productions",
+        "prompt": "Kavaleer Productions style {prompt}, versatile animation style, engaging and entertaining stories, colorful and expressive characters, known for Wildernuts and Kiva Can Do!",
+        "negative_prompt": "boring, plain, static"
+    },
+    {
+        "name": "Silvergate Media",
+        "prompt": "Silvergate Media style {prompt}, high-quality animation, imaginative and diverse stories, dynamic and expressive characters, known for Peter Rabbit and Hilda",
+        "negative_prompt": "plain, dull, boring"
+    },
+    {
+        "name": "Gigglebug Entertainment",
+        "prompt": "Gigglebug Entertainment style {prompt}, versatile animation style, engaging and entertaining stories, colorful and expressive characters, known for Best & Bester and Gigglebug",
+        "negative_prompt": "boring, plain, static"
+    },
+    {
+        "name": "King Rollo Films",
+        "prompt": "King Rollo Films style {prompt}, classic animation style, heartwarming and educational stories, beloved characters, known for The Adventures of Spot and Poppy Cat",
+        "negative_prompt": "plain, simple, boring"
+    },
+    {
+        "name": "Rixxer Productions",
+        "prompt": "Rixxer Productions style {prompt}, versatile animation style, engaging and diverse stories, colorful and expressive characters, known for The Secret Saturdays and Sym-Bionic Titan",
+        "negative_prompt": "boring, plain, static"
+    },
+    {
+        "name": "Six Point Harness",
+        "prompt": "Six Point Harness style {prompt}, unique and edgy animation style, bold and dynamic stories, distinctive characters, known for Hair Love and Dick Figures",
+        "negative_prompt": "plain, simple, boring"
+    },
+    {
+        "name": "Sullivan Bluth Studios",
+        "prompt": "Sullivan Bluth Studios style {prompt}, classic animation style, heartwarming and adventurous stories, iconic characters, known for The Secret of NIMH and An American Tail",
+        "negative_prompt": "boring, plain, static"
+    },
+    {
+        "name": "DisneyToon Studios",
+        "prompt": "DisneyToon Studios style {prompt}, high-quality animation, imaginative and diverse stories, dynamic and expressive characters, known for Planes and Tinker Bell",
+        "negative_prompt": "plain, dull, boring"
+    },
+    {
+        "name": "Nickelodeon Movies",
+        "prompt": "Nickelodeon Movies style {prompt}, versatile animation style, engaging and entertaining stories, colorful and expressive characters, known for The SpongeBob SquarePants Movie and Rango",
+        "negative_prompt": "boring, plain, static"
+    },
+    {
+        "name": "Margarita Mix Studios",
+        "prompt": "Margarita Mix Studios style {prompt}, unique and artistic animation style, engaging and dynamic stories, high-quality animation, known for The Nightmare Before Christmas and James and the Giant Peach",
+        "negative_prompt": "plain, dull, boring"
+    },
+    {
+        "name": "Zoic Studios",
+        "prompt": "Zoic Studios style {prompt}, high-quality CGI animation, engaging and dynamic stories, detailed and expressive characters, known for Firefly and Once Upon a Time",
+        "negative_prompt": "plain, simple, boring"
+    },
+    {
+        "name": "BKN International",
+        "prompt": "BKN International style {prompt}, versatile animation style, engaging and entertaining stories, colorful and expressive characters, known for Kong: The Animated Series and Roswell Conspiracies",
+        "negative_prompt": "boring, plain, static"
+    },
+    {
+        "name": "Studio Redfrog",
+        "prompt": "Studio Redfrog style {prompt}, high-quality animation, engaging and diverse stories, dynamic and expressive characters, known for Zak Storm and Miss Moon",
+        "negative_prompt": "plain, dull, boring"
+    },
+    {
+        "name": "Ellipsanime Productions",
+        "prompt": "Ellipsanime Productions style {prompt}, classic and modern animation style, heartwarming and adventurous stories, beloved characters, known for Code Lyoko and Oggy and the Cockroaches",
+        "negative_prompt": "plain, simple, boring"
+    },
+    {
+        "name": "Xilam Animation",
+        "prompt": "Xilam Animation style {prompt}, versatile animation style, engaging and entertaining stories, colorful and expressive characters, known for Oggy and the Cockroaches and Zig & Sharko",
+        "negative_prompt": "boring, plain, static"
+    },
+    {
+        "name": "The SPA Studios",
+        "prompt": "The SPA Studios style {prompt}, high-quality animation, imaginative and diverse stories, dynamic and expressive characters, known for Klaus and Despicable Me",
+        "negative_prompt": "plain, dull, boring"
+    },
+    {
+        "name": "Tonic DNA",
+        "prompt": "Tonic DNA style {prompt}, versatile animation style, engaging and entertaining stories, colorful and expressive characters, known for How the Grinch Stole Christmas and Garfield",
+        "negative_prompt": "boring, plain, static"
+    },
+    {
+        "name": "Guru Studio",
+        "prompt": "Guru Studio style {prompt}, high-quality animation, imaginative and diverse stories, dynamic and expressive characters, known for PAW Patrol and Justin Time",
+        "negative_prompt": "plain, dull, boring"
+    },
+    {
+        "name": "Entertainment One",
+        "prompt": "Entertainment One style {prompt}, versatile animation style, engaging and entertaining stories, colorful and expressive characters, known for Peppa Pig and PJ Masks",
+        "negative_prompt": "boring, plain, static"
+    },
+    {
+        "name": "eOne Family",
+        "prompt": "eOne Family style {prompt}, high-quality animation, imaginative and diverse stories, dynamic and expressive characters, known for Peppa Pig and PJ Masks",
+        "negative_prompt": "plain, dull, boring"
+    },
+    {
+        "name": "Moonbug Entertainment",
+        "prompt": "Moonbug Entertainment style {prompt}, high-quality animation, heartwarming and educational stories, colorful and expressive characters, known for Cocomelon and Little Baby Bum",
+        "negative_prompt": "boring, plain, static"
+    },
+    {
+        "name": "Kreiworks",
+        "prompt": "Kreiworks style {prompt}, high-quality animation, imaginative and diverse stories, dynamic and expressive characters, known for Mila and ToonMarty",
+        "negative_prompt": "plain, dull, boring"
+    },
+    {
+        "name": "Zodiak Kids Studios",
+        "prompt": "Zodiak Kids Studios style {prompt}, versatile animation style, engaging and entertaining stories, colorful and expressive characters, known for The Ranch and LoliRock",
+        "negative_prompt": "boring, plain, static"
+    },
+    {
+        "name": "France Animation",
+        "prompt": "France Animation style {prompt}, classic animation style, adventurous and engaging stories, iconic characters, known for The Mysterious Cities of Gold and Oggy and the Cockroaches",
+        "negative_prompt": "plain, simple, boring"
+    }
+]

@@ -1,0 +1,632 @@
+[
+    {
+        "name": "none",
+        "prompt": "{prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "armpit focus",
+        "prompt": "armpit focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "ass focus",
+        "prompt": "ass focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "back focus",
+        "prompt": "back focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "breast focus",
+        "prompt": "breast focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "eye focus",
+        "prompt": "eye focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "foot focus",
+        "prompt": "foot focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "hand focus",
+        "prompt": "hand focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "hip focus",
+        "prompt": "hip focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "navel focus",
+        "prompt": "navel focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "pectoral focus",
+        "prompt": "pectoral focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "thigh focus",
+        "prompt": "thigh focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "soft focus",
+        "prompt": "soft focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "hair focus",
+        "prompt": "hair focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "hand focus",
+        "prompt": "hand focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "foot focus",
+        "prompt": "foot focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "shoulder focus",
+        "prompt": "shoulder focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "waist focus",
+        "prompt": "waist focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "lip focus",
+        "prompt": "lip focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "nose focus",
+        "prompt": "nose focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "ear focus",
+        "prompt": "ear focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "leg focus",
+        "prompt": "leg focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "elbow focus",
+        "prompt": "elbow focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "wrist focus",
+        "prompt": "wrist focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "hip focus",
+        "prompt": "hip focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "knee focus",
+        "prompt": "knee focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "ankle focus",
+        "prompt": "ankle focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "toe focus",
+        "prompt": "toe focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "finger focus",
+        "prompt": "finger focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "thigh focus",
+        "prompt": "thigh focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "calf focus",
+        "prompt": "calf focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "forearm focus",
+        "prompt": "forearm focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "chin focus",
+        "prompt": "chin focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "cheek focus",
+        "prompt": "cheek focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "forehead focus",
+        "prompt": "forehead focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "teeth focus",
+        "prompt": "teeth focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "neck focus",
+        "prompt": "neck focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "tongue focus",
+        "prompt": "tongue focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "nail focus",
+        "prompt": "nail focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "eyebrow focus",
+        "prompt": "eyebrow focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "eyelash focus",
+        "prompt": "eyelash focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "heel focus",
+        "prompt": "heel focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "knuckle focus",
+        "prompt": "knuckle focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "palm focus",
+        "prompt": "palm focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "sole focus",
+        "prompt": "sole focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "jaw focus",
+        "prompt": "jaw focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "collarbone focus",
+        "prompt": "collarbone focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "fingertip focus",
+        "prompt": "fingertip focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "belly button focus",
+        "prompt": "belly button focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "temple focus",
+        "prompt": "temple focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "scalp focus",
+        "prompt": "scalp focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "sky focus",
+        "prompt": "sky focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "window view focus",
+        "prompt": "window view focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "tree focus",
+        "prompt": "tree focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "cloud focus",
+        "prompt": "cloud focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "ocean focus",
+        "prompt": "ocean focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "mountain focus",
+        "prompt": "mountain focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "river focus",
+        "prompt": "river focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "flower focus",
+        "prompt": "flower focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "grass focus",
+        "prompt": "grass focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "sand focus",
+        "prompt": "sand focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "rock focus",
+        "prompt": "rock focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "waterfall focus",
+        "prompt": "waterfall focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "sunset focus",
+        "prompt": "sunset focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "sunrise focus",
+        "prompt": "sunrise focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "moon focus",
+        "prompt": "moon focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "star focus",
+        "prompt": "star focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "rain focus",
+        "prompt": "rain focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "snow focus",
+        "prompt": "snow focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "ice focus",
+        "prompt": "ice focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "fog focus",
+        "prompt": "fog focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "storm focus",
+        "prompt": "storm focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "lightning focus",
+        "prompt": "lightning focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "wind focus",
+        "prompt": "wind focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "building focus",
+        "prompt": "building focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "bridge focus",
+        "prompt": "bridge focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "road focus",
+        "prompt": "road focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "car focus",
+        "prompt": "car focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "bike focus",
+        "prompt": "bike focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "boat focus",
+        "prompt": "boat focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "airplane focus",
+        "prompt": "airplane focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "train focus",
+        "prompt": "train focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "bus focus",
+        "prompt": "bus focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "beach focus",
+        "prompt": "beach focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "forest focus",
+        "prompt": "forest focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "desert focus",
+        "prompt": "desert focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "lake focus",
+        "prompt": "lake focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "island focus",
+        "prompt": "island focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "cityscape focus",
+        "prompt": "cityscape focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "countryside focus",
+        "prompt": "countryside focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "wildlife focus",
+        "prompt": "wildlife focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "hill focus",
+        "prompt": "hill focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "valley focus",
+        "prompt": "valley focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "field focus",
+        "prompt": "field focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "garden focus",
+        "prompt": "garden focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "playground focus",
+        "prompt": "playground focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "fountain focus",
+        "prompt": "fountain focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "monument focus",
+        "prompt": "monument focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "statue focus",
+        "prompt": "statue focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "skyscraper focus",
+        "prompt": "skyscraper focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "tower focus",
+        "prompt": "tower focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "furniture focus",
+        "prompt": "furniture focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "room focus",
+        "prompt": "room focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "door focus",
+        "prompt": "door focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "window focus",
+        "prompt": "window focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "wall focus",
+        "prompt": "wall focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "ceiling focus",
+        "prompt": "ceiling focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "floor focus",
+        "prompt": "floor focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "lamp focus",
+        "prompt": "lamp focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "sofa focus",
+        "prompt": "sofa focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "table focus",
+        "prompt": "table focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "chair focus",
+        "prompt": "chair focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "bed focus",
+        "prompt": "bed focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "desk focus",
+        "prompt": "desk focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "shelf focus",
+        "prompt": "shelf focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "mirror focus",
+        "prompt": "mirror focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "fireplace focus",
+        "prompt": "fireplace focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "staircase focus",
+        "prompt": "staircase focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "appliance focus",
+        "prompt": "appliance focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "bathroom focus",
+        "prompt": "bathroom focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "kitchen focus",
+        "prompt": "kitchen focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "dining room focus",
+        "prompt": "dining room focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "living room focus",
+        "prompt": "living room focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "office focus",
+        "prompt": "office focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "balcony focus",
+        "prompt": "balcony focus {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "corridor focus",
+        "prompt": "corridor focus {prompt}",
+        "negative_prompt": ""
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "name": "none",
+        "prompt": "{prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Baroque Fashion",
+        "prompt": "Baroque Fashion , {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Casual Attire",
+        "prompt": "Casual Attire , {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Traditional Attire",
+        "prompt": "Traditional Attire , {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Streetwear Fashion",
+        "prompt": "Streetwear Fashion , {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Fantasy Fashion",
+        "prompt": "Fantasy Fashion , {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Historical Attire",
+        "prompt": "Historical Attire , {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Avant-Garde Fashion",
+        "prompt": "Avant-Garde Fashion , {prompt}",
+        "negative_prompt": ""
+    }
+]

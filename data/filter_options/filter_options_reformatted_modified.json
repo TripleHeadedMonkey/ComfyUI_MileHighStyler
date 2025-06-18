@@ -1,0 +1,257 @@
+[
+    {
+        "name": "none",
+        "prompt": "{prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Sepia Tone",
+        "prompt": "{prompt} Sepia Tone ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Black and White",
+        "prompt": "{prompt} Black and White ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Vignette",
+        "prompt": "{prompt} Vignette ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Soft Focus",
+        "prompt": "{prompt} Soft Focus ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "HDR",
+        "prompt": "{prompt} HDR ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Vintage Film",
+        "prompt": "{prompt} Vintage Film ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Warm Glow",
+        "prompt": "{prompt} Warm Glow ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Cool Blue",
+        "prompt": "{prompt} Cool Blue ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Motion Blur",
+        "prompt": "{prompt} Motion Blur ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Grainy Film",
+        "prompt": "{prompt} Grainy Film ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Comic Book Halftone",
+        "prompt": "{prompt} Comic Book Halftone ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Soft Glow",
+        "prompt": "{prompt} Soft Glow ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Faded Vintage",
+        "prompt": "{prompt} Faded Vintage ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Cinematic Filter",
+        "prompt": "{prompt} Cinematic Filter ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Night Vision",
+        "prompt": "{prompt} Night Vision ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Infrared Effect",
+        "prompt": "{prompt} Infrared Effect ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Pencil Sketch Filter",
+        "prompt": "{prompt} Pencil Sketch Filter ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Duotone Filter",
+        "prompt": "{prompt} Duotone Filter ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Muted Color Palette",
+        "prompt": "{prompt} Muted Color Palette ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Sepia Glow",
+        "prompt": "{prompt} Sepia Glow ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Shadow Boost",
+        "prompt": "{prompt} Shadow Boost ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Cool Grey Filter",
+        "prompt": "{prompt} Cool Grey Filter ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Color Splash",
+        "prompt": "{prompt} Color Splash ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Retro VHS Filter",
+        "prompt": "{prompt} Retro VHS Filter ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "8-Bit Pixel Filter",
+        "prompt": "{prompt} 8-Bit Pixel Filter ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Chalkboard Effect",
+        "prompt": "{prompt} Chalkboard Effect ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Dark Monochrome",
+        "prompt": "{prompt} Dark Monochrome ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Bloom Effect",
+        "prompt": "{prompt} Bloom Effect ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Saturated Tones",
+        "prompt": "{prompt} Saturated Tones ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Surreal Glow",
+        "prompt": "{prompt} Surreal Glow ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Mystical Fog",
+        "prompt": "{prompt} Mystical Fog ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Fantasy Lighting",
+        "prompt": "{prompt} Fantasy Lighting ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Sunset Haze",
+        "prompt": "{prompt} Sunset Haze ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Vintage Grain",
+        "prompt": "{prompt} Vintage Grain ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Old Movie Reel",
+        "prompt": "{prompt} Old Movie Reel ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Film Noir",
+        "prompt": "{prompt} Film Noir ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Romantic Blur",
+        "prompt": "{prompt} Romantic Blur ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Dreamy Haze",
+        "prompt": "{prompt} Dreamy Haze ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Neon Glow",
+        "prompt": "{prompt} Neon Glow ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Techno Filter",
+        "prompt": "{prompt} Techno Filter ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Noise Reduction",
+        "prompt": "{prompt} Noise Reduction ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Desaturated Softness",
+        "prompt": "{prompt} Desaturated Softness ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Sketchbook Filter",
+        "prompt": "{prompt} Sketchbook Filter ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Magic Hour Filter",
+        "prompt": "{prompt} Magic Hour Filter ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Dusty Lens",
+        "prompt": "{prompt} Dusty Lens ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Worn Canvas",
+        "prompt": "{prompt} Worn Canvas ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Chromatic Aberration",
+        "prompt": "{prompt} Chromatic Aberration ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Dream-Like Pastel",
+        "prompt": "{prompt} Dream-Like Pastel ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Color Fade",
+        "prompt": "{prompt} Color Fade ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Bright Contrast",
+        "prompt": "{prompt} Bright Contrast ",
+        "negative_prompt": ""
+    }
+]

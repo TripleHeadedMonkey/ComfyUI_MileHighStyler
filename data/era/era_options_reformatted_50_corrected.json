@@ -1,0 +1,62 @@
+[
+    {
+        "name": "none",
+        "prompt": "{prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Renaissance (1300 \u2013 1600)",
+        "prompt": "Renaissance (1300 \u2013 1600) , {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Baroque (1600 \u2013 1750)",
+        "prompt": "Baroque (1600 \u2013 1750) , {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Rococo (1720 \u2013 1780)",
+        "prompt": "Rococo (1720 \u2013 1780) , {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Neoclassicism (1750 \u2013 1850)",
+        "prompt": "Neoclassicism (1750 \u2013 1850) , {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Romanticism (1800 \u2013 1850)",
+        "prompt": "Romanticism (1800 \u2013 1850) , {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Realism (1840 \u2013 1880)",
+        "prompt": "Realism (1840 \u2013 1880) , {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Impressionism (1860 \u2013 1886)",
+        "prompt": "Impressionism (1860 \u2013 1886) , {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Post-Impressionism (1886 \u2013 1905)",
+        "prompt": "Post-Impressionism (1886 \u2013 1905) , {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Symbolism (1880 \u2013 1910)",
+        "prompt": "Symbolism (1880 \u2013 1910) , {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Art Nouveau (1890 \u2013 1910)",
+        "prompt": "Art Nouveau (1890 \u2013 1910) , {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Fauvism (1905 \u2013 1910)",
+        "prompt": "Fauvism (1905 \u2013 1910) , {prompt}",
+        "negative_prompt": ""
+    }
+]

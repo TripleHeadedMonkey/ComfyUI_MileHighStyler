@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Aardman Animations",
+        "prompt": "Aardman Animations style {prompt}, clay sculpted, jerky stop motion, eccentric character designs, humorous antics",
+        "negative_prompt": "smooth CGI, serious, realistic"
+    },
+    {
+        "name": "Laika Studios",
+        "prompt": "Laika Studios style {prompt}, hybrid clay and CGI techniques, smooth yet detailed stop motion, gothic character designs, dark narrative themes",
+        "negative_prompt": "bright, simplistic, light-hearted"
+    },
+    {
+        "name": "Mackinnon & Saunders",
+        "prompt": "Mackinnon & Saunders style {prompt}, precise puppet fabrication, fluid yet nuanced stop motion, clean and detailed character designs, charming and imaginative children's stories",
+        "negative_prompt": "abstract, rough, adult-themed"
+    },
+    {
+        "name": "Tippett Studio",
+        "prompt": "Tippett Studio style {prompt}, creature-focused, dynamic stop motion, fantastical character designs, often dark and mythical elements",
+        "negative_prompt": "ordinary, mundane, contemporary"
+    },
+    {
+        "name": "Cuppa Coffee Studios",
+        "prompt": "Cuppa Coffee Studios style {prompt}, abstract clay animation, jerky stop motion, exaggerated character designs, adult humor",
+        "negative_prompt": "child-friendly, realistic, serious"
+    },
+    {
+        "name": "Bix Pix Entertainment",
+        "prompt": "Bix Pix Entertainment style {prompt}, handcrafted, fluid stop motion, artisanal character designs, warm, engaging stories",
+        "negative_prompt": "cold, digital, distant"
+    },
+    {
+        "name": "Screen Novelties",
+        "prompt": "Screen Novelties style {prompt}, mixed media stop motion, quirky character designs, vintage and retro themes, whimsical plots",
+        "negative_prompt": "modern, straightforward, realistic"
+    },
+    {
+        "name": "Stoopid Buddy Stoodios",
+        "prompt": "Stoopid Buddy Stoodios style {prompt}, mixed action figures and clay, fast-paced stop motion, satirical character designs, pop culture parodies",
+        "negative_prompt": "serious, traditional, slow-paced"
+    },
+    {
+        "name": "Cosgrove Hall Films",
+        "prompt": "Cosgrove Hall Films style {prompt}, traditional and stop-motion techniques, polished animation, iconic British character designs, classic children's storytelling",
+        "negative_prompt": "modern, edgy, adult-themed"
+    },
+    {
+        "name": "NFB Animation Studio",
+        "prompt": "NFB Animation Studio style {prompt}, innovative and experimental stop motion, culturally diverse character designs, often featuring deep and thought-provoking themes",
+        "negative_prompt": "mainstream, superficial, simplistic"
+    },
+    {
+        "name": "Will Vinton Studios",
+        "prompt": "Will Vinton Studios style {prompt}, original Claymation, playful and highly expressive stop motion, whimsical character designs, often featuring iconic music and advertising figures",
+        "negative_prompt": "serious, realistic, dull"
+    },
+    {
+        "name": "ShadowMachine",
+        "prompt": "ShadowMachine style {prompt}, dark, edgy stop motion, adult-themed character designs, stark humor and cultural critique",
+        "negative_prompt": "light-hearted, child-friendly, conventional"
+    },
+    {
+        "name": "Gumby Animations",
+        "prompt": "Gumby Animations style {prompt}, simplistic clay models, fluid and expressive stop motion, iconic green character design, whimsical adventures",
+        "negative_prompt": "complex, serious, dark"
+    },
+    {
+        "name": "Henry Selick",
+        "prompt": "Henry Selick’s style {prompt}, dark fantasy clay animation, meticulously detailed stop motion, haunting character designs, immersive storytelling",
+        "negative_prompt": "bright, simplistic, mundane"
+    },
+    {
+        "name": "Dardman Bristol",
+        "prompt": "Dardman Bristol style {prompt}, digital and traditional clay animation, classic jerky motion, beloved character designs, innovative short formats",
+        "negative_prompt": "smooth CGI, unrecognizable characters, long-form storytelling"
+    }
+]

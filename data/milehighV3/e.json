@@ -1,0 +1,242 @@
+[
+    {
+        "name": "2D Game Art",
+        "prompt": "2D Game Art mode, {prompt}, ¬2D Game Art, often for platformers, pixel art, or side-scrolling games.",
+        "negative_prompt": "3D modeling, traditional art"
+    },
+    {
+        "name": "3D Animation",
+        "prompt": "3D Animation mode, {prompt}, ¬3D Animation, often for computer-generated imagery, three-dimensional modeling, or virtual cinematography.",
+        "negative_prompt": "2D animation, traditional art"
+    },
+    {
+        "name": "3D Game Art",
+        "prompt": "3D Game Art mode, {prompt}, ¬3D Game Art, often for immersive environments, realistic characters, or complex animations.",
+        "negative_prompt": "2D illustration, painting"
+    },
+    {
+        "name": "3D Modeling",
+        "prompt": "Creating three-dimensional objects using digital tools mode, {prompt}, ¬often for games, films, or virtual environments.",
+        "negative_prompt": "2D illustration, oil painting"
+    },
+    {
+        "name": "3D Printing Art",
+        "prompt": "Creating art using 3D printing technology mode, {prompt}, ¬often for sculptures, models, or innovative designs.",
+        "negative_prompt": "traditional painting, digital design"
+    },
+    {
+        "name": "3D Printing in Art",
+        "prompt": "3D Printing in Art mode, {prompt}, ¬Using 3D printing in art, often for sculptures, models, or innovative design projects.",
+        "negative_prompt": "traditional sculpture, digital design"
+    },
+    {
+        "name": "AR Art Variant_Uncategorized",
+        "prompt": "AR artwork mode, {prompt}, ¬Overlays virtual onto physical through augmented reality, altered perceptions of everyday surroundings",
+        "negative_prompt": "Untouched consensus reality, confinement to mundane existence, unaugmented ordinariness of the given"
+    },
+    {
+        "name": "Aardman_Uncategorized",
+        "prompt": "Aardman claymation style mode, {prompt}, ¬Clay sculpted, jerky stop motion, eccentric character designs, humorous antics",
+        "negative_prompt": "3D rendered, motion capture, photorealistic"
+    },
+    {
+        "name": "Abandoned Asylum_Uncategorized",
+        "prompt": "Rotting abandoned asylum mode, {prompt}, ¬Excrement and strange fluids stain crumbling walls, rusted blood-stained beds, decayed wheelchair with inexplicable scratches, looming darkness",
+        "negative_prompt": "Sanitary, hygienic, orderly, sterile"
+    },
+    {
+        "name": "Abstract Art",
+        "prompt": "Abstract Art mode, {prompt}, ¬Geometric shapes, bold colors, era 1900s modern art, abstract art style",
+        "negative_prompt": "Realistic forms, muted colors, non-geometric"
+    },
+    {
+        "name": "Abstract Expressionism",
+        "prompt": "Abstract Expressionism mode, {prompt}, ¬Emotional intensity, non-representational forms, era 1940s modern art, abstract expressionism style",
+        "negative_prompt": "Calm scenes, representational forms, non-emotional"
+    },
+    {
+        "name": "Academic Art",
+        "prompt": "Academic Art mode, {prompt}, ¬Highly realistic, finely detailed, strict adherence to artistic conventions",
+        "negative_prompt": "Abstract, loose, non-representational"
+    },
+    {
+        "name": "Action Painting",
+        "prompt": "Action Painting mode, {prompt}, ¬Energetic brushstrokes, spontaneous movement, era 1940s modern art, action painting style",
+        "negative_prompt": "Controlled brushstrokes, static scenes, non-energetic"
+    },
+    {
+        "name": "African Art",
+        "prompt": "African Art mode, {prompt}, ¬Traditional motifs, cultural heritage, era 2000s contemporary art, african art style",
+        "negative_prompt": "Modern motifs, non-traditional, non-cultural"
+    },
+    {
+        "name": "Aesthetic Movement",
+        "prompt": "Aesthetic Movement mode, {prompt}, ¬Beauty-focused, decorative designs, era 1800s modern art, aesthetic movement style",
+        "negative_prompt": "Functional designs, non-decorative, non-beauty-focused"
+    },
+    {
+        "name": "Agricultural Art",
+        "prompt": "Agricultural Art mode, {prompt}, ¬Rural scenes, farming themes, era 2000s contemporary art, agricultural style",
+        "negative_prompt": "Urban scenes, non-farming, non-rural"
+    },
+    {
+        "name": "Airbrush Art",
+        "prompt": "Airbrush Art mode, {prompt}, ¬Smooth gradients, detailed shading, era 2000s contemporary art, airbrush style",
+        "negative_prompt": "Rough textures, non-detailed, non-smooth"
+    },
+    {
+        "name": "Album Art",
+        "prompt": "Album Art mode, {prompt}, ¬Musical themes, artistic covers, era 2000s contemporary art, album art style",
+        "negative_prompt": "Non-musical, plain covers, non-artistic"
+    },
+    {
+        "name": "Amish Quilts",
+        "prompt": "Amish Quilts mode, {prompt}, ¬Handcrafted patterns, traditional designs, era 2000s contemporary art, amish quilt style",
+        "negative_prompt": "Machine-made, modern designs, non-traditional"
+    },
+    {
+        "name": "Analytical Cubism",
+        "prompt": "Analytical Cubism mode, {prompt}, ¬Geometric deconstruction, monochromatic palette, fragmented forms",
+        "negative_prompt": "Romantic art, digital design"
+    },
+    {
+        "name": "Ancient Maya_Uncategorized",
+        "prompt": "Ancient Mayan style mode, {prompt}, ¬Stone carvings, jungle scenes, hieroglyphs, temples, pyramids, gold decor",
+        "negative_prompt": "Modern, digital, futuristic, cluttered, only text, shapes"
+    },
+    {
+        "name": "Andy Warhol",
+        "prompt": "Mass production aesthetic mode, {prompt}, ¬Pop culture silkscreens, consumerist commentary, obsession with celebrity",
+        "negative_prompt": "Unique objects, high art mediums, introspective themes, focus on anonymity"
+    },
+    {
+        "name": "Anger Art",
+        "prompt": "Anger Art mode, {prompt}, ¬Reds, dynamic lines, intense emotions",
+        "negative_prompt": "Tranquil Art, digital design"
+    },
+    {
+        "name": "Animated Corpse_Animation",
+        "prompt": "Gruesome animated corpse mode, {prompt}, ¬Deceased figure mysteriously shuffling about through unnatural means",
+        "negative_prompt": "Vibrant joyful toddler, crisp HD photography, contemporary home setting"
+    },
+    {
+        "name": "Animated Films",
+        "prompt": "Animated Films mode, {prompt}, ¬Animated characters, creative visuals, family-friendly entertainment",
+        "negative_prompt": "Biographical films, digital design"
+    },
+    {
+        "name": "Animation",
+        "prompt": "Animation mode, {prompt}, ¬Creating art with Animation, moving images, storytelling, dynamic visuals",
+        "negative_prompt": "Type Design, digital design"
+    },
+    {
+        "name": "Anish Kapoor",
+        "prompt": "Reflective voids mode, {prompt}, ¬Perceptual disorientation, sinuous forms, color psychology",
+        "negative_prompt": "Representational figures, logical construction, angular geometries, objective study"
+    },
+    {
+        "name": "Antique Maps",
+        "prompt": "Antique Maps mode, {prompt}, ¬Historical cartography, detailed illustrations, era 1500s historical art, antique maps style",
+        "negative_prompt": "Modern maps, plain illustrations, non-historical"
+    },
+    {
+        "name": "Arabesque Art",
+        "prompt": "Arabesque Art mode, {prompt}, ¬Intricate patterns, flowing designs, era 1500s decorative art, arabesque style",
+        "negative_prompt": "Plain patterns, rigid designs, non-intricate"
+    },
+    {
+        "name": "Arcane Art",
+        "prompt": "Arcane Art mode, {prompt}, ¬Mystical symbols, esoteric themes, hidden meanings",
+        "negative_prompt": "Literal interpretations, clear explanations, mundane themes"
+    },
+    {
+        "name": "Architecture",
+        "prompt": "Architectural design mode, {prompt}, ¬Structural elegance, functional spaces, harmonious proportions",
+        "negative_prompt": "Random chaos, impractical design, visual clutter"
+    },
+    {
+        "name": "Art Deco Architecture",
+        "prompt": "Art Deco Architecture mode, {prompt}, ¬Geometric shapes, luxurious materials, era 1920s architecture, art deco style",
+        "negative_prompt": "Organic shapes, rustic materials, non-geometric"
+    },
+    {
+        "name": "Art Deco Graphic Design",
+        "prompt": "Art Deco Graphic Design mode, {prompt}, ¬Geometric shapes, luxurious elements, era 1920s graphic design, art deco style",
+        "negative_prompt": "Organic shapes, plain elements, non-geometric"
+    },
+    {
+        "name": "Art Nouveau Graphic Design",
+        "prompt": "Art Nouveau Graphic Design mode, {prompt}, ¬Flowing lines, natural motifs, era 1900s graphic design, art nouveau style",
+        "negative_prompt": "Geometric shapes, artificial motifs, non-flowing"
+    },
+    {
+        "name": "Art Therapy",
+        "prompt": "Art Therapy mode, {prompt}, ¬Healing through art, emotional expression, era 2000s contemporary art, art therapy style",
+        "negative_prompt": "Commercial art, non-expressive, non-therapeutic"
+    },
+    {
+        "name": "Asian Ceramics",
+        "prompt": "Asian Ceramics mode, {prompt}, ¬Intricate patterns, traditional craftsmanship, era 2000s contemporary art, asian ceramics style",
+        "negative_prompt": "Plain designs, modern craftsmanship, non-traditional"
+    },
+    {
+        "name": "Australian Aboriginal Art",
+        "prompt": "Australian Aboriginal Art mode, {prompt}, ¬Dot painting, cultural stories, era 2000s contemporary art, aboriginal art style",
+        "negative_prompt": "Non-dot painting, non-cultural, modern stories"
+    },
+    {
+        "name": "Automotive Design",
+        "prompt": "Automotive Design mode, {prompt}, ¬Sleek lines, innovative engineering, era 2000s contemporary design, automotive design style",
+        "negative_prompt": "Boxy lines, traditional engineering, non-sleek"
+    },
+    {
+        "name": "Aviation Art",
+        "prompt": "Aviation Art mode, {prompt}, ¬Aircraft illustrations, flight themes, era 2000s contemporary art, aviation art style",
+        "negative_prompt": "Non-aircraft, non-flight, non-aviation"
+    },
+    {
+        "name": "Ballet Photography",
+        "prompt": "Ballet Photography mode, {prompt}, ¬Graceful poses, elegant movement, era 2000s contemporary photography, ballet photography style",
+        "negative_prompt": "Clumsy poses, static movement, non-graceful"
+    },
+    {
+        "name": "Bas Relief",
+        "prompt": "Bas Relief mode, {prompt}, ¬Carved designs, shallow depth, era 2000s contemporary art, bas relief style",
+        "negative_prompt": "Flat designs, deep carvings, non-carved"
+    },
+    {
+        "name": "Beach Impressionism",
+        "prompt": "Beach Impressionism mode, {prompt}, ¬Pastel hues, soft brushstrokes, light reflections",
+        "negative_prompt": "Harsh lines, dark colors, heavy shading"
+    },
+    {
+        "name": "Biomorphic Art",
+        "prompt": "Biomorphic Art mode, {prompt}, ¬Organic shapes, fluid forms, era 2000s contemporary art, biomorphic style",
+        "negative_prompt": "Geometric shapes, rigid forms, non-organic"
+    },
+    {
+        "name": "Bird's-Eye View",
+        "prompt": "Bird's-Eye View mode, {prompt}, ¬Aerial perspective, expansive landscapes, era 2000s contemporary photography, bird's-eye view style",
+        "negative_prompt": "Ground perspective, narrow scenes, non-aerial"
+    },
+    {
+        "name": "Black and White Photography",
+        "prompt": "Black and White Photography mode, {prompt}, ¬Monochromatic tones, high contrast, era 2000s contemporary photography, black and white photography style",
+        "negative_prompt": "Color photography, low contrast, non-monochromatic"
+    },
+    {
+        "name": "Botanical Art",
+        "prompt": "Botanical Art mode, {prompt}, ¬Plant illustrations, scientific accuracy, era 2000s contemporary art, botanical art style",
+        "negative_prompt": "Non-plant, abstract forms, non-scientific"
+    },
+    {
+        "name": "Bricolage Art",
+        "prompt": "Bricolage Art mode, {prompt}, ¬Found objects, assembled pieces, era 2000s contemporary art, bricolage style",
+        "negative_prompt": "New objects, disassembled, non-found"
+    },
+    {
+        "name": "Brutalist Graphic Design",
+        "prompt": "Brutalist Graphic Design mode, {prompt}, ¬Bold typography, raw aesthetics, era 2000s contemporary design, brutalist style",
+        "negative_prompt": "Delicate typography, refined aesthetics, non-bold"
+    }
+]

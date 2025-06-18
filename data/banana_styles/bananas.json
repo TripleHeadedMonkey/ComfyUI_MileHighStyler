@@ -1,7 +1,7 @@
 [
     {
         "name": "Standard Yellow Banana",
-        "prompt": "standard yellow banana {prompt}",
+        "prompt": "standard yellow {prompt} banana ",
         "negative_prompt": "red, green, purple banana"
     },
     {
@@ -11,7 +11,7 @@
     },
     {
         "name": "Organic Banana",
-        "prompt": "organic banana {prompt}",
+        "prompt": "organic {prompt} banana",
         "negative_prompt": "conventional, pesticide-treated banana"
     },
     {
@@ -21,17 +21,17 @@
     },
     {
         "name": "Red Banana",
-        "prompt": "red banana {prompt}",
+        "prompt": "red {prompt} banana",
         "negative_prompt": "yellow, green, standard banana"
     },
     {
         "name": "Cavendish Banana",
-        "prompt": "Cavendish banana {prompt}",
+        "prompt": "Cavendish {prompt} banana",
         "negative_prompt": "red banana, plantain, apple banana"
     },
     {
         "name": "Apple Banana",
-        "prompt": "apple banana {prompt}",
+        "prompt": "apple {prompt} banana",
         "negative_prompt": "standard banana, plantain, red banana"
     },
     {
@@ -46,7 +46,7 @@
     },
     {
         "name": "Banana Smoothie",
-        "prompt": "banana smoothie {prompt}",
+        "prompt": "banana {prompt} smoothie",
         "negative_prompt": "solid banana, banana bread"
     }
 ]

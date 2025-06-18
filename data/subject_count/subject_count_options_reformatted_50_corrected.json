@@ -1,0 +1,32 @@
+[
+    {
+        "name": "none",
+        "prompt": "{prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Solo",
+        "prompt": "Solo , {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Duo",
+        "prompt": "Duo , {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Trio",
+        "prompt": "Trio , {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Quad",
+        "prompt": "Quad , {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Group",
+        "prompt": "Group , {prompt}",
+        "negative_prompt": ""
+    }
+]

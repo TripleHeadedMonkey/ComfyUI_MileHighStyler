@@ -1,0 +1,82 @@
+[
+    {
+        "name": "none",
+        "prompt": "{prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Oil Painting",
+        "prompt": "Oil Painting , {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Embroidery",
+        "prompt": "Embroidery , {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Graffiti",
+        "prompt": "Graffiti , {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Silkscreen Print",
+        "prompt": "Silkscreen Print , {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Watercolor",
+        "prompt": "Watercolor , {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Stained Glass",
+        "prompt": "Stained Glass , {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Retro Poster",
+        "prompt": "Retro Poster , {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Chiaroscuro",
+        "prompt": "Chiaroscuro , {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Collage",
+        "prompt": "Collage , {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Digital Illustration",
+        "prompt": "Digital Illustration , {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Pixel Art",
+        "prompt": "Pixel Art , {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Comic Book",
+        "prompt": "Comic Book , {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "2D Game Art",
+        "prompt": "2D Game Art , {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "3D Animation",
+        "prompt": "3D Animation , {prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Abstract Painting",
+        "prompt": "Abstract Painting , {prompt}",
+        "negative_prompt": ""
+    }
+]

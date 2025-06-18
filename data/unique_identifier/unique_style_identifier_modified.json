@@ -1,0 +1,42 @@
+[
+    {
+        "name": "none",
+        "prompt": "{prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Whimsical Fantasy Cartoon Style",
+        "prompt": "{prompt} Whimsical Fantasy Cartoon Style ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Dark and Gritty Comic Style",
+        "prompt": "{prompt} Dark and Gritty Comic Style ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Zany Sci-Fi Cartoon Style",
+        "prompt": "{prompt} Zany Sci-Fi Cartoon Style ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Grotesque Sci-Fi Humor Style",
+        "prompt": "{prompt} Grotesque Sci-Fi Humor Style ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Classic Superhero Comic Style",
+        "prompt": "{prompt} Classic Superhero Comic Style ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Retro Video Game Style",
+        "prompt": "{prompt} Retro Video Game Style ",
+        "negative_prompt": ""
+    },
+    {
+        "name": "Gothic Fantasy Style",
+        "prompt": "{prompt} Gothic Fantasy Style ",
+        "negative_prompt": ""
+    }
+]

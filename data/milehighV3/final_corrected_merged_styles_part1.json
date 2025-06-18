@@ -1,0 +1,712 @@
+[    
+    {
+        "name": "no style",
+        "prompt": "{prompt}",
+        "negative_prompt": " "
+    },
+    {
+        "name": "Abstract Art",
+        "prompt": "Abstract Art mode, geometric shapes, bold colors, era 1900s modern art, abstract art style, {prompt}, ¬characterized by geometric shapes and bold colors, abstract filter.",
+        "negative_prompt": "Realistic forms, muted colors, non-geometric"
+    },
+    {
+        "name": "Abstract Expressionism",
+        "prompt": "Abstract Expressionism mode, emotional intensity, non-representational forms, era 1940s modern art, abstract expressionism style, {prompt}, ¬characterized by emotional intensity and non-representational forms, expressive filter.",
+        "negative_prompt": "Calm scenes, representational forms, non-emotional"
+    },
+    {
+        "name": "Action Painting",
+        "prompt": "Action Painting mode, energetic brushstrokes, spontaneous movement, era 1940s modern art, action painting style, {prompt}, ¬characterized by energetic brushstrokes and spontaneous movement, dynamic filter.",
+        "negative_prompt": "Controlled brushstrokes, static scenes, non-energetic"
+    },
+    {
+        "name": "Action Photography",
+        "prompt": "Action Photography mode, dynamic motion, high energy, era 2000s contemporary photography, action photography style, {prompt}, ¬characterized by dynamic motion and high energy, dynamic filter.",
+        "negative_prompt": "Static scenes, low energy, non-dynamic"
+    },
+    {
+        "name": "Advertising Art",
+        "prompt": "Advertising Art mode, persuasive visuals, brand messaging, era 2000s contemporary art, advertising art style, {prompt}, ¬characterized by persuasive visuals and brand messaging, promotional filter.",
+        "negative_prompt": "Non-persuasive, non-brand messaging, non-promotional"
+    },
+    {
+        "name": "Aesthetic Movement",
+        "prompt": "Aesthetic Movement mode, beauty-focused, decorative designs, era 1800s modern art, aesthetic movement style, {prompt}, ¬characterized by beauty-focused and decorative designs, aesthetic filter.",
+        "negative_prompt": "Functional designs, non-decorative, non-beauty-focused"
+    },
+    {
+        "name": "African American Art",
+        "prompt": "African American Art mode, cultural heritage, expressive forms, era 2000s contemporary art, african american style, {prompt}, ¬characterized by cultural heritage and expressive forms, cultural filter.",
+        "negative_prompt": "Non-cultural, muted forms, non-expressive"
+    },
+    {
+        "name": "African Art",
+        "prompt": "African Art mode, traditional motifs, cultural heritage, era 2000s contemporary art, african art style, {prompt}, ¬characterized by traditional motifs and cultural heritage, cultural filter.",
+        "negative_prompt": "Modern motifs, non-traditional, non-cultural"
+    },
+    {
+        "name": "Agricultural Art",
+        "prompt": "Agricultural Art mode, rural scenes, farming themes, era 2000s contemporary art, agricultural style, {prompt}, ¬characterized by rural scenes and farming themes, rural filter.",
+        "negative_prompt": "Urban scenes, non-farming, non-rural"
+    },
+    {
+        "name": "Airbrush Art",
+        "prompt": "Airbrush Art mode, smooth gradients, detailed shading, era 2000s contemporary art, airbrush style, {prompt}, ¬characterized by smooth gradients and detailed shading, smooth filter.",
+        "negative_prompt": "Rough textures, non-detailed, non-smooth"
+    },
+    {
+        "name": "Album Art",
+        "prompt": "Album Art mode, musical themes, artistic covers, era 2000s contemporary art, album art style, {prompt}, ¬characterized by musical themes and artistic covers, musical filter.",
+        "negative_prompt": "Non-musical, plain covers, non-artistic"
+    },
+    {
+        "name": "American Folk Art",
+        "prompt": "American Folk Art mode, traditional crafts, cultural heritage, era 1800s folk art, american folk art style, {prompt}, ¬characterized by traditional crafts and cultural heritage, folk filter.",
+        "negative_prompt": "Modern art, non-traditional, non-cultural"
+    },
+    {
+        "name": "Amish Quilts",
+        "prompt": "Amish Quilts mode, handcrafted patterns, traditional designs, era 2000s contemporary art, amish quilt style, {prompt}, ¬characterized by handcrafted patterns and traditional designs, handcrafted filter.",
+        "negative_prompt": "Machine-made, modern designs, non-traditional"
+    },
+    {
+        "name": "Anamorphic Art",
+        "prompt": "Anamorphic Art mode, distorted perspective, optical illusions, era 2000s contemporary art, anamorphic style, {prompt}, ¬characterized by distorted perspective and optical illusions, illusion filter.",
+        "negative_prompt": "Correct perspective, non-illusion, non-distorted"
+    },
+    {
+        "name": "Anatomical Art",
+        "prompt": "Anatomical Art mode, detailed anatomy, scientific accuracy, era 1800s scientific art, anatomical art style, {prompt}, ¬characterized by detailed anatomy and scientific accuracy, anatomical filter.",
+        "negative_prompt": "Abstract forms, non-detailed, non-scientific"
+    },
+    {
+        "name": "Anglo-Saxon Art",
+        "prompt": "Anglo-Saxon Art mode, intricate designs, historical themes, era 500s medieval art, anglo-saxon art style, {prompt}, ¬characterized by intricate designs and historical themes, historical filter.",
+        "negative_prompt": "Simple designs, modern themes, non-historical"
+    },
+    {
+        "name": "Animation",
+        "prompt": "Animation mode, {prompt}, ¬Creating art with Animation, often for moving images, storytelling, or dynamic visuals.",
+        "negative_prompt": "Type Design, digital design"
+    },
+    {
+        "name": "Anime Art",
+        "prompt": "Anime Art mode, stylized characters, vibrant colors, era 2000s contemporary art, anime style, {prompt}, ¬characterized by stylized characters and vibrant colors, vibrant filter.",
+        "negative_prompt": "Realistic characters, muted colors, non-stylized"
+    },
+    {
+        "name": "Anish Kapoor",
+        "prompt": "Anish Kapoor mode, reflective voids, perceptual disorientation, sinuous forms, era 2000s contemporary art, Kapoor style, {prompt}, ¬characterized by reflective voids and perceptual disorientation, color psychology filter.",
+        "negative_prompt": "Representational figures, logical construction, angular geometries, objective study"
+    },
+    {
+        "name": "Ankama_Animation",
+        "prompt": "Ankama Animation mode, vibrant colors, expansive storyworlds, stylized characters, era 2000s modern animation, Ankama style, {prompt}, ¬characterized by vibrant colors and expansive storyworlds, flowing motion filter.",
+        "negative_prompt": "Sparse lifeless environments, unanimated backgrounds, flat lighting"
+    },
+    {
+        "name": "Anselm Kiefer",
+        "prompt": "Anselm Kiefer mode, brooding landscapes, epic scale, German myth, era 2000s contemporary art, Kiefer style, {prompt}, ¬characterized by brooding landscapes and epic scale, layered symbolic density filter.",
+        "negative_prompt": "Abbreviated sketches, intimate subjects, specificity of place, direct expression"
+    },
+    {
+        "name": "Antarctica",
+        "prompt": "Antarctica mode, icy landscapes, penguins, extreme conditions, era 2000s contemporary photography, Antarctic style, {prompt}, ¬characterized by icy landscapes and extreme conditions, cold filter.",
+        "negative_prompt": "Santorini, digital design"
+    },
+    {
+        "name": "Antique Maps",
+        "prompt": "Antique Maps mode, historical cartography, detailed illustrations, era 1500s historical art, antique maps style, {prompt}, ¬characterized by historical cartography and detailed illustrations, vintage filter.",
+        "negative_prompt": "Modern maps, plain illustrations, non-historical"
+    },
+    {
+        "name": "Appropriation (1)_Culture",
+        "prompt": "Appropriation mode, recontextualized media, questioning originality and ownership, era 2000s contemporary art, appropriation style, {prompt}, ¬characterized by recontextualized media and questioning originality, conceptual filter.",
+        "negative_prompt": "Celebrating branded individual genius, romantic mythology of personal vision, defending intellectual property"
+    },
+    {
+        "name": "Après-Ski_Uncategorized",
+        "prompt": "Après-Ski mode, cozy scenes, winter activities, era 2000s modern art, après-ski style, {prompt}, ¬characterized by cozy scenes and winter activities, cozy filter.",
+        "negative_prompt": "(Summer beach, ocean waves, sandy shores, palm trees, tropical plants)"
+    },
+    {
+        "name": "Arabesque Art",
+        "prompt": "Arabesque Art mode, intricate patterns, flowing designs, era 1500s decorative art, arabesque style, {prompt}, ¬characterized by intricate patterns and flowing designs, decorative filter.",
+        "negative_prompt": "Plain patterns, rigid designs, non-intricate"
+    },
+    {
+        "name": "Arachnid Swarm_Uncategorized",
+        "prompt": "Arachnid Swarm mode, creepy crawlies, overwhelming numbers, era 2000s horror art, arachnid swarm style, {prompt}, ¬characterized by creepy crawlies and overwhelming numbers, grotesque filter.",
+        "negative_prompt": "Kind person with lively expression"
+    },
+    {
+        "name": "Architectural Design",
+        "prompt": "Architectural Design mode, structural precision, innovative buildings, era 2000s modern architecture, architectural design style, {prompt}, ¬characterized by structural precision and innovative buildings, architectural filter.",
+        "negative_prompt": "Rustic buildings, traditional architecture, non-innovative"
+    },
+    {
+        "name": "Architectural Drawing",
+        "prompt": "Architectural Drawing mode, detailed plans, technical precision, era 2000s modern architecture, architectural drawing style, {prompt}, ¬characterized by detailed plans and technical precision, blueprint filter.",
+        "negative_prompt": "Freehand sketches, abstract art, colorful designs"
+    },
+    {
+        "name": "Architectural Rendering",
+        "prompt": "Architectural Rendering mode, photorealistic visuals, future buildings, era 2000s modern architecture, architectural rendering style, {prompt}, ¬characterized by photorealistic visuals and future buildings, rendering filter.",
+        "negative_prompt": "Basic sketches, unrealistic buildings, traditional architecture"
+    },
+    {
+        "name": "Architecture and Technology",
+        "prompt": "Architecture and Technology mode, innovative designs, futuristic structures, era 2000s modern architecture, architecture and technology style, {prompt}, ¬characterized by innovative designs and futuristic structures, tech filter.",
+        "negative_prompt": "Traditional architecture, non-innovative, old designs"
+    },
+    {
+        "name": "Art Brut",
+        "prompt": "Art Brut mode, raw creativity, outsider art, era 1900s modern art, art brut style, {prompt}, ¬characterized by raw creativity and outsider perspectives, brut filter.",
+        "negative_prompt": "Polished artwork, refined technique, academic styles"
+    },
+    {
+        "name": "Art Deco",
+        "prompt": "Art Deco mode, geometric shapes, luxurious materials, era 1920s art deco, art deco style, {prompt}, ¬characterized by rich colors, bold geometry, and lavish ornamentation, opulent filter.",
+        "negative_prompt": "Organic shapes, minimalist design, rustic elements"
+    },
+    {
+        "name": "Art Deco Architecture",
+        "prompt": "Art Deco Architecture mode, geometric shapes, luxurious materials, era 1920s architecture, art deco style, {prompt}, ¬characterized by geometric shapes and luxurious materials, geometric filter.",
+        "negative_prompt": "Organic shapes, rustic materials, non-geometric"
+    },
+    {
+        "name": "Art Deco Graphic Design",
+        "prompt": "Art Deco Graphic Design mode, geometric shapes, luxurious elements, era 1920s graphic design, art deco style, {prompt}, ¬characterized by geometric shapes and luxurious elements, geometric filter.",
+        "negative_prompt": "Organic shapes, plain elements, non-geometric"
+    },
+    {
+        "name": "Art Education",
+        "prompt": "Art Education mode, teaching techniques, fostering creativity, era 2000s contemporary education, art education style, {prompt}, ¬characterized by teaching techniques and fostering creativity, educational filter.",
+        "negative_prompt": "Performing arts, digital design"
+    },
+    {
+        "name": "Art Education for Adults",
+        "prompt": "Art Education for Adults mode, teaching techniques, personal expression, era 2000s contemporary education, adult education style, {prompt}, ¬characterized by teaching techniques and personal expression, adult education filter.",
+        "negative_prompt": "Children's art education, digital art"
+    },
+    {
+        "name": "Art Education for Children",
+        "prompt": "Art Education for Children mode, teaching techniques, fostering creativity, era 2000s contemporary education, children's education style, {prompt}, ¬characterized by teaching techniques and fostering creativity, children's education filter.",
+        "negative_prompt": "Adult art education, digital design"
+    },
+    {
+        "name": "Art Galleries",
+        "prompt": "Art Galleries mode, exhibition spaces, curated shows, era 2000s contemporary art, gallery style, {prompt}, ¬characterized by exhibition spaces and curated shows, gallery filter.",
+        "negative_prompt": "Private collections, digital displays, non-exhibitive"
+    },
+    {
+        "name": "Art Gallery",
+        "prompt": "Art Gallery mode, exhibition spaces, curated shows, era 2000s contemporary art, gallery style, {prompt}, ¬characterized by exhibition spaces and curated shows, gallery filter.",
+        "negative_prompt": "Private collections, digital displays, non-exhibitive"
+    },
+    {
+        "name": "Art History",
+        "prompt": "Art History mode, studying past artworks, analyzing movements, era 2000s contemporary art, history style, {prompt}, ¬characterized by studying past artworks and analyzing movements, historical filter.",
+        "negative_prompt": "Modern art, contemporary styles, future-focused"
+    },
+    {
+        "name": "Art Installation",
+        "prompt": "Art Installation mode, immersive environments, large-scale works, era 2000s contemporary art, installation style, {prompt}, ¬characterized by immersive environments and large-scale works, installation filter.",
+        "negative_prompt": "Small sculptures, non-immersive, traditional forms"
+    },
+    {
+        "name": "Art Nouveau",
+        "prompt": "Art Nouveau mode, flowing lines, natural forms, era 1900s art nouveau, art nouveau style, {prompt}, ¬characterized by flowing lines and natural forms, art nouveau filter.",
+        "negative_prompt": "Geometric shapes, industrial design, harsh lines"
+    },
+    {
+        "name": "Art Nouveau Architecture",
+        "prompt": "Art Nouveau Architecture mode, flowing lines, natural forms, era 1900s architecture, art nouveau style, {prompt}, ¬characterized by flowing lines and natural forms, natural filter.",
+        "negative_prompt": "Geometric shapes, industrial design, non-flowing"
+    },
+    {
+        "name": "Art Nouveau Graphic Design",
+        "prompt": "Art Nouveau Graphic Design mode, flowing lines, natural motifs, era 1900s graphic design, art nouveau style, {prompt}, ¬characterized by flowing lines and natural motifs, natural filter.",
+        "negative_prompt": "Geometric shapes, artificial motifs, non-flowing"
+    },
+    {
+        "name": "Art Pop",
+        "prompt": "Art Pop mode, bright colors, playful forms, era 2000s contemporary art, art pop style, {prompt}, ¬characterized by bright colors and playful forms, vibrant filter.",
+        "negative_prompt": "Muted colors, serious tones, minimalism"
+    },
+    {
+        "name": "Art Print",
+        "prompt": "Art Print mode, high-quality prints, detailed reproductions, era 2000s contemporary art, art print style, {prompt}, ¬characterized by high-quality prints and detailed reproductions, print filter.",
+        "negative_prompt": "Low-resolution, pixelated, digital-only"
+    },
+    {
+        "name": "Art School",
+        "prompt": "Art School mode, academic training, foundational techniques, era 2000s contemporary education, art school style, {prompt}, ¬characterized by academic training and foundational techniques, academic filter.",
+        "negative_prompt": "Self-taught, informal learning, non-technical"
+    },
+    {
+        "name": "Art Show",
+        "prompt": "Art Show mode, curated exhibitions, public display, era 2000s contemporary art, art show style, {prompt}, ¬characterized by curated exhibitions and public display, exhibition filter.",
+        "negative_prompt": "Private collections, small gatherings, non-exhibitive"
+    },
+    {
+        "name": "Art Studio",
+        "prompt": "Art Studio mode, creative workspace, artist tools, era 2000s contemporary art, studio style, {prompt}, ¬characterized by creative workspace and artist tools, studio filter.",
+        "negative_prompt": "Public spaces, commercial environments, non-creative"
+    },
+    {
+        "name": "Art Therapy",
+        "prompt": "Art Therapy mode, healing through art, emotional expression, era 2000s contemporary art, therapy style, {prompt}, ¬characterized by healing through art and emotional expression, therapeutic filter.",
+        "negative_prompt": "Commercial art, non-expressive, non-therapeutic"
+    },
+    {
+        "name": "Art Video",
+        "prompt": "Art Video mode, experimental film, visual narratives, era 2000s contemporary art, video art style, {prompt}, ¬characterized by experimental film and visual narratives, video filter.",
+        "negative_prompt": "Traditional film, non-experimental, non-visual"
+    },
+    {
+        "name": "Art Walk",
+        "prompt": "Art Walk mode, public displays, community engagement, era 2000s contemporary art, art walk style, {prompt}, ¬characterized by public displays and community engagement, public filter.",
+        "negative_prompt": "Private collections, isolated environments, non-engaging"
+    },
+    {
+        "name": "Art World",
+        "prompt": "Art World mode, global art scene, cultural exchange, era 2000s contemporary art, art world style, {prompt}, ¬characterized by global art scene and cultural exchange, global filter.",
+        "negative_prompt": "Local-only, non-diverse, non-exchange"
+    },
+    {
+        "name": "Art and Architecture Collaboration",
+        "prompt": "Art and Architecture Collaboration mode, integrated designs, spatial experiences, era 2000s modern architecture, art and architecture style, {prompt}, ¬characterized by integrated designs and spatial experiences, collaborative filter.",
+        "negative_prompt": "Solo art, digital art"
+    },
+    {
+        "name": "Art and Artificial Intelligence",
+        "prompt": "Art and AI mode, generative art, interactive installations, era 2000s contemporary art, AI art style, {prompt}, ¬characterized by generative art and interactive installations, tech filter.",
+        "negative_prompt": "Traditional painting, sculpture"
+    },
+    {
+        "name": "Art and Cultural Heritage Preservation",
+        "prompt": "Art and Cultural Heritage Preservation mode, conservation efforts, historical preservation, era 2000s contemporary art, cultural heritage style, {prompt}, ¬characterized by conservation efforts and historical preservation, preservation filter.",
+        "negative_prompt": "Art creation, digital design"
+    },
+    {
+        "name": "Art and Environmental Sustainability",
+        "prompt": "Art and Environmental Sustainability mode, eco-friendly practices, awareness campaigns, era 2000s contemporary art, environmental sustainability style, {prompt}, ¬characterized by eco-friendly practices and awareness campaigns, green filter.",
+        "negative_prompt": "Art sales, digital art"
+    },
+    {
+        "name": "Art and Literature Collaboration",
+        "prompt": "Art and Literature Collaboration mode, illustrated books, thematic explorations, era 2000s contemporary art, literature collaboration style, {prompt}, ¬characterized by illustrated books and thematic explorations, literary filter.",
+        "negative_prompt": "Painting, digital art"
+    },
+    {
+        "name": "Art and Medical Collaboration",
+        "prompt": "Art and Medical Collaboration mode, medical illustrations, therapeutic art, era 2000s contemporary art, medical collaboration style, {prompt}, ¬characterized by medical illustrations and therapeutic art, medical filter.",
+        "negative_prompt": "Art sales, digital design"
+    },
+    {
+        "name": "Art and Mental Health",
+        "prompt": "Art and Mental Health mode, therapeutic art, well-being initiatives, era 2000s contemporary art, mental health style, {prompt}, ¬characterized by therapeutic art and well-being initiatives, mental health filter.",
+        "negative_prompt": "Art marketing, digital design"
+    },
+    {
+        "name": "Art and Music Collaboration",
+        "prompt": "Art and Music Collaboration mode, visual music, multimedia projects, era 2000s contemporary art, music collaboration style, {prompt}, ¬characterized by visual music and multimedia projects, musical filter.",
+        "negative_prompt": "Visual art only, digital design"
+    },
+    {
+        "name": "Art and Technology",
+        "prompt": "Art and Technology mode, innovative techniques, digital media, era 2000s contemporary art, tech art style, {prompt}, ¬characterized by innovative techniques and digital media, tech filter.",
+        "negative_prompt": "Traditional methods, non-digital, non-innovative"
+    },
+    {
+        "name": "Art for Activism",
+        "prompt": "Art for Activism mode, social change, political messages, era 2000s contemporary art, activist style, {prompt}, ¬characterized by social change and political messages, activist filter.",
+        "negative_prompt": "Apolitical art, commercial art, non-activist"
+    },
+    {
+        "name": "Art for Animation",
+        "prompt": "Art for Animation mode, creating animated visuals, dynamic sequences, era 2000s contemporary art, animation style, {prompt}, ¬characterized by creating animated visuals and dynamic sequences, animated filter.",
+        "negative_prompt": "Static art, non-animated, traditional forms"
+    },
+    {
+        "name": "Art for Children",
+        "prompt": "Art for Children mode, engaging young minds, playful creativity, era 2000s contemporary art, children's art style, {prompt}, ¬characterized by engaging young minds and playful creativity, playful filter.",
+        "negative_prompt": "Adult themes, non-engaging, complex designs"
+    },
+    {
+        "name": "Art for Comics",
+        "prompt": "Art for Comics mode, sequential storytelling, dynamic panels, era 2000s contemporary art, comic style, {prompt}, ¬characterized by sequential storytelling and dynamic panels, comic filter.",
+        "negative_prompt": "Static images, non-sequential, plain backgrounds"
+    },
+    {
+        "name": "Art for Film",
+        "prompt": "Art for Film mode, cinematic visuals, storytelling, era 2000s contemporary art, film style, {prompt}, ¬characterized by cinematic visuals and storytelling, cinematic filter.",
+        "negative_prompt": "Non-cinematic, static scenes, non-storytelling"
+    },
+    {
+        "name": "Art for Graphic Design",
+        "prompt": "Art for Graphic Design mode, visual communication, layout design, era 2000s contemporary art, graphic design style, {prompt}, ¬characterized by visual communication and layout design, graphic design filter.",
+        "negative_prompt": "Non-visual communication, non-design, traditional art"
+    },
+    {
+        "name": "Art for Illustration",
+        "prompt": "Art for Illustration mode, detailed drawings, narrative art, era 2000s contemporary art, illustration style, {prompt}, ¬characterized by detailed drawings and narrative art, illustration filter.",
+        "negative_prompt": "Abstract art, non-detailed, non-narrative"
+    },
+    {
+        "name": "Art for Installation",
+        "prompt": "Art for Installation mode, large-scale works, spatial experiences, era 2000s contemporary art, installation style, {prompt}, ¬characterized by large-scale works and spatial experiences, installation filter.",
+        "negative_prompt": "Small sculptures, non-immersive, traditional forms"
+    },
+    {
+        "name": "Art for Interactive Media",
+        "prompt": "Art for Interactive Media mode, digital interactions, user engagement, era 2000s contemporary art, interactive media style, {prompt}, ¬characterized by digital interactions and user engagement, interactive filter.",
+        "negative_prompt": "Non-interactive, static media, traditional art"
+    },
+    {
+        "name": "Art for Medicine",
+        "prompt": "Art for Medicine mode, medical illustrations, anatomical accuracy, era 2000s contemporary art, medical art style, {prompt}, ¬characterized by medical illustrations and anatomical accuracy, medical filter.",
+        "negative_prompt": "Non-medical, abstract art, non-accurate"
+    },
+    {
+        "name": "Art for Performance",
+        "prompt": "Art for Performance mode, live art, audience interaction, era 2000s contemporary art, performance art style, {prompt}, ¬characterized by live art and audience interaction, performance filter.",
+        "negative_prompt": "Static art, non-interactive, traditional forms"
+    },
+    {
+        "name": "Art for Public Spaces",
+        "prompt": "Art for Public Spaces mode, large-scale murals, public engagement, era 2000s contemporary art, public art style, {prompt}, ¬characterized by large-scale murals and public engagement, public filter.",
+        "negative_prompt": "Private collections, small-scale art, non-engaging"
+    },
+    {
+        "name": "Art for Science",
+        "prompt": "Art for Science mode, scientific visualization, educational art, era 2000s contemporary art, science art style, {prompt}, ¬characterized by scientific visualization and educational art, scientific filter.",
+        "negative_prompt": "Non-scientific, abstract art, non-educational"
+    },
+    {
+        "name": "Art for Social Change",
+        "prompt": "Art for Social Change mode, activist art, community engagement, era 2000s contemporary art, social change art style, {prompt}, ¬characterized by activist art and community engagement, activist filter.",
+        "negative_prompt": "Non-activist, commercial art, non-engaging"
+    },
+    {
+        "name": "Art for Therapy",
+        "prompt": "Art for Therapy mode, healing art, emotional expression, era 2000s contemporary art, therapeutic art style, {prompt}, ¬characterized by healing art and emotional expression, therapeutic filter.",
+        "negative_prompt": "Commercial art, non-expressive, non-therapeutic"
+    },
+    {
+        "name": "Art for Video Games",
+        "prompt": "Art for Video Games mode, interactive visuals, game design, era 2000s contemporary art, video game art style, {prompt}, ¬characterized by interactive visuals and game design, game art filter.",
+        "negative_prompt": "Non-interactive, non-digital, traditional forms"
+    },
+    {
+        "name": "Art for Virtual Reality",
+        "prompt": "Art for Virtual Reality mode, immersive environments, interactive experiences, era 2000s contemporary art, virtual reality art style, {prompt}, ¬characterized by immersive environments and interactive experiences, VR filter.",
+        "negative_prompt": "Non-immersive, static art, traditional forms"
+    },
+    {
+        "name": "Art for Wellness",
+        "prompt": "Art for Wellness mode, promoting well-being, calming art, era 2000s contemporary art, wellness art style, {prompt}, ¬characterized by promoting well-being and calming art, wellness filter.",
+        "negative_prompt": "Stressful art, non-calming, non-wellness"
+    },
+    {
+        "name": "Art for Youth",
+        "prompt": "Art for Youth mode, engaging young minds, creative development, era 2000s contemporary art, youth art style, {prompt}, ¬characterized by engaging young minds and creative development, youth filter.",
+        "negative_prompt": "Adult themes, non-engaging, complex designs"
+    },
+    {
+        "name": "Artisan Craft",
+        "prompt": "Artisan Craft mode, handmade goods, traditional techniques, era 2000s contemporary craft, artisan style, {prompt}, ¬characterized by handmade goods and traditional techniques, craft filter.",
+        "negative_prompt": "Mass-produced, non-traditional, machine-made"
+    },
+    {
+        "name": "Arts Festival",
+        "prompt": "Arts Festival mode, cultural events, artistic showcases, era 2000s contemporary art, festival style, {prompt}, ¬characterized by cultural events and artistic showcases, festive filter.",
+        "negative_prompt": "Non-festival, isolated events, non-cultural"
+    },
+    {
+        "name": "Arts and Crafts",
+        "prompt": "Arts and Crafts mode, decorative art, functional design, era 2000s contemporary craft, arts and crafts style, {prompt}, ¬characterized by decorative art and functional design, decorative filter.",
+        "negative_prompt": "Non-functional, non-decorative, non-craft"
+    },
+    {
+        "name": "Arts and Crafts Architecture",
+        "prompt": "Arts and Crafts Architecture mode, handcrafted details, rustic charm, era 1900s architecture, arts and crafts style, {prompt}, ¬characterized by handcrafted details and rustic charm, rustic filter.",
+        "negative_prompt": "Machine-made, modern charm, non-rustic"
+    },
+    {
+        "name": "Ashcan School",
+        "prompt": "Ashcan School mode, urban realism, gritty scenes, era 1900s modern art, ashcan school style, {prompt}, ¬characterized by urban realism and gritty scenes, realist filter.",
+        "negative_prompt": "Idealized scenes, non-urban, non-realistic"
+    },
+    {
+        "name": "Asian Art",
+        "prompt": "Asian Art mode, traditional techniques, cultural motifs, era 2000s contemporary art, asian art style, {prompt}, ¬characterized by traditional techniques and cultural motifs, cultural filter.",
+        "negative_prompt": "Non-traditional, western art, non-cultural"
+    },
+    {
+        "name": "Asian Ceramics",
+        "prompt": "Asian Ceramics mode, intricate patterns, traditional craftsmanship, era 2000s contemporary art, asian ceramics style, {prompt}, ¬characterized by intricate patterns and traditional craftsmanship, intricate filter.",
+        "negative_prompt": "Plain designs, modern craftsmanship, non-traditional"
+    },
+    {
+        "name": "Assemblage Art",
+        "prompt": "Assemblage Art mode, found objects, three-dimensional collages, era 2000s contemporary art, assemblage style, {prompt}, ¬characterized by found objects and three-dimensional collages, collage filter.",
+        "negative_prompt": "Two-dimensional, non-collage, new objects"
+    },
+    {
+        "name": "Astrology Art",
+        "prompt": "Astrology Art mode, celestial themes, mystical symbols, era 2000s contemporary art, astrology style, {prompt}, ¬characterized by celestial themes and mystical symbols, mystical filter.",
+        "negative_prompt": "Non-celestial, non-mystical, realistic"
+    },
+    {
+        "name": "Atelier",
+        "prompt": "Atelier mode, traditional training, master-apprentice model, era 2000s contemporary education, atelier style, {prompt}, ¬characterized by traditional training and master-apprentice model, traditional filter.",
+        "negative_prompt": "Non-traditional, modern methods, informal learning"
+    },
+    {
+        "name": "Atelier Art",
+        "prompt": "Atelier Art mode, classical techniques, fine detail, era 2000s contemporary art, atelier style, {prompt}, ¬characterized by classical techniques and fine detail, detailed filter.",
+        "negative_prompt": "Abstract art, rough techniques, non-detailed"
+    },
+    {
+        "name": "Attic Art",
+        "prompt": "Attic Art mode, hidden treasures, nostalgic finds, era 2000s contemporary art, attic art style, {prompt}, ¬characterized by hidden treasures and nostalgic finds, nostalgic filter.",
+        "negative_prompt": "Modern items, non-nostalgic, new finds"
+    },
+    {
+        "name": "Australian Aboriginal Art",
+        "prompt": "Australian Aboriginal Art mode, dot painting, cultural stories, era 2000s contemporary art, aboriginal art style, {prompt}, ¬characterized by dot painting and cultural stories, cultural filter.",
+        "negative_prompt": "Non-dot painting, non-cultural, modern stories"
+    },
+    {
+        "name": "Australian Art",
+        "prompt": "Australian Art mode, indigenous techniques, vibrant colors, era 2000s contemporary art, australian style, {prompt}, ¬characterized by indigenous techniques and vibrant colors, cultural filter.",
+        "negative_prompt": "Non-indigenous, muted colors, non-cultural"
+    },
+    {
+        "name": "Automotive Design",
+        "prompt": "Automotive Design mode, sleek lines, innovative engineering, era 2000s contemporary design, automotive design style, {prompt}, ¬characterized by sleek lines and innovative engineering, sleek filter.",
+        "negative_prompt": "Boxy lines, traditional engineering, non-sleek"
+    },
+    {
+        "name": "Avant-Garde",
+        "prompt": "Avant-Garde mode, experimental techniques, innovative ideas, era 2000s contemporary art, avant-garde style, {prompt}, ¬characterized by experimental techniques and innovative ideas, innovative filter.",
+        "negative_prompt": "Traditional methods, conventional ideas, non-experimental"
+    },
+    {
+        "name": "Avant-Garde Art",
+        "prompt": "Avant-Garde Art mode, experimental techniques, innovative ideas, era 2000s contemporary art, avant-garde style, {prompt}, ¬characterized by experimental techniques and innovative ideas, innovative filter.",
+        "negative_prompt": "Traditional methods, conventional ideas, non-experimental"
+    },
+    {
+        "name": "Aviation Art",
+        "prompt": "Aviation Art mode, aircraft illustrations, flight themes, era 2000s contemporary art, aviation art style, {prompt}, ¬characterized by aircraft illustrations and flight themes, aviation filter.",
+        "negative_prompt": "Non-aircraft, non-flight, non-aviation"
+    },
+    {
+        "name": "Aztec Art",
+        "prompt": "Aztec Art mode, ancient symbols, rich patterns, era 1400s ancient art, aztec style, {prompt}, ¬characterized by ancient symbols and rich patterns, historical filter.",
+        "negative_prompt": "Modern symbols, plain patterns, non-historical"
+    },
+    {
+        "name": "Baby Photography",
+        "prompt": "Baby Photography mode, adorable poses, soft lighting, era 2000s contemporary photography, baby photography style, {prompt}, ¬characterized by adorable poses and soft lighting, soft filter.",
+        "negative_prompt": "Harsh lighting, non-adorable, adult themes"
+    },
+    {
+        "name": "Backlit Photography",
+        "prompt": "Backlit Photography mode, dramatic silhouettes, glowing edges, era 2000s contemporary photography, backlit style, {prompt}, ¬characterized by dramatic silhouettes and glowing edges, glow filter.",
+        "negative_prompt": "Front lighting, non-dramatic, harsh edges"
+    },
+    {
+        "name": "Ballet Photography",
+        "prompt": "Ballet Photography mode, graceful poses, elegant movement, era 2000s contemporary photography, ballet photography style, {prompt}, ¬characterized by graceful poses and elegant movement, graceful filter.",
+        "negative_prompt": "Clumsy poses, static movement, non-graceful"
+    },
+    {
+        "name": "Baroque Architecture",
+        "prompt": "Baroque Architecture mode, dramatic elements, grandeur, era 1600s architecture, baroque style, {prompt}, ¬characterized by dramatic elements and grandeur, dramatic filter.",
+        "negative_prompt": "Simple elements, non-grand, non-dramatic"
+    },
+    {
+        "name": "Baroque Painting",
+        "prompt": "Baroque Painting mode, dramatic lighting, rich colors, era 1600s baroque art, baroque painting style, {prompt}, ¬characterized by dramatic lighting and rich colors, chiaroscuro filter.",
+        "negative_prompt": "Flat lighting, muted colors, non-dramatic"
+    },
+    {
+        "name": "Bas Relief",
+        "prompt": "Bas Relief mode, carved designs, shallow depth, era 2000s contemporary art, bas relief style, {prompt}, ¬characterized by carved designs and shallow depth, carved filter.",
+        "negative_prompt": "Flat designs, deep carvings, non-carved"
+    },
+    {
+        "name": "Bauhaus",
+        "prompt": "Bauhaus mode, functional design, minimal aesthetics, era 1920s modern art, bauhaus style, {prompt}, ¬characterized by functional design and minimal aesthetics, modernist filter.",
+        "negative_prompt": "Ornate design, excessive decoration, non-functional"
+    },
+    {
+        "name": "Bauhaus Architecture",
+        "prompt": "Bauhaus Architecture mode, functional design, minimal aesthetics, era 1920s architecture, bauhaus style, {prompt}, ¬characterized by functional design and minimal aesthetics, modernist filter.",
+        "negative_prompt": "Ornate design, excessive decoration, non-functional"
+    },
+    {
+        "name": "Beach Photography",
+        "prompt": "Beach Photography mode, sun-kissed shores, vibrant colors, era 2000s contemporary photography, beach photography style, {prompt}, ¬characterized by sun-kissed shores and vibrant colors, sunny filter.",
+        "negative_prompt": "Urban settings, dull colors, indoor scenes"
+    },
+    {
+        "name": "Beaux-Arts Architecture",
+        "prompt": "Beaux-Arts Architecture mode, grand structures, classical elements, era 1800s architecture, beaux-arts style, {prompt}, ¬characterized by grand structures and classical elements, classical filter.",
+        "negative_prompt": "Modern architecture, minimalist design, non-classical"
+    },
+    {
+        "name": "Berlin",
+        "prompt": "Berlin mode, {prompt}, ¬characterized by Berlin Wall, modern art, or German history.",
+        "negative_prompt": "Athens, digital design"
+    },
+    {
+        "name": "Bharatanatyam Dance",
+        "prompt": "Bharatanatyam Dance mode, {prompt}, ¬characterized by Bharatanatyam poses, South Indian dance, or traditional performance.",
+        "negative_prompt": "Capoeira dance, digital design"
+    },
+    {
+        "name": "Biedermeier",
+        "prompt": "Biedermeier mode, simple elegance, middle-class comfort, era 1800s decorative art, biedermeier style, {prompt}, ¬characterized by simple elegance and middle-class comfort, elegant filter.",
+        "negative_prompt": "Ornate design, extravagant elements, non-comfort"
+    },
+    {
+        "name": "Bikini Bottom",
+        "prompt": "Bikini Bottom mode, {prompt}, ¬characterized by underwater fun, SpongeBob, or nautical nonsense.",
+        "negative_prompt": "Twin Peaks, digital design"
+    },
+    {
+        "name": "Bio Art",
+        "prompt": "Creating art using biological materials or themes mode, {prompt}, ¬characterized by the intersection of art and science.",
+        "negative_prompt": "landscape painting, digital art"
+    },
+    {
+        "name": "Biomorphic Art",
+        "prompt": "Biomorphic Art mode, organic shapes, fluid forms, era 2000s contemporary art, biomorphic style, {prompt}, ¬characterized by organic shapes and fluid forms, organic filter.",
+        "negative_prompt": "Geometric shapes, rigid forms, non-organic"
+    },
+    {
+        "name": "Bionic Art",
+        "prompt": "Bionic Art mode, {prompt}, ¬characterized by cybernetics, prosthetics, or futuristic themes.",
+        "negative_prompt": "natural forms, digital art"
+    },
+    {
+        "name": "Bird Photography",
+        "prompt": "Bird Photography mode, {prompt}, ¬characterized by avian subjects, nature photography, or bird watching.",
+        "negative_prompt": "urban photography, digital art"
+    },
+    {
+        "name": "Bird Watching",
+        "prompt": "Bird Watching mode, {prompt}, ¬Bird Watching, often for bird identification, field guides, or avian studies.",
+        "negative_prompt": "marine life, digital art"
+    },
+    {
+        "name": "Bird's-Eye View",
+        "prompt": "Bird's-Eye View mode, aerial perspective, expansive landscapes, era 2000s contemporary photography, bird's-eye view style, {prompt}, ¬characterized by aerial perspective and expansive landscapes, aerial filter.",
+        "negative_prompt": "Ground perspective, narrow scenes, non-aerial"
+    },
+    {
+        "name": "Birthday Art",
+        "prompt": "Birthday Art mode, {prompt}, ¬Creating art for birthdays, often for celebrations, gifts, or birthday themes.",
+        "negative_prompt": "funeral art, digital design"
+    },
+    {
+        "name": "Black and White Art",
+        "prompt": "Black and White Art mode, {prompt}, ¬Black and White Art, often for monochrome, contrast, or classic aesthetics.",
+        "negative_prompt": "colorful art, digital art"
+    },
+    {
+        "name": "Black and White Drawing",
+        "prompt": "Black and White Drawing mode, {prompt}, ¬characterized by monochrome sketches, contrast, or line art.",
+        "negative_prompt": "color drawing, digital art"
+    },
+    {
+        "name": "Black and White Photography",
+        "prompt": "Black and White Photography mode, high contrast, timeless elegance, era 1900s photography, black and white style, {prompt}, ¬characterized by high contrast and timeless elegance, monochrome filter.",
+        "negative_prompt": "Color photography, low contrast, vibrant colors"
+    },
+    {
+        "name": "Blackletter Calligraphy",
+        "prompt": "Blackletter Calligraphy mode, gothic scripts, intricate designs, era 1400s medieval art, blackletter style, {prompt}, ¬characterized by gothic scripts and intricate designs, gothic filter.",
+        "negative_prompt": "Modern fonts, simple designs, non-gothic"
+    },
+    {
+        "name": "Blacksmithing",
+        "prompt": "Blacksmithing mode, {prompt}, ¬Blacksmithing, often for forging, metalworking, or traditional craftsmanship.",
+        "negative_prompt": "glassblowing, digital art"
+    },
+    {
+        "name": "Blackwork Tattoo",
+        "prompt": "Blackwork Tattoo mode, {prompt}, ¬characterized by solid black ink, detailed patterns, or geometric designs.",
+        "negative_prompt": "color tattoos, digital art"
+    },
+    {
+        "name": "Blended Digital Painting",
+        "prompt": "Blended Digital Painting mode, smooth transitions, vibrant colors, era 2000s digital art, blended painting style, {prompt}, ¬characterized by smooth transitions and vibrant colors, digital filter.",
+        "negative_prompt": "Hard edges, muted colors, non-digital"
+    },
+    {
+        "name": "Blue Period",
+        "prompt": "Blue Period mode, melancholic themes, blue tones, era 1900s modern art, blue period style, {prompt}, ¬characterized by melancholic themes and blue tones, melancholic filter.",
+        "negative_prompt": "Bright colors, cheerful themes, non-blue"
+    },
+    {
+        "name": "Blue and White Porcelain",
+        "prompt": "Blue and White Porcelain mode, {prompt}, ¬characterized by traditional Chinese ceramics, intricate designs, or historical pieces.",
+        "negative_prompt": "modern ceramics, digital art"
+    },
+    {
+        "name": "Blues Music",
+        "prompt": "Blues Music mode, {prompt}, ¬Blues Music, often for emotional expression, guitar riffs, or blues themes.",
+        "negative_prompt": "pop music, digital design"
+    },
+    {
+        "name": "Body Art",
+        "prompt": "Body Art mode, {prompt}, ¬characterized by body painting, tattoos, or performance art.",
+        "negative_prompt": "canvas painting, digital art"
+    },
+    {
+        "name": "Bohemian Art",
+        "prompt": "Bohemian Art mode, free-spirited creativity, eclectic designs, era 2000s contemporary art, bohemian style, {prompt}, ¬characterized by free-spirited creativity and eclectic designs, bohemian filter.",
+        "negative_prompt": "Structured designs, formal themes, non-eclectic"
+    },
+    {
+        "name": "Bollywood Dance",
+        "prompt": "Bollywood Dance mode, {prompt}, ¬characterized by vibrant costumes, energetic moves, or cinematic flair.",
+        "negative_prompt": "ballet dance, digital design"
+    },
+    {
+        "name": "Book Illustration",
+        "prompt": "Book Illustration mode, {prompt}, ¬characterized by children's books, fantasy novels, or educational material.",
+        "negative_prompt": "technical drawing, digital art"
+    },
+    {
+        "name": "Botanical Art",
+        "prompt": "Botanical Art mode, plant illustrations, scientific accuracy, era 2000s contemporary art, botanical art style, {prompt}, ¬characterized by plant illustrations and scientific accuracy, botanical filter.",
+        "negative_prompt": "Non-plant, abstract forms, non-scientific"
+    },
+    {
+        "name": "Botanical Illustration",
+        "prompt": "Botanical Illustration mode, detailed plant studies, scientific accuracy, era 1800s scientific art, botanical style, {prompt}, ¬characterized by detailed plant studies and scientific accuracy, botanical filter.",
+        "negative_prompt": "Abstract art, non-detailed, non-scientific"
+    },
+    {
+        "name": "Bottle Art",
+        "prompt": "Bottle Art mode, {prompt}, ¬Creating art using bottles, often for recycling, decoration, or bottle painting.",
+        "negative_prompt": "canvas painting, digital art"
+    },
+    {
+        "name": "Braille Art",
+        "prompt": "Braille Art mode, {prompt}, ¬characterized by tactile art, accessibility, or visually impaired inclusivity.",
+        "negative_prompt": "visual art, digital art"
+    },
+    {
+        "name": "Brazilian Carnival",
+        "prompt": "Brazilian Carnival mode, {prompt}, ¬characterized by vibrant costumes, samba dancing, or festive atmosphere.",
+        "negative_prompt": "formal events, digital design"
+    }
+]

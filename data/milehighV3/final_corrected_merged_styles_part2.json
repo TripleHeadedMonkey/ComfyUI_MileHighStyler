@@ -1,0 +1,707 @@
+[
+    {
+        "name": "Brazilian Cuisine",
+        "prompt": "Brazilian Cuisine mode, {prompt}, ¬characterized by feijoada, pão de queijo, or tropical flavors.",
+        "negative_prompt": "European cuisine, digital design"
+    },
+    {
+        "name": "Brazilian Samba",
+        "prompt": "Brazilian Samba mode, {prompt}, ¬Brazilian Samba, often for samba dance, carnival, or Brazilian culture.",
+        "negative_prompt": "waltz, digital design"
+    },
+    {
+        "name": "Breton Stripe Fashion",
+        "prompt": "Breton Stripe Fashion mode, {prompt}, ¬characterized by nautical themes, striped patterns, or French chic.",
+        "negative_prompt": "plain patterns, digital design"
+    },
+    {
+        "name": "Bricolage Art",
+        "prompt": "Bricolage Art mode, found objects, assembled pieces, era 2000s contemporary art, bricolage style, {prompt}, ¬characterized by found objects and assembled pieces, assembled filter.",
+        "negative_prompt": "New objects, disassembled, non-found"
+    },
+    {
+        "name": "Bronze Sculpture",
+        "prompt": "Bronze Sculpture mode, {prompt}, ¬characterized by metal casting, detailed work, or classical themes.",
+        "negative_prompt": "wood sculpture, digital art"
+    },
+    {
+        "name": "Brutalist Architecture",
+        "prompt": "Brutalist Architecture mode, raw concrete, geometric forms, era 1950s modern architecture, brutalist style, {prompt}, ¬characterized by raw concrete and geometric forms, brutalist filter.",
+        "negative_prompt": "Ornate design, soft lines, non-geometric"
+    },
+    {
+        "name": "Brutalist Graphic Design",
+        "prompt": "Brutalist Graphic Design mode, bold typography, raw aesthetics, era 2000s contemporary design, brutalist style, {prompt}, ¬characterized by bold typography and raw aesthetics, bold filter.",
+        "negative_prompt": "Delicate typography, refined aesthetics, non-bold"
+    },
+    {
+        "name": "Buddhist Art",
+        "prompt": "Buddhist Art mode, {prompt}, ¬characterized by religious themes, mandalas, or serene depictions.",
+        "negative_prompt": "secular art, digital design"
+    },
+    {
+        "name": "Bullet Journal",
+        "prompt": "Bullet Journal mode, {prompt}, ¬characterized by organizational layouts, artistic designs, or personal tracking.",
+        "negative_prompt": "plain journals, digital art"
+    },
+    {
+        "name": "Busan",
+        "prompt": "Busan mode, {prompt}, ¬characterized by coastal cityscapes, South Korean culture, or beach scenes.",
+        "negative_prompt": "Tokyo, digital design"
+    },
+    {
+        "name": "Butter Sculpture",
+        "prompt": "Butter Sculpture mode, {prompt}, ¬characterized by dairy art, intricate designs, or temporary pieces.",
+        "negative_prompt": "stone sculpture, digital art"
+    },
+    {
+        "name": "Byzantine Architecture",
+        "prompt": "Byzantine Architecture mode, domes and mosaics, religious structures, era 500s medieval architecture, byzantine style, {prompt}, ¬characterized by domes and mosaics and religious structures, religious filter.",
+        "negative_prompt": "Non-domes, plain structures, non-religious"
+    },
+    {
+        "name": "Byzantine Art",
+        "prompt": "Byzantine Art mode, religious iconography, gold backgrounds, era 500s medieval art, byzantine style, {prompt}, ¬characterized by religious iconography and gold backgrounds, religious filter.",
+        "negative_prompt": "Secular themes, plain backgrounds, non-gold"
+    },
+    {
+        "name": "Cairo",
+        "prompt": "Cairo mode, {prompt}, ¬characterized by pyramids, bustling markets, or ancient Egyptian history.",
+        "negative_prompt": "Paris, digital design"
+    },
+    {
+        "name": "Calavera Art",
+        "prompt": "Calavera Art mode, skull motifs, vibrant colors, era 2000s contemporary art, calavera style, {prompt}, ¬characterized by skull motifs and vibrant colors, vibrant filter.",
+        "negative_prompt": "Non-skull motifs, muted colors, non-vibrant"
+    },
+    {
+        "name": "California Plein-Air Painting",
+        "prompt": "California Plein-Air Painting mode, vibrant landscapes, natural light, era 1900s modern art, california plein-air style, {prompt}, ¬characterized by vibrant landscapes and natural light, natural filter.",
+        "negative_prompt": "Indoor scenes, artificial light, non-vibrant"
+    },
+    {
+        "name": "Californian Scene Painting",
+        "prompt": "Californian Scene Painting mode, local landscapes, everyday life, era 1900s modern art, californian scene style, {prompt}, ¬characterized by local landscapes and everyday life, local filter.",
+        "negative_prompt": "Distant landscapes, abstract life, non-everyday"
+    },
+    {
+        "name": "Calligraphic Art",
+        "prompt": "Calligraphic Art mode, {prompt}, ¬characterized by elegant handwriting, brush strokes, or artistic lettering.",
+        "negative_prompt": "typed text, digital art"
+    },
+    {
+        "name": "Calligraphy",
+        "prompt": "Calligraphy mode, artistic lettering, fluid strokes, era 2000s contemporary art, calligraphy style, {prompt}, ¬characterized by artistic lettering and fluid strokes, fluid filter.",
+        "negative_prompt": "Plain lettering, rigid strokes, non-artistic"
+    },
+    {
+        "name": "Calligraphy (1)",
+        "prompt": "Calligraphy mode, {prompt}, ¬Calligraphy, often for artistic handwriting, elegant lettering, or traditional scripts.",
+        "negative_prompt": "typography, digital art"
+    },
+    {
+        "name": "Calligraphy Art",
+        "prompt": "Calligraphy Art mode, elegant scripts, flowing lines, era 2000s contemporary art, calligraphy style, {prompt}, ¬characterized by elegant scripts and flowing lines, elegant filter.",
+        "negative_prompt": "Blocky text, harsh lines, non-elegant"
+    },
+    {
+        "name": "Cambodian Art",
+        "prompt": "Cambodian Art mode, {prompt}, ¬characterized by Angkor Wat, traditional dance, or Khmer sculpture.",
+        "negative_prompt": "Thai art, digital design"
+    },
+    {
+        "name": "Cambridge",
+        "prompt": "Cambridge mode, {prompt}, ¬characterized by university buildings, academic atmosphere, or historic charm.",
+        "negative_prompt": "Oxford, digital design"
+    },
+    {
+        "name": "Camera Obscura",
+        "prompt": "Camera Obscura mode, pinhole photography, soft focus, era 1800s photography, camera obscura style, {prompt}, ¬characterized by pinhole photography and soft focus, soft filter.",
+        "negative_prompt": "Sharp focus, modern photography, non-pinhole"
+    },
+    {
+        "name": "Camouflage Art",
+        "prompt": "Camouflage Art mode, {prompt}, ¬characterized by blending in, military patterns, or nature mimicry.",
+        "negative_prompt": "bright colors, digital design"
+    },
+    {
+        "name": "Canadian Art",
+        "prompt": "Canadian Art mode, {prompt}, ¬characterized by Group of Seven, Inuit art, or natural landscapes.",
+        "negative_prompt": "American art, digital design"
+    },
+    {
+        "name": "Candle Making",
+        "prompt": "Candle Making mode, {prompt}, ¬characterized by wax art, scented candles, or decorative pieces.",
+        "negative_prompt": "metalwork, digital art"
+    },
+    {
+        "name": "Candy Art",
+        "prompt": "Candy Art mode, {prompt}, ¬characterized by sugar sculptures, edible creations, or colorful designs.",
+        "negative_prompt": "wood carving, digital art"
+    },
+    {
+        "name": "Canine Portraiture",
+        "prompt": "Canine Portraiture mode, {prompt}, ¬characterized by dog portraits, pet art, or realistic depictions.",
+        "negative_prompt": "feline art, digital design"
+    },
+    {
+        "name": "Cantonese Opera",
+        "prompt": "Cantonese Opera mode, {prompt}, ¬Cantonese Opera, often for traditional Chinese theater, elaborate costumes, or Cantonese culture.",
+        "negative_prompt": "Peking Opera, digital design"
+    },
+    {
+        "name": "Cape Town",
+        "prompt": "Cape Town mode, {prompt}, ¬characterized by Table Mountain, coastal views, or South African culture.",
+        "negative_prompt": "Johannesburg, digital design"
+    },
+    {
+        "name": "Caravaggio",
+        "prompt": "Caravaggio mode, dramatic lighting, intense realism, era 1600s baroque art, caravaggio style, {prompt}, ¬characterized by dramatic lighting and intense realism, chiaroscuro filter.",
+        "negative_prompt": "Soft lighting, abstract art, non-realistic"
+    },
+    {
+        "name": "Caribbean Art",
+        "prompt": "Caribbean Art mode, island culture, tropical motifs, era 2000s contemporary art, caribbean style, {prompt}, ¬characterized by island culture and tropical motifs, tropical filter.",
+        "negative_prompt": "Non-tropical, non-island, non-cultural"
+    },
+    {
+        "name": "Carnival",
+        "prompt": "Carnival mode, {prompt}, ¬Carnival, often for festive parades, colorful costumes, or street celebrations.",
+        "negative_prompt": "formal events, digital design"
+    },
+    {
+        "name": "Cartography",
+        "prompt": "Cartography mode, {prompt}, ¬characterized by map-making, geographical illustrations, or historical maps.",
+        "negative_prompt": "abstract art, digital art"
+    },
+    {
+        "name": "Cartoon Art",
+        "prompt": "Cartoon Art mode, exaggerated features, bold outlines, era 2000s contemporary art, cartoon style, {prompt}, ¬characterized by exaggerated features and bold outlines, cartoon filter.",
+        "negative_prompt": "Realistic proportions, muted colors, non-bold"
+    },
+    {
+        "name": "Cartooning",
+        "prompt": "Cartooning mode, {prompt}, ¬Cartooning, often for comic strips, animated characters, or humorous illustrations.",
+        "negative_prompt": "fine art, digital design"
+    },
+    {
+        "name": "Carving",
+        "prompt": "Carving mode, {prompt}, ¬Carving, often for wood carving, stone carving, or sculptural art.",
+        "negative_prompt": "painting, digital art"
+    },
+    {
+        "name": "Casablanca",
+        "prompt": "Casablanca mode, {prompt}, ¬characterized by Moroccan architecture, coastal views, or historic charm.",
+        "negative_prompt": "Marrakesh, digital design"
+    },
+    {
+        "name": "Cave Art",
+        "prompt": "Cave Art mode, primitive symbols, ancient techniques, era 30000 BC ancient art, cave art style, {prompt}, ¬characterized by primitive symbols and ancient techniques, primitive filter.",
+        "negative_prompt": "Modern symbols, contemporary techniques, non-primitive"
+    },
+    {
+        "name": "Cave Painting",
+        "prompt": "Cave Painting mode, {prompt}, ¬Cave Painting, often for prehistoric art, ancient symbols, or rock art.",
+        "negative_prompt": "modern art, digital design"
+    },
+    {
+        "name": "Cel Animation",
+        "prompt": "Cel Animation mode, hand-drawn frames, smooth motion, era 1900s animation, cel animation style, {prompt}, ¬characterized by hand-drawn frames and smooth motion, animated filter.",
+        "negative_prompt": "Static images, digital animation, non-hand-drawn"
+    },
+    {
+        "name": "Celtic Art",
+        "prompt": "Celtic Art mode, intricate knots, mythical themes, era 500s medieval art, celtic style, {prompt}, ¬characterized by intricate knots and mythical themes, mythical filter.",
+        "negative_prompt": "Simple designs, non-mythical, non-intricate"
+    },
+    {
+        "name": "Ceramic Art",
+        "prompt": "Ceramic Art mode, sculpted forms, glazed surfaces, era 2000s contemporary art, ceramic style, {prompt}, ¬characterized by sculpted forms and glazed surfaces, ceramic filter.",
+        "negative_prompt": "Non-sculpted, non-glazed, non-ceramic"
+    },
+    {
+        "name": "Ceramic Sculpture",
+        "prompt": "Ceramic Sculpture mode, {prompt}, ¬characterized by clay modeling, kiln-fired pieces, or detailed craftsmanship.",
+        "negative_prompt": "metal sculpture, digital art"
+    },
+    {
+        "name": "Ceramics",
+        "prompt": "Ceramics mode, {prompt}, ¬Ceramics, often for pottery, clay sculpture, or ceramic art.",
+        "negative_prompt": "metalwork, digital design"
+    },
+    {
+        "name": "Chalk Art",
+        "prompt": "Chalk Art mode, street drawings, vibrant colors, era 2000s contemporary art, chalk art style, {prompt}, ¬characterized by street drawings and vibrant colors, vibrant filter.",
+        "negative_prompt": "Indoor drawings, muted colors, non-street"
+    },
+    {
+        "name": "Chalkboard Art",
+        "prompt": "Chalkboard Art mode, {prompt}, ¬characterized by chalk drawings, lettering, or temporary art.",
+        "negative_prompt": "permanent art, digital design"
+    },
+    {
+        "name": "Chanel Fashion",
+        "prompt": "Chanel Fashion mode, {prompt}, ¬characterized by haute couture, timeless elegance, or classic design.",
+        "negative_prompt": "streetwear, digital design"
+    },
+    {
+        "name": "Charcoal Drawing",
+        "prompt": "Charcoal Drawing mode, {prompt}, ¬Charcoal Drawing, often for monochromatic art, charcoal sketches, or dramatic contrasts.",
+        "negative_prompt": "colorful art, digital design"
+    },
+    {
+        "name": "Cheerleading",
+        "prompt": "Cheerleading mode, {prompt}, ¬Cheerleading, often for cheer routines, pom-poms, or athletic performances.",
+        "negative_prompt": "gymnastics, digital design"
+    },
+    {
+        "name": "Chicano Art",
+        "prompt": "Chicano Art mode, {prompt}, ¬characterized by Mexican-American themes, cultural expression, or muralism.",
+        "negative_prompt": "mainstream art, digital design"
+    },
+    {
+        "name": "Children's Book Illustration",
+        "prompt": "Children's Book Illustration mode, whimsical characters, colorful scenes, era 2000s contemporary art, children's book illustration style, {prompt}, ¬characterized by whimsical characters and colorful scenes, whimsical filter.",
+        "negative_prompt": "Realistic characters, dull scenes, non-whimsical"
+    },
+    {
+        "name": "Chinese Architecture",
+        "prompt": "Chinese Architecture mode, pagodas and temples, intricate carvings, era 2000s contemporary architecture, chinese style, {prompt}, ¬characterized by pagodas and temples and intricate carvings, cultural filter.",
+        "negative_prompt": "Modern structures, non-intricate, non-cultural"
+    },
+    {
+        "name": "Chinese Brush Painting",
+        "prompt": "Chinese Brush Painting mode, fluid brushstrokes, natural scenes, era 2000s contemporary art, chinese brush painting style, {prompt}, ¬characterized by fluid brushstrokes and natural scenes, fluid filter.",
+        "negative_prompt": "Rigid brushstrokes, artificial scenes, non-fluid"
+    },
+    {
+        "name": "Chinese Calligraphy",
+        "prompt": "Chinese Calligraphy mode, brush strokes, traditional characters, era 2000s contemporary art, chinese calligraphy style, {prompt}, ¬characterized by brush strokes and traditional characters, calligraphy filter.",
+        "negative_prompt": "Modern fonts, non-traditional, non-calligraphy"
+    },
+    {
+        "name": "Chinese Cuisine",
+        "prompt": "Chinese Cuisine mode, {prompt}, ¬characterized by dumplings, stir-fry, or regional flavors.",
+        "negative_prompt": "Western cuisine, digital design"
+    },
+    {
+        "name": "Chinese Landscape Painting",
+        "prompt": "Chinese Landscape Painting mode, natural scenes, fluid brushstrokes, era 2000s contemporary art, chinese landscape painting style, {prompt}, ¬characterized by natural scenes and fluid brushstrokes, natural filter.",
+        "negative_prompt": "Urban scenes, rigid brushstrokes, non-natural"
+    },
+    {
+        "name": "Chinese New Year",
+        "prompt": "Chinese New Year mode, {prompt}, ¬Chinese New Year, often for lunar new year, dragon dances, or festive celebrations.",
+        "negative_prompt": "Christmas, digital design"
+    },
+    {
+        "name": "Chinese Opera",
+        "prompt": "Chinese Opera mode, {prompt}, ¬characterized by elaborate costumes, traditional music, or dramatic performances.",
+        "negative_prompt": "Western opera, digital design"
+    },
+    {
+        "name": "Chinese Painting",
+        "prompt": "Chinese Painting mode, {prompt}, ¬characterized by ink wash, landscape art, or traditional themes.",
+        "negative_prompt": "modern painting, digital design"
+    },
+    {
+        "name": "Chinese Shadow Puppetry",
+        "prompt": "Chinese Shadow Puppetry mode, {prompt}, ¬characterized by silhouette art, storytelling, or traditional performance.",
+        "negative_prompt": "Western puppetry, digital design"
+    },
+    {
+        "name": "Chinese Tea Culture",
+        "prompt": "Chinese Tea Culture mode, {prompt}, ¬characterized by tea ceremonies, cultural heritage, or traditional practices.",
+        "negative_prompt": "coffee culture, digital design"
+    },
+    {
+        "name": "Chinoiserie",
+        "prompt": "Chinoiserie mode, intricate patterns, eastern motifs, era 1700s decorative art, chinoiserie style, {prompt}, ¬characterized by intricate patterns and eastern motifs, oriental filter.",
+        "negative_prompt": "Simple designs, western motifs, non-intricate"
+    },
+    {
+        "name": "Choreography",
+        "prompt": "Choreography mode, {prompt}, ¬Choreography, often for dance routines, stage performances, or artistic movement.",
+        "negative_prompt": "improvisation, digital art"
+    },
+    {
+        "name": "Christian Art",
+        "prompt": "Christian Art mode, religious themes, biblical stories, era 1500s renaissance art, christian art style, {prompt}, ¬characterized by religious themes and biblical stories, religious filter.",
+        "negative_prompt": "Secular themes, modern stories, non-religious"
+    },
+    {
+        "name": "Chrysanthemum Festival",
+        "prompt": "Chrysanthemum Festival mode, {prompt}, ¬characterized by floral displays, cultural celebrations, or traditional Japanese themes.",
+        "negative_prompt": "rose festival, digital design"
+    },
+    {
+        "name": "Cinematic Photography",
+        "prompt": "Cinematic Photography mode, dramatic scenes, filmic quality, era 2000s contemporary photography, cinematic style, {prompt}, ¬characterized by dramatic scenes and filmic quality, cinematic filter.",
+        "negative_prompt": "Casual photography, non-dramatic, non-filmic"
+    },
+    {
+        "name": "Circus Art",
+        "prompt": "Circus Art mode, {prompt}, ¬characterized by acrobats, clowns, or vibrant performances.",
+        "negative_prompt": "ballet, digital design"
+    },
+    {
+        "name": "Cityscape Photography",
+        "prompt": "Cityscape Photography mode, {prompt}, ¬characterized by urban landscapes, night scenes, or architectural photography.",
+        "negative_prompt": "rural photography, digital art"
+    },
+    {
+        "name": "Classical Architecture",
+        "prompt": "Classical Architecture mode, grand columns, symmetrical forms, era 500s ancient architecture, classical style, {prompt}, ¬characterized by grand columns and symmetrical forms, classical filter.",
+        "negative_prompt": "Modern architecture, asymmetrical forms, non-classical"
+    },
+    {
+        "name": "Classical Ballet",
+        "prompt": "Classical Ballet mode, {prompt}, ¬characterized by tutus, pointe shoes, or traditional choreography.",
+        "negative_prompt": "contemporary dance, digital design"
+    },
+    {
+        "name": "Classical Music",
+        "prompt": "Classical Music mode, {prompt}, ¬Classical Music, often for orchestral compositions, symphonies, or classical performances.",
+        "negative_prompt": "pop music, digital design"
+    },
+    {
+        "name": "Classical Sculpture",
+        "prompt": "Classical Sculpture mode, marble statues, idealized forms, era 500s ancient art, classical sculpture style, {prompt}, ¬characterized by marble statues and idealized forms, sculptural filter.",
+        "negative_prompt": "Abstract forms, non-idealized, non-marble"
+    },
+    {
+        "name": "Clay Art",
+        "prompt": "Clay Art mode, {prompt}, ¬Clay Art, often for clay sculptures, pottery, or ceramic art.",
+        "negative_prompt": "metal art, digital design"
+    },
+    {
+        "name": "Claymation",
+        "prompt": "Claymation mode, stop-motion animation, sculpted characters, era 1900s animation, claymation style, {prompt}, ¬characterized by stop-motion animation and sculpted characters, animated filter.",
+        "negative_prompt": "Live-action, digital animation, non-sculpted"
+    },
+    {
+        "name": "Clockmaking",
+        "prompt": "Clockmaking mode, {prompt}, ¬characterized by intricate mechanisms, timepieces, or craftsmanship.",
+        "negative_prompt": "digital clocks, digital design"
+    },
+    {
+        "name": "Cloisonné",
+        "prompt": "Cloisonné mode, enamel inlays, intricate designs, era 1500s decorative art, cloisonné style, {prompt}, ¬characterized by enamel inlays and intricate designs, decorative filter.",
+        "negative_prompt": "Plain surfaces, simple designs, non-enamel"
+    },
+    {
+        "name": "Coastal Photography",
+        "prompt": "Coastal Photography mode, {prompt}, ¬characterized by beach scenes, ocean views, or maritime subjects.",
+        "negative_prompt": "urban photography, digital art"
+    },
+    {
+        "name": "Collage Art",
+        "prompt": "Collage Art mode, mixed media, layered compositions, era 2000s contemporary art, collage style, {prompt}, ¬characterized by mixed media and layered compositions, collage filter.",
+        "negative_prompt": "Single medium, flat compositions, non-layered"
+    },
+    {
+        "name": "Colonial Architecture",
+        "prompt": "Colonial Architecture mode, historic buildings, classical elements, era 1700s architecture, colonial style, {prompt}, ¬characterized by historic buildings and classical elements, colonial filter.",
+        "negative_prompt": "Modern architecture, non-historic, non-classical"
+    },
+    {
+        "name": "Comic Book Art",
+        "prompt": "Comic Book Art mode, dynamic panels, superhero themes, era 2000s contemporary art, comic book style, {prompt}, ¬characterized by dynamic panels and superhero themes, dynamic filter.",
+        "negative_prompt": "Static panels, mundane themes, non-dynamic"
+    },
+    {
+        "name": "Comic Strip Art",
+        "prompt": "Comic Strip Art mode, sequential art, humorous narratives, era 2000s contemporary art, comic strip style, {prompt}, ¬characterized by sequential art and humorous narratives, comic filter.",
+        "negative_prompt": "Single images, non-humorous, non-sequential"
+    },
+    {
+        "name": "Concept Art",
+        "prompt": "Concept Art mode, imaginative designs, world-building, era 2000s contemporary art, concept art style, {prompt}, ¬characterized by imaginative designs and world-building, imaginative filter.",
+        "negative_prompt": "Realistic designs, non-imaginative, non-world-building"
+    },
+    {
+        "name": "Conceptual Photography",
+        "prompt": "Conceptual Photography mode, {prompt}, ¬characterized by abstract ideas, thought-provoking themes, or artistic expression.",
+        "negative_prompt": "candid photography, digital art"
+    },
+    {
+        "name": "Constructivism",
+        "prompt": "Constructivism mode, abstract forms, industrial materials, era 1920s modern art, constructivism style, {prompt}, ¬characterized by abstract forms and industrial materials, industrial filter.",
+        "negative_prompt": "Natural forms, traditional materials, non-abstract"
+    },
+    {
+        "name": "Contemporary Art",
+        "prompt": "Contemporary Art mode, modern techniques, current themes, era 2000s contemporary art, contemporary art style, {prompt}, ¬characterized by modern techniques and current themes, modern filter.",
+        "negative_prompt": "Traditional techniques, outdated themes, non-modern"
+    },
+    {
+        "name": "Contemporary Dance",
+        "prompt": "Contemporary Dance mode, {prompt}, ¬characterized by modern choreography, expressive movement, or experimental styles.",
+        "negative_prompt": "classical ballet, digital design"
+    },
+    {
+        "name": "Cosplay",
+        "prompt": "Cosplay mode, {prompt}, ¬characterized by costume play, anime characters, or fan conventions.",
+        "negative_prompt": "casual wear, digital design"
+    },
+    {
+        "name": "Costume Design",
+        "prompt": "Costume Design mode, {prompt}, ¬characterized by theatrical outfits, character costumes, or film wardrobe.",
+        "negative_prompt": "everyday fashion, digital design"
+    },
+    {
+        "name": "Couture Fashion",
+        "prompt": "Couture Fashion mode, {prompt}, ¬characterized by high fashion, bespoke garments, or runway shows.",
+        "negative_prompt": "ready-to-wear, digital design"
+    },
+    {
+        "name": "Craft Beer Brewing",
+        "prompt": "Craft Beer Brewing mode, {prompt}, ¬characterized by artisanal brews, microbreweries, or hop varieties.",
+        "negative_prompt": "mass-produced beer, digital design"
+    },
+    {
+        "name": "Crafting",
+        "prompt": "Crafting mode, {prompt}, ¬Crafting, often for handmade items, DIY projects, or creative crafts.",
+        "negative_prompt": "mass production, digital art"
+    },
+    {
+        "name": "Crayon Art",
+        "prompt": "Crayon Art mode, {prompt}, ¬Crayon Art, often for colorful drawings, wax crayons, or children's art.",
+        "negative_prompt": "oil painting, digital design"
+    },
+    {
+        "name": "Creative Coding",
+        "prompt": "Creative Coding mode, {prompt}, ¬characterized by generative art, interactive media, or algorithmic design.",
+        "negative_prompt": "traditional art, digital design"
+    },
+    {
+        "name": "Creative Writing",
+        "prompt": "Creative Writing mode, {prompt}, ¬Creative Writing, often for storytelling, poetry, or fiction writing.",
+        "negative_prompt": "technical writing, digital design"
+    },
+    {
+        "name": "Crochet",
+        "prompt": "Crochet mode, {prompt}, ¬Crochet, often for yarn crafts, handmade items, or crochet patterns.",
+        "negative_prompt": "knitting, digital art"
+    },
+    {
+        "name": "Cubism",
+        "prompt": "Cubism mode, fragmented forms, multiple perspectives, era 1900s modern art, cubism style, {prompt}, ¬characterized by fragmented forms and multiple perspectives, fragmented filter.",
+        "negative_prompt": "Single perspective, continuous forms, non-fragmented"
+    },
+    {
+        "name": "Cubist Architecture",
+        "prompt": "Cubist Architecture mode, fragmented forms, geometric shapes, era 1900s modern architecture, cubist style, {prompt}, ¬characterized by fragmented forms and geometric shapes, geometric filter.",
+        "negative_prompt": "Continuous forms, non-geometric, non-fragmented"
+    },
+    {
+        "name": "Cultural Festival",
+        "prompt": "Cultural Festival mode, {prompt}, ¬characterized by traditional dances, folk music, or community celebrations.",
+        "negative_prompt": "private events, digital design"
+    },
+    {
+        "name": "Cultural Festivals",
+        "prompt": "Cultural Festivals mode, {prompt}, ¬Cultural Festivals, often for traditional celebrations, community events, or cultural heritage.",
+        "negative_prompt": "private events, digital design"
+    },
+    {
+        "name": "Cyber Art",
+        "prompt": "Cyber Art mode, digital aesthetics, futuristic themes, era 2000s contemporary art, cyber art style, {prompt}, ¬characterized by digital aesthetics and futuristic themes, futuristic filter.",
+        "negative_prompt": "Analog aesthetics, historical themes, non-digital"
+    },
+    {
+        "name": "Cyberpunk",
+        "prompt": "Cyberpunk mode, {prompt}, ¬Cyberpunk, often for futuristic themes, neon lights, or dystopian settings.",
+        "negative_prompt": "historical, digital design"
+    },
+    {
+        "name": "Cyberpunk Art",
+        "prompt": "Cyberpunk Art mode, {prompt}, ¬characterized by futuristic cityscapes, neon lights, or dystopian themes.",
+        "negative_prompt": "utopian themes, digital design"
+    },
+    {
+        "name": "Czech Glass Art",
+        "prompt": "Czech Glass Art mode, {prompt}, ¬characterized by intricate glasswork, Bohemian crystal, or traditional techniques.",
+        "negative_prompt": "plastic art, digital design"
+    },
+    {
+        "name": "Dada",
+        "prompt": "Dada mode, absurd themes, anti-art movement, era 1910s modern art, dada style, {prompt}, ¬characterized by absurd themes and anti-art movement, absurd filter.",
+        "negative_prompt": "Logical themes, traditional art, non-absurd"
+    },
+    {
+        "name": "Dada Art",
+        "prompt": "Dada Art mode, {prompt}, ¬characterized by absurdity, anti-art sentiment, or experimental techniques.",
+        "negative_prompt": "classical art, digital design"
+    },
+    {
+        "name": "Dadaism",
+        "prompt": "Dadaism mode, absurdist themes, anti-art, era 1900s modern art, dadaism style, {prompt}, ¬characterized by absurdist themes and anti-art, absurdist filter.",
+        "negative_prompt": "Logical themes, traditional art, non-absurdist"
+    },
+    {
+        "name": "Daguerreotype",
+        "prompt": "Daguerreotype mode, early photography, metallic plates, era 1800s photography, daguerreotype style, {prompt}, ¬characterized by early photography and metallic plates, vintage filter.",
+        "negative_prompt": "Modern photography, non-metallic, non-vintage"
+    },
+    {
+        "name": "Dance",
+        "prompt": "Dance mode, {prompt}, ¬Dance, often for dance performances, choreography, or expressive movement.",
+        "negative_prompt": "static art, digital design"
+    },
+    {
+        "name": "Dance Photography",
+        "prompt": "Dance Photography mode, movement capture, expressive poses, era 2000s contemporary photography, dance photography style, {prompt}, ¬characterized by movement capture and expressive poses, expressive filter.",
+        "negative_prompt": "Static capture, plain poses, non-expressive"
+    },
+    {
+        "name": "Darkroom Photography",
+        "prompt": "Darkroom Photography mode, {prompt}, ¬characterized by analog techniques, film development, or chemical processes.",
+        "negative_prompt": "digital photography, digital art"
+    },
+    {
+        "name": "Day of the Dead",
+        "prompt": "Day of the Dead mode, {prompt}, ¬characterized by sugar skulls, marigolds, or Mexican cultural traditions.",
+        "negative_prompt": "Halloween, digital design"
+    },
+    {
+        "name": "Deco Art",
+        "prompt": "Deco Art mode, geometric designs, luxury materials, era 1920s modern art, deco art style, {prompt}, ¬characterized by geometric designs and luxury materials, luxurious filter.",
+        "negative_prompt": "Organic designs, non-geometric, non-luxury"
+    },
+    {
+        "name": "Deconstructivism",
+        "prompt": "Deconstructivism mode, fragmented forms, unconventional shapes, era 1980s modern architecture, deconstructivism style, {prompt}, ¬characterized by fragmented forms and unconventional shapes, fragmented filter.",
+        "negative_prompt": "Continuous forms, conventional shapes, non-fragmented"
+    },
+    {
+        "name": "Decorative Art",
+        "prompt": "Decorative Art mode, ornamental designs, aesthetic focus, era 2000s contemporary art, decorative style, {prompt}, ¬characterized by ornamental designs and aesthetic focus, ornamental filter.",
+        "negative_prompt": "Functional designs, non-ornamental, non-aesthetic"
+    },
+    {
+        "name": "Decoupage Art",
+        "prompt": "Decoupage Art mode, {prompt}, ¬characterized by paper cutouts, layered designs, or decorative art.",
+        "negative_prompt": "painting, digital design"
+    },
+    {
+        "name": "Deep Sea Photography",
+        "prompt": "Deep Sea Photography mode, {prompt}, ¬characterized by marine life, underwater exploration, or oceanic scenes.",
+        "negative_prompt": "land photography, digital art"
+    },
+    {
+        "name": "Degenerate Art",
+        "prompt": "Degenerate Art mode, provocative themes, unconventional forms, era 1900s modern art, degenerate style, {prompt}, ¬characterized by provocative themes and unconventional forms, provocative filter.",
+        "negative_prompt": "Conventional themes, traditional forms, non-provocative"
+    },
+    {
+        "name": "Desert Photography",
+        "prompt": "Desert Photography mode, {prompt}, ¬characterized by arid landscapes, sand dunes, or vast horizons.",
+        "negative_prompt": "forest photography, digital art"
+    },
+    {
+        "name": "Digital Architecture",
+        "prompt": "Digital Architecture mode, computer-generated designs, futuristic structures, era 2000s contemporary architecture, digital architecture style, {prompt}, ¬characterized by computer-generated designs and futuristic structures, digital filter.",
+        "negative_prompt": "Hand-drawn designs, traditional structures, non-digital"
+    },
+    {
+        "name": "Digital Art",
+        "prompt": "Digital Art mode, computer-generated, vibrant visuals, era 2000s contemporary art, digital art style, {prompt}, ¬characterized by computer-generated and vibrant visuals, digital filter.",
+        "negative_prompt": "Analog art, muted visuals, non-digital"
+    },
+    {
+        "name": "Digital Collage",
+        "prompt": "Digital Collage mode, {prompt}, ¬characterized by mixed media, digital layers, or composite images.",
+        "negative_prompt": "analog collage, traditional art"
+    },
+    {
+        "name": "Digital Illustration",
+        "prompt": "Digital Illustration mode, {prompt}, ¬Digital Illustration, often for digital drawing, computer graphics, or digital painting.",
+        "negative_prompt": "traditional illustration, digital design"
+    },
+    {
+        "name": "Digital Painting",
+        "prompt": "Digital Painting mode, virtual brushstrokes, vibrant palettes, era 2000s contemporary art, digital painting style, {prompt}, ¬characterized by virtual brushstrokes and vibrant palettes, vibrant filter.",
+        "negative_prompt": "Physical brushstrokes, muted palettes, non-virtual"
+    },
+    {
+        "name": "Digital Photography",
+        "prompt": "Digital Photography mode, high-resolution images, modern techniques, era 2000s contemporary photography, digital photography style, {prompt}, ¬characterized by high-resolution images and modern techniques, high-res filter.",
+        "negative_prompt": "Low-resolution, traditional techniques, non-digital"
+    },
+    {
+        "name": "Digital Portraiture",
+        "prompt": "Digital Portraiture mode, {prompt}, ¬characterized by computer-generated portraits, digital painting, or realistic renderings.",
+        "negative_prompt": "traditional portraiture, analog art"
+    },
+    {
+        "name": "Digital Sculpting",
+        "prompt": "Digital Sculpting mode, 3D modeling, virtual tools, era 2000s contemporary art, digital sculpting style, {prompt}, ¬characterized by 3D modeling and virtual tools, virtual filter.",
+        "negative_prompt": "Physical sculpting, analog tools, non-3D"
+    },
+    {
+        "name": "Digital Sculpture",
+        "prompt": "Digital Sculpture mode, {prompt}, ¬characterized by 3D modeling, virtual sculptures, or digital fabrication.",
+        "negative_prompt": "physical sculpture, traditional art"
+    },
+    {
+        "name": "Diorama Art",
+        "prompt": "Diorama Art mode, miniature scenes, detailed settings, era 2000s contemporary art, diorama style, {prompt}, ¬characterized by miniature scenes and detailed settings, miniature filter.",
+        "negative_prompt": "Life-sized, simple settings, non-detailed"
+    },
+    {
+        "name": "Documentary Photography",
+        "prompt": "Documentary Photography mode, real-life events, journalistic approach, era 2000s contemporary photography, documentary style, {prompt}, ¬characterized by real-life events and journalistic approach, journalistic filter.",
+        "negative_prompt": "Staged events, fictional approach, non-real-life"
+    },
+    {
+        "name": "Dolomite Mountains",
+        "prompt": "Dolomite Mountains mode, {prompt}, ¬characterized by alpine landscapes, rugged peaks, or Italian scenery.",
+        "negative_prompt": "urban landscapes, digital design"
+    },
+    {
+        "name": "Doodle Art",
+        "prompt": "Doodle Art mode, spontaneous sketches, playful drawings, era 2000s contemporary art, doodle style, {prompt}, ¬characterized by spontaneous sketches and playful drawings, playful filter.",
+        "negative_prompt": "Planned sketches, serious drawings, non-playful"
+    },
+    {
+        "name": "Dot Art",
+        "prompt": "Dot Art mode, stippling technique, detailed textures, era 2000s contemporary art, dot art style, {prompt}, ¬characterized by stippling technique and detailed textures, stippling filter.",
+        "negative_prompt": "Broad strokes, plain textures, non-detailed"
+    },
+    {
+        "name": "Dot Painting",
+        "prompt": "Dot Painting mode, pointillism technique, colorful dots, era 1800s modern art, dot painting style, {prompt}, ¬characterized by pointillism technique and colorful dots, pointillism filter.",
+        "negative_prompt": "Broad strokes, monochrome, non-pointillism"
+    },
+    {
+        "name": "Drag Queen Art",
+        "prompt": "Drag Queen Art mode, {prompt}, ¬characterized by glamorous costumes, bold makeup, or performance art.",
+        "negative_prompt": "minimalist fashion, digital design"
+    },
+    {
+        "name": "Drama",
+        "prompt": "Drama mode, {prompt}, ¬Drama, often for theatrical performances, dramatic storytelling, or emotional expression.",
+        "negative_prompt": "comedy, digital design"
+    },
+    {
+        "name": "Drawing",
+        "prompt": "Drawing mode, {prompt}, ¬Drawing, often for pencil sketches, detailed illustrations, or traditional drawing techniques.",
+        "negative_prompt": "painting, digital art"
+    },
+    {
+        "name": "Dream Art",
+        "prompt": "Dream Art mode, surreal imagery, fantastical themes, era 2000s contemporary art, dream art style, {prompt}, ¬characterized by surreal imagery and fantastical themes, surreal filter.",
+        "negative_prompt": "Realistic imagery, mundane themes, non-surreal"
+    },
+    {
+        "name": "Drone Photography",
+        "prompt": "Drone Photography mode, {prompt}, ¬Drone Photography, often for aerial shots, landscape photography, or drone videography.",
+        "negative_prompt": "ground-level photography, digital art"
+    },
+    {
+        "name": "Dutch Masters",
+        "prompt": "Dutch Masters mode, {prompt}, ¬characterized by Baroque paintings, chiaroscuro, or still life.",
+        "negative_prompt": "modern art, digital design"
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Pixar Animation",
+        "prompt": "Pixar Animation style {prompt}, cutting-edge CGI animation, highly detailed and expressive characters, emotional storytelling, innovative visual effects",
+        "negative_prompt": "simple, flat, unemotional"
+    },
+    {
+        "name": "Disney Animation",
+        "prompt": "Disney Animation style {prompt}, CGI and traditional animation, vibrant and magical characters, timeless and family-friendly stories",
+        "negative_prompt": "dark, complex, adult-themed"
+    },
+    {
+        "name": "Illumination Entertainment",
+        "prompt": "Illumination Entertainment style {prompt}, 3D CGI animation, bright and colorful designs, humorous and light-hearted stories",
+        "negative_prompt": "serious, dark, realistic"
+    },
+    {
+        "name": "Sony Pictures Animation",
+        "prompt": "Sony Pictures Animation style {prompt}, CGI animation, diverse and unique character designs, engaging and fun stories",
+        "negative_prompt": "plain, boring, dark"
+    },
+    {
+        "name": "Blue Sky Studios",
+        "prompt": "Blue Sky Studios style {prompt}, CGI animation, realistic yet stylized character designs, adventurous and heartwarming stories",
+        "negative_prompt": "dark, boring, adult-themed"
+    },
+    {
+        "name": "Animal Logic",
+        "prompt": "Animal Logic style {prompt}, CGI animation, realistic yet fantastical characters, visually stunning and adventurous stories",
+        "negative_prompt": "plain, boring, simplistic"
+    },
+    {
+        "name": "Nickelodeon Movies",
+        "prompt": "Nickelodeon Movies style {prompt}, CGI animation, colorful and playful designs, humorous and family-oriented stories",
+        "negative_prompt": "dark, serious, adult-themed"
+    },
+    {
+        "name": "Warner Animation Group",
+        "prompt": "Warner Animation Group style {prompt}, CGI animation, vibrant and expressive characters, engaging and often humorous stories",
+        "negative_prompt": "plain, dark, simplistic"
+    },
+    {
+        "name": "Universal Pictures Animation",
+        "prompt": "Universal Pictures Animation style {prompt}, CGI animation, high-energy and dynamic characters, exciting and adventurous stories",
+        "negative_prompt": "simple, boring, dark"
+    },
+    {
+        "name": "Paramount Animation",
+        "prompt": "Paramount Animation style {prompt}, CGI animation, vibrant and detailed character designs, fun and engaging narratives",
+        "negative_prompt": "plain, dark, serious"
+    },
+    {
+        "name": "Illion Animation Studios",
+        "prompt": "Illion Animation Studios style {prompt}, CGI animation, highly detailed and expressive characters, emotional and adventurous storytelling",
+        "negative_prompt": "plain, boring, simplistic"
+    },
+    {
+        "name": "Reel FX Animation",
+        "prompt": "Reel FX Animation style {prompt}, CGI animation, colorful and vibrant designs, humorous and heartwarming stories",
+        "negative_prompt": "dark, serious, mundane"
+    },
+    {
+        "name": "BRON Animation",
+        "prompt": "BRON Animation style {prompt}, CGI animation, unique and stylized character designs, engaging and diverse stories",
+        "negative_prompt": "simple, dark, boring"
+    },
+    {
+        "name": "Legendary Pictures Animation",
+        "prompt": "Legendary Pictures Animation style {prompt}, CGI animation, high-quality visuals, epic and adventurous storytelling",
+        "negative_prompt": "plain, boring, simplistic"
+    },
+    {
+        "name": "Skydance Animation",
+        "prompt": "Skydance Animation style {prompt}, CGI animation, dynamic and expressive characters, action-packed and emotional narratives",
+        "negative_prompt": "dark, simple, dull"
+    }
+]

@@ -1,0 +1,472 @@
+[
+    {
+        "name": "Studio Ghibli",
+        "prompt": "Studio Ghibli style {prompt}, hand-drawn anime style, richly detailed backgrounds, whimsical and fantastical stories, deep emotional and environmental themes",
+        "negative_prompt": "plain, simple, dark"
+    },
+    {
+        "name": "Toei Animation",
+        "prompt": "Toei Animation style {prompt}, classic anime style, vibrant characters, adventurous and action-packed stories, dynamic animation, known for iconic series like Dragon Ball and Sailor Moon",
+        "negative_prompt": "plain, static, boring"
+    },
+    {
+        "name": "Kyoto Animation",
+        "prompt": "Kyoto Animation style {prompt}, detailed and expressive anime style, emotional and character-driven stories, beautiful and colorful visuals, known for works like Clannad and A Silent Voice",
+        "negative_prompt": "dull, plain, simple"
+    },
+    {
+        "name": "Madhouse",
+        "prompt": "Madhouse style {prompt}, high-quality anime style, diverse genres, fluid and dynamic animation, visually striking, famous for series like Death Note and One Punch Man",
+        "negative_prompt": "boring, simple, plain"
+    },
+    {
+        "name": "Bones",
+        "prompt": "Bones style {prompt}, stylized anime style, dynamic and action-oriented stories, detailed and expressive character designs, known for Fullmetal Alchemist and My Hero Academia",
+        "negative_prompt": "static, plain, simple"
+    },
+    {
+        "name": "Sunrise",
+        "prompt": "Sunrise style {prompt}, classic and modern anime style, mecha and sci-fi genres, detailed mechanical designs, engaging plots, creators of Gundam and Cowboy Bebop",
+        "negative_prompt": "boring, simple, static"
+    },
+    {
+        "name": "Production I.G",
+        "prompt": "Production I.G style {prompt}, high-quality anime style, futuristic and realistic themes, detailed backgrounds and characters, known for Ghost in the Shell and Haikyuu!!",
+        "negative_prompt": "plain, simple, static"
+    },
+    {
+        "name": "MAPPA",
+        "prompt": "MAPPA style {prompt}, modern anime style, intense and dramatic stories, high-quality animation, dynamic and expressive characters, creators of Attack on Titan and Jujutsu Kaisen",
+        "negative_prompt": "dull, boring, simple"
+    },
+    {
+        "name": "Trigger",
+        "prompt": "Trigger style {prompt}, vibrant and energetic anime style, bold and exaggerated designs, fast-paced and action-packed stories, known for Kill la Kill and Little Witch Academia",
+        "negative_prompt": "plain, simple, static"
+    },
+    {
+        "name": "Studio Pierrot",
+        "prompt": "Studio Pierrot style {prompt}, classic anime style, long-running series, engaging characters and stories, dynamic animation, famous for Naruto and Bleach",
+        "negative_prompt": "boring, plain, static"
+    },
+    {
+        "name": "Gonzo",
+        "prompt": "Gonzo style {prompt}, diverse anime style, high-quality visuals, engaging and varied genres, detailed and expressive characters, known for Hellsing and Afro Samurai",
+        "negative_prompt": "dull, plain, simple"
+    },
+    {
+        "name": "Gainax",
+        "prompt": "Gainax style {prompt}, innovative and experimental anime style, bold and dynamic designs, engaging and often unconventional stories, creators of Neon Genesis Evangelion and Gurren Lagann",
+        "negative_prompt": "boring, plain, static"
+    },
+    {
+        "name": "TMS Entertainment",
+        "prompt": "TMS Entertainment style {prompt}, classic and modern anime style, detailed and expressive characters, engaging and adventurous stories, known for Lupin the Third and Detective Conan",
+        "negative_prompt": "dull, boring, plain"
+    },
+    {
+        "name": "Lerche",
+        "prompt": "Lerche style {prompt}, modern anime style, high-quality visuals, diverse genres, dynamic and expressive character designs, known for Assassination Classroom and Danganronpa",
+        "negative_prompt": "plain, boring, simple"
+    },
+    {
+        "name": "CloverWorks",
+        "prompt": "CloverWorks style {prompt}, detailed and expressive anime style, emotional and character-driven stories, beautiful and vibrant visuals, known for The Promised Neverland and Wonder Egg Priority",
+        "negative_prompt": "dull, plain, static"
+    },
+    {
+        "name": "A-1 Pictures",
+        "prompt": "A-1 Pictures style {prompt}, versatile anime style, high-quality animation, diverse genres, engaging and expressive characters, known for Sword Art Online and Your Lie in April",
+        "negative_prompt": "boring, plain, static"
+    },
+    {
+        "name": "Wit Studio",
+        "prompt": "Wit Studio style {prompt}, dynamic and detailed anime style, action-packed and dramatic stories, high-quality visuals, known for Attack on Titan and Vinland Saga",
+        "negative_prompt": "plain, dull, simple"
+    },
+    {
+        "name": "J.C. Staff",
+        "prompt": "J.C. Staff style {prompt}, classic and modern anime style, diverse genres, engaging and dynamic animation, known for Food Wars! and A Certain Magical Index",
+        "negative_prompt": "boring, static, plain"
+    },
+    {
+        "name": "Shaft",
+        "prompt": "Shaft style {prompt}, unique and artistic anime style, experimental visuals, distinctive storytelling techniques, known for Monogatari Series and Puella Magi Madoka Magica",
+        "negative_prompt": "plain, simple, static"
+    },
+    {
+        "name": "P.A. Works",
+        "prompt": "P.A. Works style {prompt}, beautiful and detailed anime style, emotional and character-driven stories, vibrant visuals, known for Angel Beats! and Shirobako",
+        "negative_prompt": "dull, boring, plain"
+    },
+    {
+        "name": "Silver Link",
+        "prompt": "Silver Link style {prompt}, versatile anime style, high-quality animation, engaging and diverse stories, known for Kokoro Connect and Baka and Test",
+        "negative_prompt": "boring, plain, static"
+    },
+    {
+        "name": "White Fox",
+        "prompt": "White Fox style {prompt}, detailed and expressive anime style, dynamic and emotional stories, high-quality visuals, known for Re:Zero and Steins;Gate",
+        "negative_prompt": "dull, plain, simple"
+    },
+    {
+        "name": "Studio Deen",
+        "prompt": "Studio Deen style {prompt}, classic and modern anime style, diverse genres, engaging and dynamic animation, known for Fate/stay night and Higurashi",
+        "negative_prompt": "boring, plain, static"
+    },
+    {
+        "name": "Brain's Base",
+        "prompt": "Brain's Base style {prompt}, versatile anime style, high-quality animation, engaging and diverse stories, known for Durarara!! and My Teen Romantic Comedy SNAFU",
+        "negative_prompt": "plain, simple, boring"
+    },
+    {
+        "name": "8bit",
+        "prompt": "8bit style {prompt}, modern anime style, high-quality animation, engaging and dynamic stories, known for That Time I Got Reincarnated as a Slime and Infinite Stratos",
+        "negative_prompt": "dull, plain, static"
+    },
+    {
+        "name": "Diomedea",
+        "prompt": "Diomedea style {prompt}, detailed and expressive anime style, diverse genres, engaging and high-quality animation, known for Squid Girl and Aho Girl",
+        "negative_prompt": "plain, boring, static"
+    },
+    {
+        "name": "LIDENFILMS",
+        "prompt": "LIDENFILMS style {prompt}, versatile anime style, high-quality animation, engaging and diverse stories, known for Tokyo Revengers and The Heroic Legend of Arslan",
+        "negative_prompt": "plain, simple, boring"
+    },
+    {
+        "name": "Doga Kobo",
+        "prompt": "Doga Kobo style {prompt}, bright and colorful anime style, engaging and heartwarming stories, high-quality animation, known for Monthly Girls' Nozaki-kun and New Game!",
+        "negative_prompt": "dull, boring, dark"
+    },
+    {
+        "name": "David Production",
+        "prompt": "David Production style {prompt}, dynamic and detailed anime style, action-packed and adventurous stories, high-quality visuals, known for JoJo's Bizarre Adventure and Fire Force",
+        "negative_prompt": "plain, simple, static"
+    },
+    {
+        "name": "TROYCA",
+        "prompt": "TROYCA style {prompt}, modern anime style, high-quality animation, engaging and dynamic stories, known for Aldnoah.Zero and Re:Creators",
+        "negative_prompt": "dull, plain, boring"
+    },
+    {
+        "name": "Zero-G",
+        "prompt": "Zero-G style {prompt}, versatile anime style, high-quality animation, engaging and diverse stories, known for Grand Blue and High-Rise Invasion",
+        "negative_prompt": "plain, simple, boring"
+    },
+    {
+        "name": "Asread",
+        "prompt": "Asread style {prompt}, detailed and expressive anime style, high-quality animation, engaging and diverse stories, known for Mirai Nikki and Shuffle!",
+        "negative_prompt": "plain, dull, static"
+    },
+    {
+        "name": "Studio 3Hz",
+        "prompt": "Studio 3Hz style {prompt}, modern anime style, high-quality animation, engaging and dynamic stories, known for Princess Principal and Flip Flappers",
+        "negative_prompt": "boring, plain, static"
+    },
+    {
+        "name": "Passione",
+        "prompt": "Passione style {prompt}, detailed and expressive anime style, high-quality animation, engaging and dynamic stories, known for Citrus and Rokka: Braves of the Six Flowers",
+        "negative_prompt": "plain, dull, boring"
+    },
+    {
+        "name": "Actas",
+        "prompt": "Actas style {prompt}, dynamic and detailed anime style, action-packed and engaging stories, high-quality visuals, known for Girls und Panzer and Long Riders!",
+        "negative_prompt": "plain, simple, static"
+    },
+    {
+        "name": "Nippon Animation",
+        "prompt": "Nippon Animation style {prompt}, classic anime style, engaging and heartwarming stories, high-quality animation, known for World Masterpiece Theater series and Hunter x Hunter (1999)",
+        "negative_prompt": "dull, boring, dark"
+    },
+    {
+        "name": "Zexcs",
+        "prompt": "Zexcs style {prompt}, versatile anime style, high-quality animation, engaging and diverse stories, known for Say \"I Love You\" and Diabolik Lovers",
+        "negative_prompt": "plain, simple, boring"
+    },
+    {
+        "name": "Manglobe",
+        "prompt": "Manglobe style {prompt}, unique and stylish anime style, engaging and dynamic stories, high-quality animation, known for Samurai Champloo and Ergo Proxy",
+        "negative_prompt": "plain, dull, boring"
+    },
+    {
+        "name": "Arms",
+        "prompt": "Arms style {prompt}, detailed and expressive anime style, high-quality animation, engaging and dynamic stories, known for Elfen Lied and Queen's Blade",
+        "negative_prompt": "plain, boring, static"
+    },
+    {
+        "name": "Artland",
+        "prompt": "Artland style {prompt}, classic anime style, detailed and expressive characters, engaging and diverse stories, known for Legend of the Galactic Heroes and Mushishi",
+        "negative_prompt": "dull, plain, boring"
+    },
+    {
+        "name": "Bee Train",
+        "prompt": "Bee Train style {prompt}, unique and stylish anime style, engaging and dynamic stories, high-quality animation, known for Noir and .hack//Sign",
+        "negative_prompt": "plain, simple, static"
+    },
+    {
+        "name": "Studio Comet",
+        "prompt": "Studio Comet style {prompt}, versatile anime style, high-quality animation, engaging and diverse stories, known for School Rumble and Initial D",
+        "negative_prompt": "plain, dull, boring"
+    },
+    {
+        "name": "Seven Arcs",
+        "prompt": "Seven Arcs style {prompt}, modern anime style, high-quality animation, engaging and dynamic stories, known for Magical Girl Lyrical Nanoha and Trinity Seven",
+        "negative_prompt": "boring, plain, static"
+    },
+    {
+        "name": "Feel",
+        "prompt": "Feel style {prompt}, detailed and expressive anime style, high-quality animation, engaging and diverse stories, known for My Teen Romantic Comedy SNAFU and Kiss x Sis",
+        "negative_prompt": "plain, dull, boring"
+    },
+    {
+        "name": "Gokumi",
+        "prompt": "Gokumi style {prompt}, versatile anime style, high-quality animation, engaging and diverse stories, known for Yuki Yuna is a Hero and Tsuredure Children",
+        "negative_prompt": "plain, simple, boring"
+    },
+    {
+        "name": "Hal Film Maker",
+        "prompt": "Hal Film Maker style {prompt}, unique and artistic anime style, engaging and dynamic stories, high-quality animation, known for Aria and Sketchbook ~full color's~",
+        "negative_prompt": "plain, dull, boring"
+    },
+    {
+        "name": "Studio Hibari",
+        "prompt": "Studio Hibari style {prompt}, versatile anime style, high-quality animation, engaging and diverse stories, known for Major and Jewelpet",
+        "negative_prompt": "plain, simple, boring"
+    },
+    {
+        "name": "Imagin",
+        "prompt": "Imagin style {prompt}, unique and artistic anime style, engaging and dynamic stories, high-quality animation, known for Hellsing and Love Hina",
+        "negative_prompt": "plain, dull, boring"
+    },
+    {
+        "name": "Magic Bus",
+        "prompt": "Magic Bus style {prompt}, versatile anime style, high-quality animation, engaging and diverse stories, known for Miyuki and Kakyuusei",
+        "negative_prompt": "plain, simple, boring"
+    },
+    {
+        "name": "Millepensee",
+        "prompt": "Millepensee style {prompt}, modern anime style, high-quality animation, engaging and dynamic stories, known for Wake Up, Girls! and Berserk",
+        "negative_prompt": "dull, plain, boring"
+    },
+    {
+        "name": "Nomad",
+        "prompt": "Nomad style {prompt}, versatile anime style, high-quality animation, engaging and diverse stories, known for Rozen Maiden and Kampfer",
+        "negative_prompt": "plain, simple, boring"
+    },
+    {
+        "name": "OLM, Inc.",
+        "prompt": "OLM, Inc. style {prompt}, versatile anime style, high-quality animation, engaging and diverse stories, known for Pokémon and Inazuma Eleven",
+        "negative_prompt": "plain, simple, boring"
+    },
+    {
+        "name": "Ordet",
+        "prompt": "Ordet style {prompt}, unique and artistic anime style, engaging and dynamic stories, high-quality animation, known for Black Rock Shooter and Senyu",
+        "negative_prompt": "plain, dull, boring"
+    },
+    {
+        "name": "Pierrot Plus",
+        "prompt": "Pierrot Plus style {prompt}, modern anime style, high-quality animation, engaging and dynamic stories, known for Beelzebub and Sabagebu!",
+        "negative_prompt": "boring, plain, static"
+    },
+    {
+        "name": "Satelight",
+        "prompt": "Satelight style {prompt}, dynamic and detailed anime style, action-packed and engaging stories, high-quality visuals, known for Macross Frontier and Log Horizon",
+        "negative_prompt": "plain, simple, static"
+    },
+    {
+        "name": "Shirogumi",
+        "prompt": "Shirogumi style {prompt}, unique and artistic anime style, engaging and dynamic stories, high-quality animation, known for Etotama and Moyashimon",
+        "negative_prompt": "plain, dull, boring"
+    },
+    {
+        "name": "Studio Colorido",
+        "prompt": "Studio Colorido style {prompt}, modern anime style, high-quality animation, engaging and dynamic stories, known for Penguin Highway and A Whisker Away",
+        "negative_prompt": "boring, plain, static"
+    },
+    {
+        "name": "Studio Fantasia",
+        "prompt": "Studio Fantasia style {prompt}, versatile anime style, high-quality animation, engaging and diverse stories, known for Stratos 4 and Najica Blitz Tactics",
+        "negative_prompt": "plain, simple, boring"
+    },
+    {
+        "name": "Studio Nue",
+        "prompt": "Studio Nue style {prompt}, classic anime style, detailed and expressive characters, engaging and diverse stories, known for Macross and Crusher Joe",
+        "negative_prompt": "dull, plain, boring"
+    },
+    {
+        "name": "Studio VOLN",
+        "prompt": "Studio VOLN style {prompt}, modern anime style, high-quality animation, engaging and dynamic stories, known for Ushio & Tora and Karakuri Circus",
+        "negative_prompt": "boring, plain, static"
+    },
+    {
+        "name": "Tatsunoko Production",
+        "prompt": "Tatsunoko Production style {prompt}, classic and modern anime style, detailed and expressive characters, engaging and adventurous stories, known for Speed Racer and Gatchaman",
+        "negative_prompt": "dull, boring, plain"
+    },
+    {
+        "name": "Tezuka Productions",
+        "prompt": "Tezuka Productions style {prompt}, classic anime style, engaging and heartwarming stories, high-quality animation, known for Astro Boy and Black Jack",
+        "negative_prompt": "dull, boring, dark"
+    },
+    {
+        "name": "TNK",
+        "prompt": "TNK style {prompt}, versatile anime style, high-quality animation, engaging and diverse stories, known for High School DxD and School Days",
+        "negative_prompt": "plain, simple, boring"
+    },
+    {
+        "name": "Toho Animation",
+        "prompt": "Toho Animation style {prompt}, dynamic and detailed anime style, action-packed and engaging stories, high-quality visuals, known for My Hero Academia and Attack on Titan",
+        "negative_prompt": "plain, simple, static"
+    },
+    {
+        "name": "Yumeta Company",
+        "prompt": "Yumeta Company style {prompt}, versatile anime style, high-quality animation, engaging and diverse stories, known for KimiKiss: Pure Rouge and Uta no Prince-sama",
+        "negative_prompt": "plain, simple, boring"
+    },
+    {
+        "name": "Xebec",
+        "prompt": "Xebec style {prompt}, versatile anime style, high-quality animation, engaging and diverse stories, known for Love Hina and To Love-Ru",
+        "negative_prompt": "plain, simple, boring"
+    },
+    {
+        "name": "Yamato Works",
+        "prompt": "Yamato Works style {prompt}, modern anime style, high-quality animation, engaging and dynamic stories, known for She and Her Cat and Fumikiri Jikan",
+        "negative_prompt": "boring, plain, static"
+    },
+    {
+        "name": "Seven",
+        "prompt": "Seven style {prompt}, detailed and expressive anime style, high-quality animation, engaging and dynamic stories, known for Ai Mai Mi and My Wife is the Student Council President",
+        "negative_prompt": "plain, dull, boring"
+    },
+    {
+        "name": "Revoroot",
+        "prompt": "Revoroot style {prompt}, versatile anime style, high-quality animation, engaging and diverse stories, known for FLCL Alternative and Babylon",
+        "negative_prompt": "plain, simple, boring"
+    },
+    {
+        "name": "Pine Jam",
+        "prompt": "Pine Jam style {prompt}, modern anime style, high-quality animation, engaging and dynamic stories, known for Just Because! and Gamers!",
+        "negative_prompt": "dull, plain, boring"
+    },
+    {
+        "name": "Orange",
+        "prompt": "Orange style {prompt}, innovative and high-quality anime style, engaging and dynamic stories, detailed and expressive characters, known for Land of the Lustrous and Beastars",
+        "negative_prompt": "plain, simple, boring"
+    },
+    {
+        "name": "Lay-duce",
+        "prompt": "Lay-duce style {prompt}, modern anime style, high-quality animation, engaging and dynamic stories, known for Classroom☆Crisis and Magi: Adventure of Sinbad",
+        "negative_prompt": "boring, plain, static"
+    },
+    {
+        "name": "Kinema Citrus",
+        "prompt": "Kinema Citrus style {prompt}, detailed and expressive anime style, high-quality animation, engaging and diverse stories, known for Made in Abyss and The Rising of the Shield Hero",
+        "negative_prompt": "plain, dull, boring"
+    },
+    {
+        "name": "GoHands",
+        "prompt": "GoHands style {prompt}, unique and artistic anime style, engaging and dynamic stories, high-quality animation, known for K and Hand Shakers",
+        "negative_prompt": "plain, dull, boring"
+    },
+    {
+        "name": "Studio Khara",
+        "prompt": "Studio Khara style {prompt}, innovative and high-quality anime style, engaging and dynamic stories, detailed and expressive characters, known for Rebuild of Evangelion",
+        "negative_prompt": "plain, simple, boring"
+    },
+    {
+        "name": "Science SARU",
+        "prompt": "Science SARU style {prompt}, modern anime style, high-quality animation, engaging and dynamic stories, known for Devilman Crybaby and Keep Your Hands Off Eizouken!",
+        "negative_prompt": "boring, plain, static"
+    },
+    {
+        "name": "Polygon Pictures",
+        "prompt": "Polygon Pictures style {prompt}, unique and artistic anime style, engaging and dynamic stories, high-quality animation, known for Ajin and Knights of Sidonia",
+        "negative_prompt": "plain, dull, boring"
+    },
+    {
+        "name": "Platinum Vision",
+        "prompt": "Platinum Vision style {prompt}, versatile anime style, high-quality animation, engaging and diverse stories, known for Servamp and Kono Oto Tomare!",
+        "negative_prompt": "plain, simple, boring"
+    },
+    {
+        "name": "A.C.G.T",
+        "prompt": "A.C.G.T style {prompt}, versatile anime style, high-quality animation, engaging and diverse stories, known for Koi Kaze and Freezing",
+        "negative_prompt": "plain, simple, boring"
+    },
+    {
+        "name": "Encourage Films",
+        "prompt": "Encourage Films style {prompt}, versatile anime style, high-quality animation, engaging and diverse stories, known for Etotama and Isekai Cheat Magician",
+        "negative_prompt": "plain, simple, boring"
+    },
+    {
+        "name": "ENGI",
+        "prompt": "ENGI style {prompt}, modern anime style, high-quality animation, engaging and dynamic stories, known for Uzaki-chan Wants to Hang Out! and Kemono Michi: Rise Up",
+        "negative_prompt": "dull, plain, boring"
+    },
+    {
+        "name": "Feel",
+        "prompt": "Feel style {prompt}, detailed and expressive anime style, high-quality animation, engaging and diverse stories, known for My Teen Romantic Comedy SNAFU and Kiss x Sis",
+        "negative_prompt": "plain, dull, boring"
+    },
+    {
+        "name": "Graphinica",
+        "prompt": "Graphinica style {prompt}, modern anime style, high-quality animation, engaging and dynamic stories, known for Juni Taisen and Hello World",
+        "negative_prompt": "boring, plain, static"
+    },
+    {
+        "name": "ILCA",
+        "prompt": "ILCA style {prompt}, unique and artistic anime style, engaging and dynamic stories, high-quality animation, known for Yamishibai and Sekai no Yami Zukan",
+        "negative_prompt": "plain, dull, boring"
+    },
+    {
+        "name": "J.C. Staff",
+        "prompt": "J.C. Staff style {prompt}, classic and modern anime style, diverse genres, engaging and dynamic animation, known for Food Wars! and A Certain Magical Index",
+        "negative_prompt": "boring, static, plain"
+    },
+    {
+        "name": "M.S.C",
+        "prompt": "M.S.C style {prompt}, versatile anime style, high-quality animation, engaging and diverse stories, known for Prince of Tennis and Jewelpet Twinkle☆",
+        "negative_prompt": "plain, simple, boring"
+    },
+    {
+        "name": "Madhouse",
+        "prompt": "Madhouse style {prompt}, high-quality anime style, diverse genres, fluid and dynamic animation, visually striking, famous for series like Death Note and One Punch Man",
+        "negative_prompt": "boring, simple, plain"
+    },
+    {
+        "name": "Manglobe",
+        "prompt": "Manglobe style {prompt}, unique and stylish anime style, engaging and dynamic stories, high-quality animation, known for Samurai Champloo and Ergo Proxy",
+        "negative_prompt": "plain, dull, boring"
+    },
+    {
+        "name": "Marza Animation Planet",
+        "prompt": "Marza Animation Planet style {prompt}, innovative CGI anime style, engaging and dynamic stories, high-quality visuals, known for Space Pirate Captain Harlock and Sonic the Hedgehog",
+        "negative_prompt": "plain, simple, boring"
+    },
+    {
+        "name": "Nexus",
+        "prompt": "Nexus style {prompt}, modern anime style, high-quality animation, engaging and dynamic stories, known for Comic Girls and Granbelm",
+        "negative_prompt": "dull, plain, boring"
+    },
+    {
+        "name": "Production IMS",
+        "prompt": "Production IMS style {prompt}, versatile anime style, high-quality animation, engaging and diverse stories, known for The Testament of Sister New Devil and Date A Live II",
+        "negative_prompt": "plain, simple, boring"
+    },
+    {
+        "name": "Seven Arcs",
+        "prompt": "Seven Arcs style {prompt}, modern anime style, high-quality animation, engaging and dynamic stories, known for Magical Girl Lyrical Nanoha and Trinity Seven",
+        "negative_prompt": "boring, plain, static"
+    },
+    {
+        "name": "Shuka",
+        "prompt": "Shuka style {prompt}, detailed and expressive anime style, high-quality animation, engaging and dynamic stories, known for Durarara!!x2 and 91 Days",
+        "negative_prompt": "plain, dull, boring"
+    },
+    {
+        "name": "Signal.MD",
+        "prompt": "Signal.MD style {prompt}, modern anime style, high-quality animation, engaging and dynamic stories, known for Recovery of an MMO Junkie and FLCL Progressive",
+        "negative_prompt": "dull, plain, boring"
+    }
+]
