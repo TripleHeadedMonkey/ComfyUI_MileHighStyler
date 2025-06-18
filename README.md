@@ -1,9 +1,5 @@
 https://youtu.be/WBHI-2uww7o?si=dijvDaUI4nmx4VkF
 
-Absolutely! Here’s a **clear, user-friendly README.md** for your `MileHighStyler` node package.
-
----
-
 # MileHighStyler for ComfyUI
 
 **MileHighStyler** is a highly flexible custom node for [ComfyUI](https://github.com/comfyanonymous/ComfyUI) that lets you combine powerful style templates with your own prompt—using precise control over placement, weighting, and offsets.
