@@ -1,0 +1,9 @@
+{
+    "Perfection alpha Styler": [
+        "camera", "composition", "depth", "environment", "filter",
+        "focus", "lighting", "mood", "subject", "theme", "timeofday"
+    ],
+    "Perfection beta Styler": [
+        "filter_options" , "unique_identifier", "subject_count", "Fashion", "era", "mode"     
+    ]
+}
