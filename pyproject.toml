@@ -1,0 +1,14 @@
+[project]
+name = "comfyui_milehighstyler"
+description = "This extension provides various SDXL Prompt Stylers. See: [a/youtube](https://youtu.be/WBHI-2uww7o?si=dijvDaUI4nmx4VkF)"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/TripleHeadedMonkey/ComfyUI_MileHighStyler"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI_MileHighStyler"
+Icon = ""
